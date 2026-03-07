@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="台股費波那契">
+<title>台股費波那契工具</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=Share+Tech+Mono&display=swap');
+  :root {
+    --bg:#0a0e1a;--panel:#0f1628;--border:#1e2d4a;--accent:#00d4ff;
+    --accent2:#ff6b35;--up:#ef5350;--down:#26a69a;--yellow:#ffd700;
+    --text:#c8d8f0;--text-dim:#5a7a9a;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{background:var(--bg);color:var(--text);font-family:'Noto Sans TC',sans-serif;min-height:100vh;}
+  body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(0,212,255,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(0,212,255,0.03) 1px,transparent 1px);background-size:40px 40px;pointer-events:none;z-index:0;}
+  .container{max-width:900px;margin:0 auto;padding:16px 14px 40px;position:relative;z-index:1;}
+
+  header{display:flex;align-items:center;gap:12px;margin-bottom:20px;padding-bottom:14px;border-bottom:1px solid var(--border);}
+  .logo{width:40px;height:40px;background:linear-gradient(135deg,var(--accent),#0066ff);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:18px;box-shadow:0 0 16px rgba(0,212,255,0.3);flex-shrink:0;}
+  h1{font-size:17px;font-weight:700;color:#fff;letter-spacing:1px;}
+  .subtitle{font-size:10px;color:var(--text-dim);font-family:'Share Tech Mono',monospace;margin-top:2px;}
+  .updated-badge{margin-left:auto;font-size:10px;font-family:'Share Tech Mono',monospace;color:var(--down);background:rgba(38,166,154,0.1);border:1px solid rgba(38,166,154,0.2);padding:4px 10px;border-radius:20px;white-space:nowrap;}
+
+  .tabs{display:flex;gap:8px;margin-bottom:16px;}
+  .tab{flex:1;padding:9px;border:1px solid var(--border);border-radius:10px;background:transparent;color:var(--text-dim);font-size:13px;font-family:'Noto Sans TC',sans-serif;cursor:pointer;transition:all 0.2s;text-align:center;}
+  .tab.active{background:rgba(0,212,255,0.1);border-color:var(--accent);color:var(--accent);}
+  .tab-content{display:none;}.tab-content.active{display:block;}
+
+  .panel{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:16px;margin-bottom:14px;}
+  .panel-title{font-size:10px;font-family:'Share Tech Mono',monospace;color:var(--accent);letter-spacing:2px;margin-bottom:14px;text-transform:uppercase;}
+
+  .input-row{display:flex;gap:8px;}
+  input[type="text"],input[type="number"]{background:rgba(255,255,255,0.04);border:1px solid var(--border);border-radius:8px;padding:10px 14px;color:var(--text);font-size:15px;font-family:'Share Tech Mono',monospace;outline:none;transition:border-color 0.2s;width:100%;}
+  input:focus{border-color:var(--accent);}
+
+  .btn{padding:10px 20px;border:none;border-radius:8px;font-size:14px;font-weight:700;cursor:pointer;transition:opacity 0.2s;white-space:nowrap;font-family:'Noto Sans TC',sans-serif;}
+  .btn-primary{background:linear-gradient(135deg,var(--accent),#0066ff);color:#fff;box-shadow:0 4px 16px rgba(0,212,255,0.2);}
+  .btn-primary:hover{opacity:0.9;}
+  .btn-primary:disabled{opacity:0.4;cursor:not-allowed;}
+  .btn-full{width:100%;margin-top:14px;padding:12px;font-size:14px;}
+
+  .field{margin-bottom:12px;}
+  label.field-label{display:block;font-size:10px;color:var(--text-dim);letter-spacing:1px;margin-bottom:5px;text-transform:uppercase;}
+  .filters-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+  .fib-checks{display:flex;gap:7px;flex-wrap:wrap;margin-top:5px;}
+  .fib-btn{padding:4px 11px;border-radius:20px;border:1px solid var(--border);font-size:11px;font-family:'Share Tech Mono',monospace;color:var(--text-dim);background:transparent;cursor:pointer;transition:all 0.2s;user-select:none;}
+  .fib-btn.on{background:rgba(0,212,255,0.12);border-color:var(--accent);color:var(--accent);}
+  .toggle-row{display:flex;align-items:center;justify-content:space-between;padding:9px 0;border-bottom:1px solid rgba(255,255,255,0.04);font-size:13px;}
+  .toggle{position:relative;width:40px;height:22px;flex-shrink:0;}
+  .toggle input{display:none;}
+  .toggle-slider{position:absolute;inset:0;background:var(--border);border-radius:11px;cursor:pointer;transition:background 0.3s;}
+  .toggle-slider::after{content:'';position:absolute;width:16px;height:16px;background:#fff;border-radius:50%;top:3px;left:3px;transition:transform 0.3s;}
+  .toggle input:checked+.toggle-slider{background:var(--accent);}
+  .toggle input:checked+.toggle-slider::after{transform:translateX(18px);}
+
+  .loading{display:none;text-align:center;padding:32px;}
+  .loading.show{display:block;}
+  .loading-bars{display:flex;justify-content:center;gap:4px;margin-bottom:12px;}
+  .bar{width:4px;height:26px;background:var(--accent);border-radius:2px;animation:bar-dance 1s ease-in-out infinite;}
+  .bar:nth-child(2){animation-delay:.1s}.bar:nth-child(3){animation-delay:.2s}.bar:nth-child(4){animation-delay:.3s}.bar:nth-child(5){animation-delay:.4s}
+  @keyframes bar-dance{0%,100%{transform:scaleY(0.4);opacity:0.4}50%{transform:scaleY(1);opacity:1}}
+  .loading-text{font-family:'Share Tech Mono',monospace;font-size:11px;color:var(--accent);letter-spacing:2px;}
+
+  .stock-header{display:none;background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:14px 16px;margin-bottom:10px;animation:fadeIn 0.3s ease;}
+  .stock-header.show{display:flex;align-items:center;gap:16px;flex-wrap:wrap;}
+  @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+  .sh-code{font-family:'Share Tech Mono',monospace;font-size:24px;font-weight:700;color:#fff;}
+  .sh-name{font-size:13px;color:var(--text-dim);}
+  .sh-price{font-family:'Share Tech Mono',monospace;font-size:26px;font-weight:700;color:#fff;margin-left:auto;}
+  .sh-change{font-family:'Share Tech Mono',monospace;font-size:13px;}
+  .up{color:var(--up);}.down{color:var(--down);}
+
+  .chart-wrap{display:none;background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:14px;margin-bottom:10px;animation:fadeIn 0.3s ease;}
+  .chart-wrap.show{display:block;}
+  .chart-title{font-size:10px;font-family:'Share Tech Mono',monospace;color:var(--text-dim);letter-spacing:1px;margin-bottom:10px;text-transform:uppercase;}
+  canvas{display:block;width:100%;border-radius:6px;}
+
+  .fib-legend{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px;}
+  .fib-legend-item{display:flex;align-items:center;gap:5px;font-size:11px;font-family:'Share Tech Mono',monospace;}
+  .fib-legend-line{width:24px;height:2px;border-radius:1px;}
+  .fib-legend-val{color:var(--text-dim);}
+  .fib-legend-price{color:var(--text);}
+
+  .analysis-box{display:none;background:rgba(0,212,255,0.04);border:1px solid rgba(0,212,255,0.12);border-radius:10px;padding:12px 14px;margin-bottom:10px;font-size:13px;line-height:1.8;color:var(--text);}
+  .analysis-box.show{display:block;}
+
+  .stats-row{display:none;background:var(--panel);border:1px solid var(--border);border-radius:14px;overflow:hidden;margin-bottom:10px;}
+  .stats-row.show{display:grid;grid-template-columns:repeat(4,1fr);}
+  .stat-item{padding:12px 14px;text-align:center;border-right:1px solid var(--border);}
+  .stat-item:last-child{border-right:none;}
+  .stat-label{font-size:9px;color:var(--text-dim);letter-spacing:1px;margin-bottom:4px;text-transform:uppercase;}
+  .stat-val{font-family:'Share Tech Mono',monospace;font-size:14px;color:#fff;font-weight:700;}
+
+  .error-msg{display:none;padding:12px 14px;background:rgba(239,83,80,0.08);border:1px solid rgba(239,83,80,0.2);border-radius:10px;font-size:13px;color:var(--up);margin-top:10px;}
+  .error-msg.show{display:block;}
+
+  .screener-results{display:none;}.screener-results.show{display:block;}
+  .results-meta{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;}
+  .results-label{font-size:10px;font-family:'Share Tech Mono',monospace;color:var(--accent);letter-spacing:2px;text-transform:uppercase;}
+  .results-count{font-size:11px;font-family:'Share Tech Mono',monospace;color:var(--text-dim);}
+  .results-count span{color:var(--yellow);}
+  .screener-card{background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:13px 15px;margin-bottom:9px;display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;animation:fadeIn 0.3s ease forwards;opacity:0;cursor:pointer;transition:border-color 0.2s;}
+  .screener-card:hover{border-color:rgba(0,212,255,0.3);}
+  .sc-code{font-family:'Share Tech Mono',monospace;font-size:16px;font-weight:700;color:#fff;}
+  .sc-name{font-size:12px;color:var(--text);margin-bottom:3px;}
+  .sc-tags{display:flex;gap:5px;flex-wrap:wrap;}
+  .tag{font-size:10px;font-family:'Share Tech Mono',monospace;padding:2px 7px;border-radius:8px;}
+  .tag-fib{background:rgba(0,212,255,0.1);border:1px solid rgba(0,212,255,0.2);color:var(--accent);}
+  .tag-kd{background:rgba(239,83,80,0.1);border:1px solid rgba(239,83,80,0.2);color:var(--up);}
+  .tag-none{background:rgba(90,122,154,0.1);border:1px solid rgba(90,122,154,0.2);color:var(--text-dim);}
+  .sc-price{text-align:right;}
+  .sc-price-val{font-family:'Share Tech Mono',monospace;font-size:17px;color:#fff;font-weight:700;}
+  .sc-change{font-family:'Share Tech Mono',monospace;font-size:11px;margin-top:2px;}
+  .disclaimer{margin-top:14px;padding:11px 14px;background:rgba(255,107,53,0.06);border:1px solid rgba(255,107,53,0.15);border-radius:10px;font-size:10px;color:var(--text-dim);line-height:1.7;}
+  .disclaimer strong{color:var(--accent2);}
+  .no-data{text-align:center;padding:32px;color:var(--text-dim);font-size:14px;}
+  @media(max-width:480px){.filters-grid{grid-template-columns:1fr;}.stats-row.show{grid-template-columns:repeat(2,1fr);}}
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <div class="logo">📈</div>
+    <div>
+      <h1>台股費波那契工具</h1>
+      <div class="subtitle">REAL DATA · FINMIND · GITHUB PAGES</div>
+    </div>
+    <div class="updated-badge" id="updatedBadge">載入中...</div>
+  </header>
+
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('lookup')">🕯 K線查詢</button>
+    <button class="tab" onclick="switchTab('screener')">📊 篩選器</button>
+  </div>
+
+  <!-- TAB 1 -->
+  <div class="tab-content active" id="tab-lookup">
+    <div class="panel">
+      <div class="panel-title">▸ 輸入股票代碼</div>
+      <div class="input-row">
+        <input type="text" id="stockCode" placeholder="例：2330、1583、2454" maxlength="6"
+          onkeydown="if(event.key==='Enter') lookupStock()">
+        <button class="btn btn-primary" onclick="lookupStock()" id="lookupBtn">查詢</button>
+      </div>
+    </div>
+    <div class="error-msg" id="lookupError"></div>
+    <div class="stock-header" id="stockHeader">
+      <div>
+        <div class="sh-code" id="sh-code"></div>
+        <div class="sh-name" id="sh-name"></div>
+      </div>
+      <div style="margin-left:auto;text-align:right;">
+        <div class="sh-price" id="sh-price"></div>
+        <div class="sh-change" id="sh-change"></div>
+      </div>
+    </div>
+    <div class="analysis-box" id="analysisBox"></div>
+    <div class="chart-wrap" id="chartWrap">
+      <div class="chart-title">K線圖 + 費波那契回撤線（近30日真實資料）</div>
+      <canvas id="klineChart"></canvas>
+      <div class="fib-legend" id="fibLegend"></div>
+    </div>
+    <div class="stats-row" id="statsRow">
+      <div class="stat-item"><div class="stat-label">波段高點</div><div class="stat-val" id="st-high"></div></div>
+      <div class="stat-item"><div class="stat-label">波段低點</div><div class="stat-val" id="st-low"></div></div>
+      <div class="stat-item"><div class="stat-label">目前回撤</div><div class="stat-val" id="st-retrace"></div></div>
+      <div class="stat-item"><div class="stat-label">KD 值</div><div class="stat-val" id="st-kd"></div></div>
+    </div>
+  </div>
+
+  <!-- TAB 2 -->
+  <div class="tab-content" id="tab-screener">
+    <div class="panel">
+      <div class="panel-title">▸ 篩選條件</div>
+      <div class="filters-grid">
+        <div class="field">
+          <label class="field-label">股價下限（元）</label>
+          <input type="number" id="s-minPrice" value="10">
+        </div>
+        <div class="field">
+          <label class="field-label">股價上限（元）</label>
+          <input type="number" id="s-maxPrice" value="200">
+        </div>
+      </div>
+      <div class="field">
+        <label class="field-label">費波那契位置</label>
+        <div class="fib-checks" id="fibChecks">
+          <span class="fib-btn on" data-val="0.236" onclick="toggleFib(this)">0.236</span>
+          <span class="fib-btn on" data-val="0.382" onclick="toggleFib(this)">0.382</span>
+          <span class="fib-btn on" data-val="0.5"   onclick="toggleFib(this)">0.500</span>
+          <span class="fib-btn on" data-val="0.618" onclick="toggleFib(this)">0.618</span>
+          <span class="fib-btn on" data-val="0.786" onclick="toggleFib(this)">0.786</span>
+        </div>
+      </div>
+      <div class="toggle-row">
+        <span>加入 KD 低檔確認（KD &lt; 30）</span>
+        <label class="toggle">
+          <input type="checkbox" id="s-useKD" checked>
+          <span class="toggle-slider"></span>
+        </label>
+      </div>
+      <button class="btn btn-primary btn-full" onclick="runScreener()">🔍 開始篩選</button>
+    </div>
+    <div class="screener-results" id="screenerResults">
+      <div class="results-meta">
+        <div class="results-label">▸ 篩選結果</div>
+        <div class="results-count">找到 <span id="s-count">0</span> 支</div>
+      </div>
+      <div id="s-list"></div>
+      <div class="disclaimer">
+        <strong>⚠ 免責聲明：</strong>資料來自 FinMind，每日收盤後自動更新，僅供參考，不構成投資建議。投資有風險，請自行判斷。
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const FIB_COLORS = {'0':'#888','0.236':'#e91e63','0.382':'#ff9800','0.5':'#ffeb3b','0.618':'#4caf50','0.786':'#2196f3','1':'#888'};
+let stocksData = {};
+
+// 載入資料
+async function loadData() {
+  try {
+    const res = await fetch('data/stocks.json?t=' + Date.now());
+    const json = await res.json();
+    stocksData = json.stocks || {};
+    const badge = document.getElementById('updatedBadge');
+    badge.textContent = json.updated ? '更新：' + json.updated : '資料載入完成';
+  } catch(e) {
+    document.getElementById('updatedBadge').textContent = '資料載入失敗';
+  }
+}
+
+function switchTab(tab) {
+  document.querySelectorAll('.tab').forEach((t,i) => t.classList.toggle('active', ['lookup','screener'][i] === tab));
+  document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+  document.getElementById('tab-' + tab).classList.add('active');
+}
+
+function toggleFib(el) { el.classList.toggle('on'); }
+
+function drawChart(canvas, candles, fibLevels, currentPrice) {
+  const dpr = window.devicePixelRatio || 1;
+  const W = canvas.parentElement.clientWidth - 28;
+  const H = Math.min(300, Math.max(200, window.innerHeight * 0.35));
+  canvas.width = W * dpr; canvas.height = H * dpr;
+  canvas.style.width = W + 'px'; canvas.style.height = H + 'px';
+  const ctx = canvas.getContext('2d');
+  ctx.scale(dpr, dpr);
+  const PAD = {top:20, right:58, bottom:28, left:8};
+  const cW = W - PAD.left - PAD.right;
+  const cH = H - PAD.top - PAD.bottom;
+  const allP = candles.flatMap(c => [c.high, c.low]).concat(fibLevels.map(f => f.price));
+  const minP = Math.min(...allP) * 0.998;
+  const maxP = Math.max(...allP) * 1.002;
+  const rng = maxP - minP;
+  const toY = p => PAD.top + cH - ((p - minP) / rng) * cH;
+  const kw = Math.max(3, Math.floor(cW / candles.length * 0.6));
+
+  ctx.fillStyle = '#0a0e1a';
+  ctx.fillRect(0, 0, W, H);
+
+  // grid
+  for (let i = 0; i <= 4; i++) {
+    const y = PAD.top + (cH / 4) * i;
+    ctx.strokeStyle = 'rgba(255,255,255,0.04)'; ctx.lineWidth = 1;
+    ctx.beginPath(); ctx.moveTo(PAD.left, y); ctx.lineTo(W - PAD.right, y); ctx.stroke();
+    ctx.fillStyle = '#5a7a9a'; ctx.font = "9px 'Share Tech Mono',monospace"; ctx.textAlign = 'left';
+    ctx.fillText((maxP - rng / 4 * i).toFixed(1), W - PAD.right + 3, y + 3);
+  }
+
+  // fib lines
+  fibLevels.forEach(f => {
+    const y = toY(f.price);
+    const color = FIB_COLORS[String(f.ratio)] || '#aaa';
+    ctx.save();
+    ctx.strokeStyle = color; ctx.lineWidth = 1.5;
+    ctx.setLineDash(f.ratio === 0 || f.ratio === 1 ? [4,4] : [6,3]);
+    ctx.globalAlpha = 0.65;
+    ctx.beginPath(); ctx.moveTo(PAD.left, y); ctx.lineTo(W - PAD.right, y); ctx.stroke();
+    ctx.restore();
+    ctx.fillStyle = color; ctx.font = "bold 9px 'Share Tech Mono',monospace"; ctx.textAlign = 'left';
+    ctx.fillText(f.ratio === 0 ? '高' : f.ratio === 1 ? '低' : f.ratio.toFixed(3), W - PAD.right + 3, y - 2);
+  });
+
+  // candles
+  candles.forEach((c, i) => {
+    const x = PAD.left + (i / candles.length) * cW + cW / candles.length / 2;
+    const isUp = c.close >= c.open;
+    const color = isUp ? '#ef5350' : '#26a69a';
+    const bTop = toY(Math.max(c.open, c.close));
+    const bBot = toY(Math.min(c.open, c.close));
+    const bH = Math.max(1, bBot - bTop);
+    ctx.strokeStyle = color; ctx.lineWidth = 1;
+    ctx.beginPath(); ctx.moveTo(x, toY(c.high)); ctx.lineTo(x, toY(c.low)); ctx.stroke();
+    ctx.fillStyle = color;
+    ctx.fillRect(x - kw / 2, bTop, kw, bH);
+  });
+
+  // current price line
+  const cy = toY(currentPrice);
+  ctx.save(); ctx.strokeStyle = '#00d4ff'; ctx.lineWidth = 1.5; ctx.setLineDash([3,3]); ctx.globalAlpha = 0.9;
+  ctx.beginPath(); ctx.moveTo(PAD.left, cy); ctx.lineTo(W - PAD.right, cy); ctx.stroke(); ctx.restore();
+  ctx.fillStyle = '#00d4ff';
+  ctx.fillRect(W - PAD.right + 1, cy - 8, PAD.right - 3, 16);
+  ctx.fillStyle = '#0a0e1a'; ctx.font = "bold 9px 'Share Tech Mono',monospace"; ctx.textAlign = 'center';
+  ctx.fillText(currentPrice.toFixed(1), W - PAD.right + (PAD.right - 3) / 2 + 1, cy + 3);
+
+  // date labels
+  ctx.fillStyle = '#5a7a9a'; ctx.font = "9px 'Share Tech Mono',monospace"; ctx.textAlign = 'center';
+  const step = Math.floor(candles.length / 4);
+  for (let i = 0; i < candles.length; i += step) {
+    const x = PAD.left + (i / candles.length) * cW + cW / candles.length / 2;
+    ctx.fillText(candles[i].date.slice(5), x, H - 6);
+  }
+}
+
+function showStock(s) {
+  document.getElementById('sh-code').textContent = s.code;
+  document.getElementById('sh-name').textContent = s.name || s.code;
+  document.getElementById('sh-price').textContent = '$' + s.currentPrice.toFixed(2);
+  const changeEl = document.getElementById('sh-change');
+  const sign = s.change >= 0 ? '+' : '';
+  changeEl.textContent = sign + s.change.toFixed(2) + '%';
+  changeEl.className = 'sh-change ' + (s.change >= 0 ? 'up' : 'down');
+  document.getElementById('stockHeader').classList.add('show');
+
+  // analysis
+  const rng = s.high - s.low;
+  const retrace = rng > 0 ? ((s.high - s.currentPrice) / rng * 100).toFixed(1) : '0';
+  let hitFibStr = '無';
+  if (s.hitFib !== null && s.hitFib !== undefined) hitFibStr = s.hitFib.toString();
+  const abox = document.getElementById('analysisBox');
+  abox.textContent = `📊 目前回撤 ${retrace}%，${hitFibStr !== '無' ? '命中 ' + hitFibStr + ' 支撐位，' : ''}KD≈${s.kd}${s.kd < 30 ? '（低檔區間）' : ''}`;
+  abox.classList.add('show');
+
+  // chart
+  document.getElementById('chartWrap').classList.add('show');
+  const canvas = document.getElementById('klineChart');
+  setTimeout(() => drawChart(canvas, s.candles, s.fibLevels, s.currentPrice), 50);
+
+  // legend
+  const legend = document.getElementById('fibLegend');
+  legend.innerHTML = '';
+  s.fibLevels.forEach(f => {
+    const color = FIB_COLORS[String(f.ratio)] || '#aaa';
+    const isHit = Math.abs(s.currentPrice - f.price) / f.price * 100 < 4;
+    const item = document.createElement('div');
+    item.className = 'fib-legend-item';
+    item.innerHTML = `<div class="fib-legend-line" style="background:${color}"></div>
+      <span class="fib-legend-val" style="color:${color}">${f.ratio === 0 ? '高點' : f.ratio === 1 ? '低點' : f.ratio.toFixed(3)}</span>
+      <span class="fib-legend-price" style="${isHit ? 'color:#00d4ff;font-weight:700' : ''}">${f.price.toFixed(1)}${isHit ? ' ◀' : ''}</span>`;
+    legend.appendChild(item);
+  });
+
+  // stats
+  document.getElementById('st-high').textContent = '$' + s.high.toFixed(1);
+  document.getElementById('st-low').textContent = '$' + s.low.toFixed(1);
+  document.getElementById('st-retrace').textContent = retrace + '%';
+  const kdEl = document.getElementById('st-kd');
+  kdEl.textContent = s.kd.toFixed(0);
+  kdEl.style.color = s.kd < 30 ? '#ef5350' : s.kd > 70 ? '#26a69a' : '#fff';
+  document.getElementById('statsRow').classList.add('show');
+}
+
+function lookupStock() {
+  const code = document.getElementById('stockCode').value.trim();
+  if (!code) return;
+  const error = document.getElementById('lookupError');
+  error.classList.remove('show');
+  document.getElementById('stockHeader').classList.remove('show');
+  document.getElementById('chartWrap').classList.remove('show');
+  document.getElementById('statsRow').classList.remove('show');
+  document.getElementById('analysisBox').classList.remove('show');
+
+  const s = stocksData[code];
+  if (!s) {
+    error.textContent = `❌ 找不到「${code}」，請確認代碼是否在追蹤清單內，或等待下次資料更新`;
+    error.classList.add('show');
+    return;
+  }
+  showStock(s);
+}
+
+function runScreener() {
+  const minP = parseFloat(document.getElementById('s-minPrice').value) || 10;
+  const maxP = parseFloat(document.getElementById('s-maxPrice').value) || 200;
+  const useKD = document.getElementById('s-useKD').checked;
+  const selectedFibs = [...document.querySelectorAll('#fibChecks .fib-btn.on')].map(b => parseFloat(b.dataset.val));
+  const list = document.getElementById('s-list');
+  const results = document.getElementById('screenerResults');
+  list.innerHTML = '';
+
+  const candidates = Object.values(stocksData).filter(s => {
+    if (s.currentPrice < minP || s.currentPrice > maxP) return false;
+    if (useKD && s.kd >= 30) return false;
+    if (s.hitFib === null || s.hitFib === undefined) return false;
+    return selectedFibs.includes(parseFloat(s.hitFib));
+  });
+
+  document.getElementById('s-count').textContent = candidates.length;
+  results.classList.add('show');
+
+  if (!candidates.length) {
+    list.innerHTML = '<div class="no-data">🔭 沒有符合條件的股票，試試放寬條件</div>';
+    return;
+  }
+
+  candidates.sort((a, b) => a.kd - b.kd);
+
+  candidates.forEach((s, i) => {
+    const card = document.createElement('div');
+    card.className = 'screener-card';
+    card.style.animationDelay = i * 0.04 + 's';
+    const sign = s.change >= 0 ? '+' : '';
+    const cc = s.change >= 0 ? 'up' : 'down';
+    card.innerHTML = `
+      <div class="sc-code">${s.code}</div>
+      <div>
+        <div class="sc-name">${s.name || s.code}</div>
+        <div class="sc-tags">
+          <span class="tag tag-fib">Fib ${s.hitFib}</span>
+          ${useKD ? `<span class="tag tag-kd">KD ${s.kd.toFixed(0)}</span>` : ''}
+        </div>
+      </div>
+      <div class="sc-price">
+        <div class="sc-price-val">$${s.currentPrice.toFixed(2)}</div>
+        <div class="sc-change ${cc}">${sign}${s.change.toFixed(2)}%</div>
+      </div>
+    `;
+    card.onclick = () => {
+      switchTab('lookup');
+      document.getElementById('stockCode').value = s.code;
+      lookupStock();
+    };
+    list.appendChild(card);
+  });
+}
+
+document.getElementById('stockCode').addEventListener('keydown', e => { if(e.key==='Enter') lookupStock(); });
+loadData();
+</script>
+</body>
+</html>
