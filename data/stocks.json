@@ -1,19 +1,19 @@
 {
-  "updated": "2026-03-10 02:18",
+  "updated": "2026-03-10 10:02",
   "stocks": {
     "0050": {
       "code": "0050",
       "name": "0050",
-      "currentPrice": 73.6,
-      "change": -4.23,
+      "currentPrice": 75.2,
+      "change": 2.17,
       "high": 81.8,
       "low": 59.45,
-      "k": 32.9,
-      "d": 49.3,
-      "kd": 32.9,
+      "k": 33.6,
+      "d": 44.1,
+      "kd": 33.6,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.382,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -45,13 +45,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 70.7,
-          "high": 70.7,
-          "low": 70.15,
-          "close": 70.65
-        },
         {
           "date": "2026-01-16",
           "open": 71.75,
@@ -254,22 +247,29 @@
           "high": 73.6,
           "low": 71.65,
           "close": 73.6
+        },
+        {
+          "date": "2026-03-10",
+          "open": 75.9,
+          "high": 76.25,
+          "low": 74.3,
+          "close": 75.2
         }
       ]
     },
     "0056": {
       "code": "0056",
       "name": "0056",
-      "currentPrice": 37.58,
-      "change": -2.72,
+      "currentPrice": 37.88,
+      "change": 0.8,
       "high": 40.36,
       "low": 34.66,
-      "k": 36.6,
-      "d": 48.6,
-      "kd": 36.6,
+      "k": 36.3,
+      "d": 44.5,
+      "kd": 36.3,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.5,
+      "hitFib": 0.382,
       "fibLevels": [
         {
           "ratio": 0,
@@ -301,13 +301,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 37.98,
-          "high": 38.01,
-          "low": 37.92,
-          "close": 38.01
-        },
         {
           "date": "2026-01-16",
           "open": 38.1,
@@ -510,22 +503,29 @@
           "high": 37.58,
           "low": 36.5,
           "close": 37.58
+        },
+        {
+          "date": "2026-03-10",
+          "open": 38.48,
+          "high": 38.49,
+          "low": 37.64,
+          "close": 37.88
         }
       ]
     },
     "00878": {
       "code": "00878",
       "name": "00878",
-      "currentPrice": 21.75,
-      "change": -2.86,
+      "currentPrice": 22.0,
+      "change": 1.15,
       "high": 24.1,
       "low": 20.23,
-      "k": 21.7,
-      "d": 33.6,
-      "kd": 21.7,
+      "k": 23.0,
+      "d": 30.1,
+      "kd": 23.0,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.618,
+      "hitFib": 0.5,
       "fibLevels": [
         {
           "ratio": 0,
@@ -557,13 +557,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 22.37,
-          "high": 22.42,
-          "low": 22.34,
-          "close": 22.4
-        },
         {
           "date": "2026-01-16",
           "open": 22.44,
@@ -766,22 +759,29 @@
           "high": 21.75,
           "low": 21.28,
           "close": 21.75
+        },
+        {
+          "date": "2026-03-10",
+          "open": 22.13,
+          "high": 22.2,
+          "low": 21.9,
+          "close": 22.0
         }
       ]
     },
     "00900": {
       "code": "00900",
       "name": "00900",
-      "currentPrice": 13.86,
-      "change": -3.28,
+      "currentPrice": 14.05,
+      "change": 1.37,
       "high": 15.1,
       "low": 12.85,
-      "k": 33.2,
-      "d": 44.0,
-      "kd": 33.2,
+      "k": 34.3,
+      "d": 40.7,
+      "kd": 34.3,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.5,
+      "hitFib": 0.382,
       "fibLevels": [
         {
           "ratio": 0,
@@ -813,13 +813,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 14.54,
-          "high": 14.61,
-          "low": 14.51,
-          "close": 14.55
-        },
         {
           "date": "2026-01-16",
           "open": 14.67,
@@ -1022,22 +1015,29 @@
           "high": 13.86,
           "low": 13.45,
           "close": 13.86
+        },
+        {
+          "date": "2026-03-10",
+          "open": 14.17,
+          "high": 14.22,
+          "low": 13.95,
+          "close": 14.05
         }
       ]
     },
     "006208": {
       "code": "006208",
       "name": "006208",
-      "currentPrice": 170.45,
-      "change": -4.35,
+      "currentPrice": 174.0,
+      "change": 2.08,
       "high": 189.4,
       "low": 135.9,
-      "k": 31.7,
-      "d": 49.0,
-      "kd": 31.7,
+      "k": 31.6,
+      "d": 43.2,
+      "kd": 31.6,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.382,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -1069,13 +1069,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 161.0,
-          "high": 161.0,
-          "low": 159.8,
-          "close": 160.95
-        },
         {
           "date": "2026-01-16",
           "open": 163.2,
@@ -1278,22 +1271,29 @@
           "high": 170.8,
           "low": 167.0,
           "close": 170.45
+        },
+        {
+          "date": "2026-03-10",
+          "open": 175.25,
+          "high": 176.85,
+          "low": 172.15,
+          "close": 174.0
         }
       ]
     },
     "2330": {
       "code": "2330",
       "name": "2330",
-      "currentPrice": 1810.0,
-      "change": -4.23,
+      "currentPrice": 1850.0,
+      "change": 2.21,
       "high": 2025.0,
       "low": 1375.0,
-      "k": 28.5,
-      "d": 45.5,
-      "kd": 28.5,
+      "k": 29.4,
+      "d": 40.1,
+      "kd": 29.4,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": null,
+      "hitFib": 0.236,
       "fibLevels": [
         {
           "ratio": 0,
@@ -1325,13 +1325,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 1685.0,
-          "high": 1700.0,
-          "low": 1680.0,
-          "close": 1690.0
-        },
         {
           "date": "2026-01-16",
           "open": 1735.0,
@@ -1534,22 +1527,29 @@
           "high": 1810.0,
           "low": 1770.0,
           "close": 1810.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 1870.0,
+          "high": 1890.0,
+          "low": 1830.0,
+          "close": 1850.0
         }
       ]
     },
     "2454": {
       "code": "2454",
       "name": "2454",
-      "currentPrice": 1665.0,
-      "change": -5.67,
+      "currentPrice": 1705.0,
+      "change": 2.4,
       "high": 1975.0,
       "low": 1130.0,
-      "k": 25.1,
-      "d": 38.8,
-      "kd": 25.1,
+      "k": 25.4,
+      "d": 34.3,
+      "kd": 25.4,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.382,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -1581,13 +1581,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 1500.0,
-          "high": 1500.0,
-          "low": 1465.0,
-          "close": 1490.0
-        },
         {
           "date": "2026-01-16",
           "open": 1500.0,
@@ -1790,20 +1783,27 @@
           "high": 1665.0,
           "low": 1610.0,
           "close": 1665.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 1730.0,
+          "high": 1730.0,
+          "low": 1685.0,
+          "close": 1705.0
         }
       ]
     },
     "2379": {
       "code": "2379",
       "name": "2379",
-      "currentPrice": 484.0,
-      "change": 4.54,
+      "currentPrice": 460.0,
+      "change": -4.96,
       "high": 592.0,
       "low": 438.0,
-      "k": 50.2,
-      "d": 35.0,
-      "kd": 50.2,
-      "goldenCross": false,
+      "k": 49.4,
+      "d": 39.8,
+      "kd": 49.4,
+      "goldenCross": true,
       "deathCross": false,
       "hitFib": null,
       "fibLevels": [
@@ -1837,13 +1837,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 534.0,
-          "high": 534.0,
-          "low": 505.0,
-          "close": 513.0
-        },
         {
           "date": "2026-01-16",
           "open": 519.0,
@@ -2046,19 +2039,26 @@
           "high": 484.0,
           "low": 438.0,
           "close": 484.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 471.0,
+          "high": 473.5,
+          "low": 453.5,
+          "close": 460.0
         }
       ]
     },
     "2303": {
       "code": "2303",
       "name": "2303",
-      "currentPrice": 59.7,
-      "change": -3.71,
+      "currentPrice": 60.4,
+      "change": 1.17,
       "high": 79.7,
       "low": 43.8,
-      "k": 22.7,
-      "d": 28.9,
-      "kd": 22.7,
+      "k": 23.9,
+      "d": 27.2,
+      "kd": 23.9,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -2093,13 +2093,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 54.7,
-          "high": 55.0,
-          "low": 53.7,
-          "close": 54.7
-        },
         {
           "date": "2026-01-16",
           "open": 54.8,
@@ -2302,19 +2295,26 @@
           "high": 59.7,
           "low": 57.2,
           "close": 59.7
+        },
+        {
+          "date": "2026-03-10",
+          "open": 60.8,
+          "high": 61.2,
+          "low": 59.0,
+          "close": 60.4
         }
       ]
     },
     "2408": {
       "code": "2408",
       "name": "2408",
-      "currentPrice": 210.0,
-      "change": -9.87,
+      "currentPrice": 231.0,
+      "change": 10.0,
       "high": 326.5,
       "low": 122.0,
-      "k": 14.8,
-      "d": 27.7,
-      "kd": 14.8,
+      "k": 17.8,
+      "d": 24.4,
+      "kd": 17.8,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -2349,13 +2349,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 235.5,
-          "high": 242.5,
-          "low": 235.5,
-          "close": 237.5
-        },
         {
           "date": "2026-01-16",
           "open": 244.5,
@@ -2558,22 +2551,29 @@
           "high": 210.0,
           "low": 210.0,
           "close": 210.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 220.0,
+          "high": 231.0,
+          "low": 215.0,
+          "close": 231.0
         }
       ]
     },
     "3711": {
       "code": "3711",
       "name": "3711",
-      "currentPrice": 320.0,
-      "change": -6.43,
+      "currentPrice": 335.5,
+      "change": 4.84,
       "high": 394.0,
       "low": 206.0,
-      "k": 31.2,
-      "d": 47.3,
-      "kd": 31.2,
+      "k": 31.5,
+      "d": 42.0,
+      "kd": 31.5,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.382,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -2605,13 +2605,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 294.5,
-          "high": 298.5,
-          "low": 288.5,
-          "close": 298.5
-        },
         {
           "date": "2026-01-16",
           "open": 301.5,
@@ -2814,22 +2807,29 @@
           "high": 320.0,
           "low": 308.0,
           "close": 320.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 336.0,
+          "high": 348.0,
+          "low": 332.5,
+          "close": 335.5
         }
       ]
     },
     "3008": {
       "code": "3008",
       "name": "3008",
-      "currentPrice": 2285.0,
-      "change": -3.99,
+      "currentPrice": 2300.0,
+      "change": 0.66,
       "high": 2660.0,
       "low": 2020.0,
-      "k": 32.6,
-      "d": 43.9,
-      "kd": 32.6,
+      "k": 29.0,
+      "d": 38.9,
+      "kd": 29.0,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.618,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -2861,13 +2861,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 2430.0,
-          "high": 2455.0,
-          "low": 2400.0,
-          "close": 2405.0
-        },
         {
           "date": "2026-01-16",
           "open": 2405.0,
@@ -3070,22 +3063,29 @@
           "high": 2330.0,
           "low": 2235.0,
           "close": 2285.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 2330.0,
+          "high": 2380.0,
+          "low": 2280.0,
+          "close": 2300.0
         }
       ]
     },
     "2345": {
       "code": "2345",
       "name": "2345",
-      "currentPrice": 1380.0,
-      "change": -5.8,
+      "currentPrice": 1435.0,
+      "change": 3.99,
       "high": 1515.0,
       "low": 888.0,
-      "k": 56.1,
-      "d": 62.6,
-      "kd": 56.1,
+      "k": 58.9,
+      "d": 61.4,
+      "kd": 58.9,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.236,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -3117,13 +3117,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 1225.0,
-          "high": 1285.0,
-          "low": 1215.0,
-          "close": 1240.0
-        },
         {
           "date": "2026-01-16",
           "open": 1265.0,
@@ -3326,22 +3319,29 @@
           "high": 1380.0,
           "low": 1330.0,
           "close": 1380.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 1430.0,
+          "high": 1455.0,
+          "low": 1400.0,
+          "close": 1435.0
         }
       ]
     },
     "3037": {
       "code": "3037",
       "name": "3037",
-      "currentPrice": 389.0,
-      "change": -9.95,
+      "currentPrice": 424.0,
+      "change": 9.0,
       "high": 504.0,
       "low": 157.5,
-      "k": 38.5,
-      "d": 58.9,
-      "kd": 38.5,
+      "k": 35.8,
+      "d": 51.2,
+      "kd": 35.8,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": null,
+      "hitFib": 0.236,
       "fibLevels": [
         {
           "ratio": 0,
@@ -3373,13 +3373,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 250.0,
-          "high": 257.5,
-          "low": 245.5,
-          "close": 249.5
-        },
         {
           "date": "2026-01-16",
           "open": 253.0,
@@ -3582,19 +3575,26 @@
           "high": 391.5,
           "low": 389.0,
           "close": 389.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 410.0,
+          "high": 427.5,
+          "low": 410.0,
+          "close": 424.0
         }
       ]
     },
     "6669": {
       "code": "6669",
       "name": "6669",
-      "currentPrice": 3930.0,
-      "change": -6.76,
+      "currentPrice": 3960.0,
+      "change": 0.76,
       "high": 4850.0,
       "low": 3520.0,
-      "k": 63.7,
-      "d": 71.6,
-      "kd": 63.7,
+      "k": 52.0,
+      "d": 65.1,
+      "kd": 52.0,
       "goldenCross": false,
       "deathCross": true,
       "hitFib": null,
@@ -3629,13 +3629,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 3980.0,
-          "high": 4005.0,
-          "low": 3920.0,
-          "close": 3945.0
-        },
         {
           "date": "2026-01-16",
           "open": 3970.0,
@@ -3838,22 +3831,29 @@
           "high": 3945.0,
           "low": 3815.0,
           "close": 3930.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 4045.0,
+          "high": 4090.0,
+          "low": 3935.0,
+          "close": 3960.0
         }
       ]
     },
     "2357": {
       "code": "2357",
       "name": "2357",
-      "currentPrice": 517.0,
-      "change": -1.9,
+      "currentPrice": 531.0,
+      "change": 2.71,
       "high": 705.0,
       "low": 490.0,
-      "k": 53.9,
-      "d": 56.6,
-      "kd": 53.9,
+      "k": 64.7,
+      "d": 59.3,
+      "kd": 64.7,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": null,
+      "hitFib": 0.786,
       "fibLevels": [
         {
           "ratio": 0,
@@ -3885,13 +3885,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 528.0,
-          "high": 528.0,
-          "low": 517.0,
-          "close": 521.0
-        },
         {
           "date": "2026-01-16",
           "open": 520.0,
@@ -4094,19 +4087,26 @@
           "high": 520.0,
           "low": 500.0,
           "close": 517.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 524.0,
+          "high": 532.0,
+          "low": 521.0,
+          "close": 531.0
         }
       ]
     },
     "2382": {
       "code": "2382",
       "name": "2382",
-      "currentPrice": 282.0,
-      "change": -2.42,
+      "currentPrice": 282.5,
+      "change": 0.18,
       "high": 302.5,
       "low": 260.0,
-      "k": 40.8,
-      "d": 50.7,
-      "kd": 40.8,
+      "k": 38.9,
+      "d": 46.7,
+      "kd": 38.9,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": 0.382,
@@ -4141,13 +4141,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 285.5,
-          "high": 285.5,
-          "low": 279.5,
-          "close": 283.0
-        },
         {
           "date": "2026-01-16",
           "open": 286.0,
@@ -4350,19 +4343,26 @@
           "high": 282.0,
           "low": 272.0,
           "close": 282.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 286.0,
+          "high": 287.5,
+          "low": 279.5,
+          "close": 282.5
         }
       ]
     },
     "2308": {
       "code": "2308",
       "name": "2308",
-      "currentPrice": 1220.0,
-      "change": -7.58,
+      "currentPrice": 1290.0,
+      "change": 5.74,
       "high": 1480.0,
       "low": 886.0,
-      "k": 34.2,
-      "d": 50.2,
-      "kd": 34.2,
+      "k": 33.9,
+      "d": 44.8,
+      "kd": 33.9,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -4397,13 +4397,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 1055.0,
-          "high": 1060.0,
-          "low": 1025.0,
-          "close": 1045.0
-        },
         {
           "date": "2026-01-16",
           "open": 1075.0,
@@ -4606,19 +4599,26 @@
           "high": 1230.0,
           "low": 1195.0,
           "close": 1220.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 1280.0,
+          "high": 1325.0,
+          "low": 1275.0,
+          "close": 1290.0
         }
       ]
     },
     "2317": {
       "code": "2317",
       "name": "2317",
-      "currentPrice": 210.5,
-      "change": -5.61,
+      "currentPrice": 209.5,
+      "change": -0.48,
       "high": 256.5,
       "low": 206.0,
-      "k": 22.4,
-      "d": 36.8,
-      "kd": 22.4,
+      "k": 17.4,
+      "d": 30.4,
+      "kd": 17.4,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -4653,13 +4653,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 234.0,
-          "high": 234.0,
-          "low": 231.0,
-          "close": 233.5
-        },
         {
           "date": "2026-01-16",
           "open": 235.0,
@@ -4862,22 +4855,29 @@
           "high": 212.5,
           "low": 206.0,
           "close": 210.5
+        },
+        {
+          "date": "2026-03-10",
+          "open": 216.0,
+          "high": 216.5,
+          "low": 209.5,
+          "close": 209.5
         }
       ]
     },
     "2395": {
       "code": "2395",
       "name": "2395",
-      "currentPrice": 347.0,
-      "change": -7.47,
+      "currentPrice": 345.5,
+      "change": -0.43,
       "high": 376.5,
       "low": 271.0,
-      "k": 75.5,
-      "d": 78.9,
-      "kd": 75.5,
+      "k": 67.7,
+      "d": 75.2,
+      "kd": 67.7,
       "goldenCross": false,
       "deathCross": true,
-      "hitFib": 0.236,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -4909,13 +4909,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 293.5,
-          "high": 296.5,
-          "low": 286.5,
-          "close": 287.5
-        },
         {
           "date": "2026-01-16",
           "open": 289.5,
@@ -5118,22 +5111,29 @@
           "high": 367.0,
           "low": 343.0,
           "close": 347.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 355.0,
+          "high": 362.5,
+          "low": 338.5,
+          "close": 345.5
         }
       ]
     },
     "4938": {
       "code": "4938",
       "name": "4938",
-      "currentPrice": 69.5,
-      "change": -2.11,
+      "currentPrice": 70.3,
+      "change": 1.15,
       "high": 75.7,
       "low": 67.5,
-      "k": 34.5,
-      "d": 42.1,
-      "kd": 34.5,
+      "k": 35.7,
+      "d": 40.0,
+      "kd": 35.7,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.786,
+      "hitFib": 0.618,
       "fibLevels": [
         {
           "ratio": 0,
@@ -5165,13 +5165,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 71.5,
-          "high": 71.5,
-          "low": 70.5,
-          "close": 71.3
-        },
         {
           "date": "2026-01-16",
           "open": 71.5,
@@ -5374,22 +5367,29 @@
           "high": 70.1,
           "low": 67.9,
           "close": 69.5
+        },
+        {
+          "date": "2026-03-10",
+          "open": 70.6,
+          "high": 70.8,
+          "low": 69.5,
+          "close": 70.3
         }
       ]
     },
     "3034": {
       "code": "3034",
       "name": "3034",
-      "currentPrice": 379.0,
-      "change": 1.07,
+      "currentPrice": 384.5,
+      "change": 1.45,
       "high": 406.0,
       "low": 352.0,
-      "k": 50.4,
-      "d": 53.6,
-      "kd": 50.4,
+      "k": 59.8,
+      "d": 55.6,
+      "kd": 59.8,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.5,
+      "hitFib": 0.382,
       "fibLevels": [
         {
           "ratio": 0,
@@ -5421,13 +5421,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 384.0,
-          "high": 384.0,
-          "low": 379.0,
-          "close": 379.5
-        },
         {
           "date": "2026-01-16",
           "open": 382.0,
@@ -5630,19 +5623,26 @@
           "high": 380.5,
           "low": 353.5,
           "close": 379.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 381.5,
+          "high": 384.5,
+          "low": 375.5,
+          "close": 384.5
         }
       ]
     },
     "2337": {
       "code": "2337",
       "name": "2337",
-      "currentPrice": 92.3,
-      "change": -9.95,
+      "currentPrice": 90.7,
+      "change": -1.73,
       "high": 120.5,
       "low": 28.5,
-      "k": 33.1,
-      "d": 51.9,
-      "kd": 33.1,
+      "k": 24.0,
+      "d": 42.6,
+      "kd": 24.0,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -5677,13 +5677,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 60.3,
-          "high": 62.0,
-          "low": 59.8,
-          "close": 61.9
-        },
         {
           "date": "2026-01-16",
           "open": 64.0,
@@ -5886,21 +5879,28 @@
           "high": 92.3,
           "low": 92.3,
           "close": 92.3
+        },
+        {
+          "date": "2026-03-10",
+          "open": 97.8,
+          "high": 98.8,
+          "low": 88.8,
+          "close": 90.7
         }
       ]
     },
     "2412": {
       "code": "2412",
       "name": "2412",
-      "currentPrice": 136.0,
-      "change": -0.37,
+      "currentPrice": 135.0,
+      "change": -0.74,
       "high": 138.0,
       "low": 129.5,
-      "k": 66.4,
-      "d": 72.3,
-      "kd": 66.4,
+      "k": 52.6,
+      "d": 65.7,
+      "kd": 52.6,
       "goldenCross": false,
-      "deathCross": true,
+      "deathCross": false,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -5933,13 +5933,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 133.5,
-          "high": 134.0,
-          "low": 133.0,
-          "close": 133.5
-        },
         {
           "date": "2026-01-16",
           "open": 133.5,
@@ -6142,21 +6135,28 @@
           "high": 136.5,
           "low": 134.5,
           "close": 136.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 137.0,
+          "high": 137.0,
+          "low": 134.5,
+          "close": 135.0
         }
       ]
     },
     "2474": {
       "code": "2474",
       "name": "2474",
-      "currentPrice": 182.0,
-      "change": -2.93,
+      "currentPrice": 182.5,
+      "change": 0.27,
       "high": 216.0,
       "low": 180.5,
-      "k": 17.3,
-      "d": 16.2,
-      "kd": 17.3,
+      "k": 16.0,
+      "d": 16.1,
+      "kd": 16.0,
       "goldenCross": false,
-      "deathCross": false,
+      "deathCross": true,
       "hitFib": null,
       "fibLevels": [
         {
@@ -6189,13 +6189,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 214.5,
-          "high": 214.5,
-          "low": 210.5,
-          "close": 211.0
-        },
         {
           "date": "2026-01-16",
           "open": 211.5,
@@ -6398,22 +6391,29 @@
           "high": 184.0,
           "low": 180.5,
           "close": 182.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 185.0,
+          "high": 185.5,
+          "low": 181.5,
+          "close": 182.5
         }
       ]
     },
     "3045": {
       "code": "3045",
       "name": "3045",
-      "currentPrice": 107.5,
-      "change": -0.46,
+      "currentPrice": 106.5,
+      "change": -0.93,
       "high": 112.0,
       "low": 104.0,
-      "k": 58.9,
-      "d": 68.1,
-      "kd": 58.9,
+      "k": 39.3,
+      "d": 58.5,
+      "kd": 39.3,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.382,
+      "hitFib": 0.5,
       "fibLevels": [
         {
           "ratio": 0,
@@ -6445,13 +6445,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 107.5,
-          "high": 108.5,
-          "low": 107.5,
-          "close": 108.0
-        },
         {
           "date": "2026-01-16",
           "open": 108.0,
@@ -6654,19 +6647,26 @@
           "high": 107.5,
           "low": 106.5,
           "close": 107.5
+        },
+        {
+          "date": "2026-03-10",
+          "open": 108.0,
+          "high": 108.0,
+          "low": 106.5,
+          "close": 106.5
         }
       ]
     },
     "2352": {
       "code": "2352",
       "name": "2352",
-      "currentPrice": 23.2,
-      "change": -2.32,
+      "currentPrice": 23.0,
+      "change": -0.86,
       "high": 31.65,
       "low": 22.55,
-      "k": 19.3,
-      "d": 26.7,
-      "kd": 19.3,
+      "k": 16.5,
+      "d": 23.3,
+      "kd": 16.5,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -6701,13 +6701,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 25.35,
-          "high": 25.55,
-          "low": 25.1,
-          "close": 25.4
-        },
         {
           "date": "2026-01-16",
           "open": 25.45,
@@ -6910,19 +6903,26 @@
           "high": 23.3,
           "low": 22.55,
           "close": 23.2
+        },
+        {
+          "date": "2026-03-10",
+          "open": 23.0,
+          "high": 23.45,
+          "low": 22.85,
+          "close": 23.0
         }
       ]
     },
     "2324": {
       "code": "2324",
       "name": "2324",
-      "currentPrice": 31.3,
-      "change": -0.48,
+      "currentPrice": 31.75,
+      "change": 1.44,
       "high": 35.1,
       "low": 28.35,
-      "k": 58.2,
-      "d": 45.2,
-      "kd": 58.2,
+      "k": 69.2,
+      "d": 53.2,
+      "kd": 69.2,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": 0.5,
@@ -6957,13 +6957,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 31.55,
-          "high": 31.55,
-          "low": 30.8,
-          "close": 31.05
-        },
         {
           "date": "2026-01-16",
           "open": 31.25,
@@ -7166,22 +7159,29 @@
           "high": 31.3,
           "low": 29.7,
           "close": 31.3
+        },
+        {
+          "date": "2026-03-10",
+          "open": 31.7,
+          "high": 31.75,
+          "low": 31.1,
+          "close": 31.75
         }
       ]
     },
     "2376": {
       "code": "2376",
       "name": "2376",
-      "currentPrice": 215.0,
-      "change": -1.83,
+      "currentPrice": 221.0,
+      "change": 2.79,
       "high": 284.0,
       "low": 206.5,
-      "k": 27.6,
-      "d": 36.8,
-      "kd": 27.6,
+      "k": 33.0,
+      "d": 35.5,
+      "kd": 33.0,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": null,
+      "hitFib": 0.786,
       "fibLevels": [
         {
           "ratio": 0,
@@ -7213,13 +7213,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 250.0,
-          "high": 250.0,
-          "low": 244.0,
-          "close": 245.0
-        },
         {
           "date": "2026-01-16",
           "open": 247.0,
@@ -7422,19 +7415,26 @@
           "high": 215.0,
           "low": 206.5,
           "close": 215.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 221.0,
+          "high": 221.0,
+          "low": 216.5,
+          "close": 221.0
         }
       ]
     },
     "2301": {
       "code": "2301",
       "name": "2301",
-      "currentPrice": 149.0,
-      "change": -6.29,
+      "currentPrice": 155.0,
+      "change": 4.03,
       "high": 200.0,
       "low": 146.0,
-      "k": 12.8,
-      "d": 24.1,
-      "kd": 12.8,
+      "k": 14.1,
+      "d": 20.7,
+      "kd": 14.1,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -7469,13 +7469,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 168.0,
-          "high": 169.0,
-          "low": 163.5,
-          "close": 165.0
-        },
         {
           "date": "2026-01-16",
           "open": 166.0,
@@ -7678,19 +7671,26 @@
           "high": 150.0,
           "low": 146.0,
           "close": 149.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 155.5,
+          "high": 158.5,
+          "low": 153.0,
+          "close": 155.0
         }
       ]
     },
     "2354": {
       "code": "2354",
       "name": "2354",
-      "currentPrice": 52.2,
-      "change": -5.43,
+      "currentPrice": 52.8,
+      "change": 1.15,
       "high": 72.3,
       "low": 51.5,
-      "k": 21.5,
-      "d": 34.7,
-      "kd": 21.5,
+      "k": 19.0,
+      "d": 29.5,
+      "kd": 19.0,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -7725,13 +7725,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 60.0,
-          "high": 60.9,
-          "low": 59.2,
-          "close": 59.5
-        },
         {
           "date": "2026-01-16",
           "open": 60.0,
@@ -7934,21 +7927,28 @@
           "high": 52.8,
           "low": 51.5,
           "close": 52.2
+        },
+        {
+          "date": "2026-03-10",
+          "open": 53.5,
+          "high": 53.9,
+          "low": 52.3,
+          "close": 52.8
         }
       ]
     },
     "6505": {
       "code": "6505",
       "name": "6505",
-      "currentPrice": 68.2,
-      "change": 10.0,
+      "currentPrice": 61.4,
+      "change": -9.97,
       "high": 68.2,
       "low": 43.55,
-      "k": 83.2,
+      "k": 74.5,
       "d": 74.6,
-      "kd": 83.2,
+      "kd": 74.5,
       "goldenCross": false,
-      "deathCross": false,
+      "deathCross": true,
       "hitFib": null,
       "fibLevels": [
         {
@@ -7981,13 +7981,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 47.95,
-          "high": 50.3,
-          "low": 47.95,
-          "close": 50.0
-        },
         {
           "date": "2026-01-16",
           "open": 50.2,
@@ -8190,19 +8183,26 @@
           "high": 68.2,
           "low": 66.4,
           "close": 68.2
+        },
+        {
+          "date": "2026-03-10",
+          "open": 61.4,
+          "high": 61.9,
+          "low": 61.4,
+          "close": 61.4
         }
       ]
     },
     "3231": {
       "code": "3231",
       "name": "3231",
-      "currentPrice": 127.5,
-      "change": -2.3,
+      "currentPrice": 129.0,
+      "change": 1.18,
       "high": 161.0,
       "low": 123.5,
-      "k": 31.3,
-      "d": 38.5,
-      "kd": 31.3,
+      "k": 32.3,
+      "d": 36.4,
+      "kd": 32.3,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -8237,13 +8237,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 146.0,
-          "high": 146.0,
-          "low": 143.0,
-          "close": 143.5
-        },
         {
           "date": "2026-01-16",
           "open": 145.5,
@@ -8446,22 +8439,29 @@
           "high": 127.5,
           "low": 123.5,
           "close": 127.5
+        },
+        {
+          "date": "2026-03-10",
+          "open": 131.0,
+          "high": 132.0,
+          "low": 127.5,
+          "close": 129.0
         }
       ]
     },
     "1301": {
       "code": "1301",
       "name": "1301",
-      "currentPrice": 47.35,
-      "change": -5.68,
+      "currentPrice": 46.5,
+      "change": -1.8,
       "high": 54.8,
       "low": 36.5,
-      "k": 33.4,
-      "d": 44.6,
-      "kd": 33.4,
+      "k": 23.8,
+      "d": 37.7,
+      "kd": 23.8,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.382,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -8493,13 +8493,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 40.95,
-          "high": 42.8,
-          "low": 40.9,
-          "close": 42.6
-        },
         {
           "date": "2026-01-16",
           "open": 42.9,
@@ -8702,22 +8695,29 @@
           "high": 54.8,
           "low": 46.1,
           "close": 47.35
+        },
+        {
+          "date": "2026-03-10",
+          "open": 47.2,
+          "high": 48.3,
+          "low": 46.2,
+          "close": 46.5
         }
       ]
     },
     "1303": {
       "code": "1303",
       "name": "1303",
-      "currentPrice": 74.1,
-      "change": -9.96,
+      "currentPrice": 77.7,
+      "change": 4.86,
       "high": 96.5,
       "low": 39.7,
-      "k": 27.2,
-      "d": 45.6,
-      "kd": 27.2,
+      "k": 23.5,
+      "d": 38.3,
+      "kd": 23.5,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.382,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -8749,13 +8749,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 63.7,
-          "high": 69.7,
-          "low": 63.6,
-          "close": 69.7
-        },
         {
           "date": "2026-01-16",
           "open": 71.8,
@@ -8958,22 +8951,29 @@
           "high": 77.9,
           "low": 74.1,
           "close": 74.1
+        },
+        {
+          "date": "2026-03-10",
+          "open": 76.8,
+          "high": 79.0,
+          "low": 75.6,
+          "close": 77.7
         }
       ]
     },
     "1326": {
       "code": "1326",
       "name": "1326",
-      "currentPrice": 43.05,
-      "change": -6.41,
+      "currentPrice": 44.25,
+      "change": 2.79,
       "high": 52.9,
       "low": 27.5,
-      "k": 32.0,
-      "d": 46.7,
-      "kd": 32.0,
+      "k": 28.6,
+      "d": 40.7,
+      "kd": 28.6,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.382,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -9005,13 +9005,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 32.05,
-          "high": 34.45,
-          "low": 32.05,
-          "close": 34.45
-        },
         {
           "date": "2026-01-16",
           "open": 34.55,
@@ -9214,19 +9207,26 @@
           "high": 49.15,
           "low": 41.85,
           "close": 43.05
+        },
+        {
+          "date": "2026-03-10",
+          "open": 43.5,
+          "high": 44.65,
+          "low": 42.55,
+          "close": 44.25
         }
       ]
     },
     "2002": {
       "code": "2002",
       "name": "2002",
-      "currentPrice": 19.15,
-      "change": -3.77,
+      "currentPrice": 19.2,
+      "change": 0.26,
       "high": 21.6,
       "low": 17.6,
-      "k": 21.0,
-      "d": 25.8,
-      "kd": 21.0,
+      "k": 19.4,
+      "d": 23.7,
+      "kd": 19.4,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": 0.618,
@@ -9261,13 +9261,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 19.5,
-          "high": 19.75,
-          "low": 19.35,
-          "close": 19.45
-        },
         {
           "date": "2026-01-16",
           "open": 19.55,
@@ -9470,19 +9463,26 @@
           "high": 19.3,
           "low": 18.8,
           "close": 19.15
+        },
+        {
+          "date": "2026-03-10",
+          "open": 19.4,
+          "high": 19.4,
+          "low": 19.15,
+          "close": 19.2
         }
       ]
     },
     "1101": {
       "code": "1101",
       "name": "1101",
-      "currentPrice": 24.3,
-      "change": -3.38,
+      "currentPrice": 24.25,
+      "change": -0.21,
       "high": 26.95,
       "low": 20.25,
-      "k": 29.8,
-      "d": 41.6,
-      "kd": 29.8,
+      "k": 22.1,
+      "d": 32.9,
+      "kd": 22.1,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": 0.382,
@@ -9517,6 +9517,83 @@
         }
       ],
       "candles": [
+        {
+          "date": "2025-12-30",
+          "open": 23.3,
+          "high": 23.65,
+          "low": 23.15,
+          "close": 23.6
+        },
+        {
+          "date": "2025-12-31",
+          "open": 23.65,
+          "high": 23.7,
+          "low": 23.2,
+          "close": 23.2
+        },
+        {
+          "date": "2026-01-02",
+          "open": 23.35,
+          "high": 23.35,
+          "low": 22.8,
+          "close": 23.0
+        },
+        {
+          "date": "2026-01-05",
+          "open": 23.0,
+          "high": 23.3,
+          "low": 23.0,
+          "close": 23.1
+        },
+        {
+          "date": "2026-01-06",
+          "open": 23.15,
+          "high": 23.2,
+          "low": 22.85,
+          "close": 23.0
+        },
+        {
+          "date": "2026-01-07",
+          "open": 23.0,
+          "high": 23.65,
+          "low": 22.95,
+          "close": 23.65
+        },
+        {
+          "date": "2026-01-08",
+          "open": 23.7,
+          "high": 23.9,
+          "low": 23.35,
+          "close": 23.45
+        },
+        {
+          "date": "2026-01-09",
+          "open": 23.5,
+          "high": 23.65,
+          "low": 23.35,
+          "close": 23.65
+        },
+        {
+          "date": "2026-01-12",
+          "open": 23.85,
+          "high": 25.1,
+          "low": 23.8,
+          "close": 24.95
+        },
+        {
+          "date": "2026-01-13",
+          "open": 25.4,
+          "high": 25.4,
+          "low": 24.7,
+          "close": 24.95
+        },
+        {
+          "date": "2026-01-14",
+          "open": 25.25,
+          "high": 25.8,
+          "low": 24.8,
+          "close": 24.95
+        },
         {
           "date": "2026-01-15",
           "open": 25.0,
@@ -9602,90 +9679,6 @@
           "close": 26.4
         },
         {
-          "date": "2026-02-02",
-          "open": 26.25,
-          "high": 26.25,
-          "low": 25.7,
-          "close": 25.9
-        },
-        {
-          "date": "2026-02-03",
-          "open": 26.1,
-          "high": 26.15,
-          "low": 25.55,
-          "close": 25.6
-        },
-        {
-          "date": "2026-02-04",
-          "open": 25.5,
-          "high": 26.0,
-          "low": 25.4,
-          "close": 25.8
-        },
-        {
-          "date": "2026-02-05",
-          "open": 25.8,
-          "high": 26.1,
-          "low": 25.65,
-          "close": 25.7
-        },
-        {
-          "date": "2026-02-06",
-          "open": 25.7,
-          "high": 25.75,
-          "low": 25.25,
-          "close": 25.35
-        },
-        {
-          "date": "2026-02-09",
-          "open": 25.55,
-          "high": 25.7,
-          "low": 25.35,
-          "close": 25.4
-        },
-        {
-          "date": "2026-02-10",
-          "open": 25.45,
-          "high": 25.65,
-          "low": 25.2,
-          "close": 25.5
-        },
-        {
-          "date": "2026-02-11",
-          "open": 25.6,
-          "high": 26.1,
-          "low": 25.55,
-          "close": 25.8
-        },
-        {
-          "date": "2026-02-23",
-          "open": 25.95,
-          "high": 26.3,
-          "low": 25.7,
-          "close": 26.1
-        },
-        {
-          "date": "2026-02-24",
-          "open": 26.1,
-          "high": 26.5,
-          "low": 26.1,
-          "close": 26.45
-        },
-        {
-          "date": "2026-02-25",
-          "open": 26.45,
-          "high": 26.65,
-          "low": 26.25,
-          "close": 26.55
-        },
-        {
-          "date": "2026-02-26",
-          "open": 26.4,
-          "high": 26.5,
-          "low": 26.05,
-          "close": 26.4
-        },
-        {
           "date": "2026-03-02",
           "open": 26.1,
           "high": 26.5,
@@ -9726,19 +9719,26 @@
           "high": 24.6,
           "low": 23.85,
           "close": 24.3
+        },
+        {
+          "date": "2026-03-10",
+          "open": 24.65,
+          "high": 24.8,
+          "low": 24.1,
+          "close": 24.25
         }
       ]
     },
     "1216": {
       "code": "1216",
       "name": "1216",
-      "currentPrice": 70.8,
-      "change": -1.53,
+      "currentPrice": 70.2,
+      "change": -0.85,
       "high": 80.5,
       "low": 70.0,
-      "k": 19.1,
-      "d": 25.8,
-      "kd": 19.1,
+      "k": 14.1,
+      "d": 21.9,
+      "kd": 14.1,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -9773,13 +9773,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 75.8,
-          "high": 76.3,
-          "low": 75.6,
-          "close": 76.0
-        },
         {
           "date": "2026-01-16",
           "open": 75.7,
@@ -9982,19 +9975,26 @@
           "high": 71.3,
           "low": 70.0,
           "close": 70.8
+        },
+        {
+          "date": "2026-03-10",
+          "open": 71.4,
+          "high": 71.4,
+          "low": 70.0,
+          "close": 70.2
         }
       ]
     },
     "2105": {
       "code": "2105",
       "name": "2105",
-      "currentPrice": 28.7,
-      "change": -2.21,
+      "currentPrice": 28.2,
+      "change": -1.74,
       "high": 33.35,
       "low": 28.2,
-      "k": 28.4,
-      "d": 37.5,
-      "kd": 28.4,
+      "k": 19.0,
+      "d": 31.3,
+      "kd": 19.0,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -10029,13 +10029,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 30.65,
-          "high": 31.05,
-          "low": 30.6,
-          "close": 30.85
-        },
         {
           "date": "2026-01-16",
           "open": 30.85,
@@ -10238,19 +10231,26 @@
           "high": 29.0,
           "low": 28.2,
           "close": 28.7
+        },
+        {
+          "date": "2026-03-10",
+          "open": 29.0,
+          "high": 29.1,
+          "low": 28.2,
+          "close": 28.2
         }
       ]
     },
     "1402": {
       "code": "1402",
       "name": "1402",
-      "currentPrice": 28.7,
-      "change": -1.88,
+      "currentPrice": 28.6,
+      "change": -0.35,
       "high": 31.65,
       "low": 26.25,
-      "k": 27.6,
-      "d": 35.2,
-      "kd": 27.6,
+      "k": 25.4,
+      "d": 31.9,
+      "kd": 25.4,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": 0.5,
@@ -10285,13 +10285,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 28.3,
-          "high": 28.5,
-          "low": 28.2,
-          "close": 28.5
-        },
         {
           "date": "2026-01-16",
           "open": 28.5,
@@ -10494,19 +10487,26 @@
           "high": 29.7,
           "low": 28.25,
           "close": 28.7
+        },
+        {
+          "date": "2026-03-10",
+          "open": 28.7,
+          "high": 28.85,
+          "low": 28.45,
+          "close": 28.6
         }
       ]
     },
     "2207": {
       "code": "2207",
       "name": "2207",
-      "currentPrice": 505.0,
-      "change": -1.37,
+      "currentPrice": 501.0,
+      "change": -0.79,
       "high": 633.0,
       "low": 490.0,
-      "k": 19.9,
-      "d": 35.7,
-      "kd": 19.9,
+      "k": 17.1,
+      "d": 29.5,
+      "kd": 17.1,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -10541,13 +10541,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 557.0,
-          "high": 557.0,
-          "low": 548.0,
-          "close": 552.0
-        },
         {
           "date": "2026-01-16",
           "open": 552.0,
@@ -10750,19 +10743,26 @@
           "high": 510.0,
           "low": 490.0,
           "close": 505.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 519.0,
+          "high": 519.0,
+          "low": 500.0,
+          "close": 501.0
         }
       ]
     },
     "1590": {
       "code": "1590",
       "name": "1590",
-      "currentPrice": 969.0,
-      "change": -6.83,
+      "currentPrice": 970.0,
+      "change": 0.1,
       "high": 1275.0,
       "low": 866.0,
-      "k": 15.6,
-      "d": 27.4,
-      "kd": 15.6,
+      "k": 13.2,
+      "d": 22.6,
+      "kd": 13.2,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -10797,13 +10797,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 1000.0,
-          "high": 1020.0,
-          "low": 991.0,
-          "close": 1015.0
-        },
         {
           "date": "2026-01-16",
           "open": 1015.0,
@@ -11006,19 +10999,26 @@
           "high": 998.0,
           "low": 943.0,
           "close": 969.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 989.0,
+          "high": 998.0,
+          "low": 954.0,
+          "close": 970.0
         }
       ]
     },
     "1802": {
       "code": "1802",
       "name": "1802",
-      "currentPrice": 53.2,
-      "change": -9.98,
+      "currentPrice": 52.0,
+      "change": -2.26,
       "high": 73.5,
       "low": 27.4,
-      "k": 38.2,
-      "d": 56.4,
-      "kd": 38.2,
+      "k": 27.0,
+      "d": 46.6,
+      "kd": 27.0,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -11053,13 +11053,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 34.8,
-          "high": 38.0,
-          "low": 34.8,
-          "close": 38.0
-        },
         {
           "date": "2026-01-16",
           "open": 40.5,
@@ -11262,19 +11255,26 @@
           "high": 53.2,
           "low": 53.2,
           "close": 53.2
+        },
+        {
+          "date": "2026-03-10",
+          "open": 55.0,
+          "high": 55.0,
+          "low": 51.0,
+          "close": 52.0
         }
       ]
     },
     "1504": {
       "code": "1504",
       "name": "1504",
-      "currentPrice": 68.8,
-      "change": -4.84,
+      "currentPrice": 70.0,
+      "change": 1.74,
       "high": 118.5,
       "low": 66.1,
-      "k": 18.1,
-      "d": 25.5,
-      "kd": 18.1,
+      "k": 19.2,
+      "d": 23.4,
+      "kd": 19.2,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -11309,13 +11309,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 92.0,
-          "high": 92.0,
-          "low": 85.2,
-          "close": 85.8
-        },
         {
           "date": "2026-01-16",
           "open": 86.8,
@@ -11518,22 +11511,29 @@
           "high": 69.1,
           "low": 66.1,
           "close": 68.8
+        },
+        {
+          "date": "2026-03-10",
+          "open": 71.1,
+          "high": 71.1,
+          "low": 69.1,
+          "close": 70.0
         }
       ]
     },
     "1477": {
       "code": "1477",
       "name": "1477",
-      "currentPrice": 292.5,
-      "change": -5.03,
+      "currentPrice": 287.5,
+      "change": -1.71,
       "high": 344.0,
       "low": 265.0,
-      "k": 25.6,
-      "d": 37.8,
-      "kd": 25.6,
+      "k": 17.5,
+      "d": 31.1,
+      "kd": 17.5,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.618,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -11565,13 +11565,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 332.0,
-          "high": 344.0,
-          "low": 328.0,
-          "close": 338.5
-        },
         {
           "date": "2026-01-16",
           "open": 338.5,
@@ -11774,22 +11767,29 @@
           "high": 299.5,
           "low": 290.0,
           "close": 292.5
+        },
+        {
+          "date": "2026-03-10",
+          "open": 297.0,
+          "high": 299.5,
+          "low": 287.0,
+          "close": 287.5
         }
       ]
     },
     "1605": {
       "code": "1605",
       "name": "1605",
-      "currentPrice": 30.5,
-      "change": -6.87,
+      "currentPrice": 31.5,
+      "change": 3.28,
       "high": 46.5,
       "low": 27.6,
-      "k": 20.2,
-      "d": 29.0,
-      "kd": 20.2,
+      "k": 21.7,
+      "d": 26.6,
+      "kd": 21.7,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": null,
+      "hitFib": 0.786,
       "fibLevels": [
         {
           "ratio": 0,
@@ -11821,13 +11821,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 41.0,
-          "high": 44.8,
-          "low": 40.5,
-          "close": 44.3
-        },
         {
           "date": "2026-01-16",
           "open": 45.9,
@@ -12030,22 +12023,29 @@
           "high": 30.5,
           "low": 29.55,
           "close": 30.5
+        },
+        {
+          "date": "2026-03-10",
+          "open": 31.4,
+          "high": 31.75,
+          "low": 31.1,
+          "close": 31.5
         }
       ]
     },
     "2603": {
       "code": "2603",
       "name": "2603",
-      "currentPrice": 210.5,
-      "change": 0.0,
+      "currentPrice": 205.5,
+      "change": -2.38,
       "high": 222.5,
       "low": 178.0,
-      "k": 67.6,
-      "d": 70.8,
-      "kd": 67.6,
+      "k": 60.7,
+      "d": 67.4,
+      "kd": 60.7,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.236,
+      "hitFib": 0.382,
       "fibLevels": [
         {
           "ratio": 0,
@@ -12077,13 +12077,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 194.5,
-          "high": 196.0,
-          "low": 194.0,
-          "close": 195.0
-        },
         {
           "date": "2026-01-16",
           "open": 193.0,
@@ -12286,22 +12279,29 @@
           "high": 216.0,
           "low": 205.0,
           "close": 210.5
+        },
+        {
+          "date": "2026-03-10",
+          "open": 207.0,
+          "high": 210.0,
+          "low": 203.5,
+          "close": 205.5
         }
       ]
     },
     "2609": {
       "code": "2609",
       "name": "2609",
-      "currentPrice": 61.6,
-      "change": 1.48,
+      "currentPrice": 60.0,
+      "change": -2.6,
       "high": 69.9,
       "low": 50.2,
-      "k": 53.2,
-      "d": 63.3,
-      "kd": 53.2,
+      "k": 45.5,
+      "d": 57.4,
+      "kd": 45.5,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.382,
+      "hitFib": 0.5,
       "fibLevels": [
         {
           "ratio": 0,
@@ -12333,13 +12333,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 55.8,
-          "high": 56.0,
-          "low": 55.0,
-          "close": 55.5
-        },
         {
           "date": "2026-01-16",
           "open": 55.6,
@@ -12542,19 +12535,26 @@
           "high": 65.0,
           "low": 59.1,
           "close": 61.6
+        },
+        {
+          "date": "2026-03-10",
+          "open": 60.0,
+          "high": 60.9,
+          "low": 59.3,
+          "close": 60.0
         }
       ]
     },
     "2610": {
       "code": "2610",
       "name": "2610",
-      "currentPrice": 18.25,
-      "change": -3.44,
+      "currentPrice": 18.35,
+      "change": 0.55,
       "high": 23.5,
       "low": 18.0,
-      "k": 6.6,
-      "d": 9.6,
-      "kd": 6.6,
+      "k": 7.7,
+      "d": 9.0,
+      "kd": 7.7,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -12589,13 +12589,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 21.3,
-          "high": 21.8,
-          "low": 21.05,
-          "close": 21.35
-        },
         {
           "date": "2026-01-16",
           "open": 21.4,
@@ -12798,22 +12791,29 @@
           "high": 18.4,
           "low": 18.0,
           "close": 18.25
+        },
+        {
+          "date": "2026-03-10",
+          "open": 18.7,
+          "high": 18.7,
+          "low": 18.25,
+          "close": 18.35
         }
       ]
     },
     "2615": {
       "code": "2615",
       "name": "2615",
-      "currentPrice": 81.1,
-      "change": 3.18,
+      "currentPrice": 79.2,
+      "change": -2.34,
       "high": 92.4,
       "low": 73.1,
-      "k": 37.1,
-      "d": 47.9,
-      "kd": 37.1,
+      "k": 31.6,
+      "d": 42.5,
+      "kd": 31.6,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.618,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -12845,13 +12845,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 79.5,
-          "high": 79.6,
-          "low": 78.5,
-          "close": 78.7
-        },
         {
           "date": "2026-01-16",
           "open": 78.7,
@@ -13054,19 +13047,26 @@
           "high": 84.8,
           "low": 76.6,
           "close": 81.1
+        },
+        {
+          "date": "2026-03-10",
+          "open": 80.0,
+          "high": 80.3,
+          "low": 77.6,
+          "close": 79.2
         }
       ]
     },
     "2618": {
       "code": "2618",
       "name": "2618",
-      "currentPrice": 32.5,
-      "change": -5.11,
+      "currentPrice": 32.6,
+      "change": 0.31,
       "high": 39.5,
-      "low": 32.2,
-      "k": 8.9,
-      "d": 15.1,
-      "kd": 8.9,
+      "low": 32.15,
+      "k": 8.3,
+      "d": 12.8,
+      "kd": 8.3,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -13077,37 +13077,30 @@
         },
         {
           "ratio": 0.236,
-          "price": 37.78
+          "price": 37.77
         },
         {
           "ratio": 0.382,
-          "price": 36.71
+          "price": 36.69
         },
         {
           "ratio": 0.5,
-          "price": 35.85
+          "price": 35.83
         },
         {
           "ratio": 0.618,
-          "price": 34.99
+          "price": 34.96
         },
         {
           "ratio": 0.786,
-          "price": 33.76
+          "price": 33.72
         },
         {
           "ratio": 1,
-          "price": 32.2
+          "price": 32.15
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 37.3,
-          "high": 37.7,
-          "low": 36.95,
-          "close": 37.5
-        },
         {
           "date": "2026-01-16",
           "open": 37.65,
@@ -13310,19 +13303,26 @@
           "high": 33.5,
           "low": 32.2,
           "close": 32.5
+        },
+        {
+          "date": "2026-03-10",
+          "open": 33.25,
+          "high": 33.25,
+          "low": 32.15,
+          "close": 32.6
         }
       ]
     },
     "1583": {
       "code": "1583",
       "name": "1583",
-      "currentPrice": 43.85,
-      "change": -4.78,
+      "currentPrice": 44.2,
+      "change": 0.8,
       "high": 52.1,
       "low": 41.65,
-      "k": 17.0,
-      "d": 30.0,
-      "kd": 17.0,
+      "k": 17.1,
+      "d": 25.7,
+      "kd": 17.1,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": 0.786,
@@ -13357,13 +13357,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 46.1,
-          "high": 47.1,
-          "low": 46.1,
-          "close": 46.55
-        },
         {
           "date": "2026-01-16",
           "open": 47.5,
@@ -13566,22 +13559,29 @@
           "high": 44.8,
           "low": 42.85,
           "close": 43.85
+        },
+        {
+          "date": "2026-03-10",
+          "open": 44.95,
+          "high": 45.0,
+          "low": 43.25,
+          "close": 44.2
         }
       ]
     },
     "3443": {
       "code": "3443",
       "name": "3443",
-      "currentPrice": 2190.0,
-      "change": -8.18,
+      "currentPrice": 2245.0,
+      "change": 2.51,
       "high": 2830.0,
       "low": 1555.0,
-      "k": 20.2,
-      "d": 31.4,
-      "kd": 20.2,
+      "k": 18.4,
+      "d": 27.1,
+      "kd": 18.4,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.5,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -13613,13 +13613,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 2435.0,
-          "high": 2525.0,
-          "low": 2435.0,
-          "close": 2505.0
-        },
         {
           "date": "2026-01-16",
           "open": 2610.0,
@@ -13822,6 +13815,13 @@
           "high": 2200.0,
           "low": 2150.0,
           "close": 2190.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 2255.0,
+          "high": 2300.0,
+          "low": 2190.0,
+          "close": 2245.0
         }
       ]
     },
@@ -13829,14 +13829,14 @@
       "code": "5269",
       "name": "5269",
       "currentPrice": 1220.0,
-      "change": -5.06,
+      "change": 0.0,
       "high": 1525.0,
-      "low": 1130.0,
-      "k": 46.8,
-      "d": 46.8,
-      "kd": 46.8,
+      "low": 1140.0,
+      "k": 43.4,
+      "d": 45.6,
+      "kd": 43.4,
       "goldenCross": false,
-      "deathCross": false,
+      "deathCross": true,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -13845,37 +13845,30 @@
         },
         {
           "ratio": 0.236,
-          "price": 1431.78
+          "price": 1434.14
         },
         {
           "ratio": 0.382,
-          "price": 1374.11
+          "price": 1377.93
         },
         {
           "ratio": 0.5,
-          "price": 1327.5
+          "price": 1332.5
         },
         {
           "ratio": 0.618,
-          "price": 1280.89
+          "price": 1287.07
         },
         {
           "ratio": 0.786,
-          "price": 1214.53
+          "price": 1222.39
         },
         {
           "ratio": 1,
-          "price": 1130.0
+          "price": 1140.0
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 1330.0,
-          "high": 1400.0,
-          "low": 1320.0,
-          "close": 1335.0
-        },
         {
           "date": "2026-01-16",
           "open": 1345.0,
@@ -14078,19 +14071,26 @@
           "high": 1230.0,
           "low": 1160.0,
           "close": 1220.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 1235.0,
+          "high": 1265.0,
+          "low": 1190.0,
+          "close": 1220.0
         }
       ]
     },
     "6415": {
       "code": "6415",
       "name": "6415",
-      "currentPrice": 233.0,
-      "change": -7.72,
+      "currentPrice": 252.5,
+      "change": 8.37,
       "high": 312.0,
       "low": 174.5,
-      "k": 20.1,
-      "d": 26.7,
-      "kd": 20.1,
+      "k": 26.5,
+      "d": 26.6,
+      "kd": 26.5,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -14125,13 +14125,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 221.0,
-          "high": 221.0,
-          "low": 211.0,
-          "close": 211.0
-        },
         {
           "date": "2026-01-16",
           "open": 213.5,
@@ -14334,19 +14327,26 @@
           "high": 234.5,
           "low": 227.5,
           "close": 233.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 243.0,
+          "high": 256.0,
+          "low": 237.5,
+          "close": 252.5
         }
       ]
     },
     "3149": {
       "code": "3149",
       "name": "3149",
-      "currentPrice": 48.15,
-      "change": -7.05,
+      "currentPrice": 47.6,
+      "change": -1.14,
       "high": 63.2,
       "low": 32.2,
-      "k": 30.7,
-      "d": 41.6,
-      "kd": 30.7,
+      "k": 22.6,
+      "d": 35.2,
+      "kd": 22.6,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": 0.5,
@@ -14381,13 +14381,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 44.2,
-          "high": 46.15,
-          "low": 44.0,
-          "close": 45.1
-        },
         {
           "date": "2026-01-16",
           "open": 47.0,
@@ -14590,19 +14583,26 @@
           "high": 49.6,
           "low": 47.15,
           "close": 48.15
+        },
+        {
+          "date": "2026-03-10",
+          "open": 49.6,
+          "high": 49.75,
+          "low": 47.0,
+          "close": 47.6
         }
       ]
     },
     "2439": {
       "code": "2439",
       "name": "2439",
-      "currentPrice": 79.9,
-      "change": -3.39,
+      "currentPrice": 79.8,
+      "change": -0.13,
       "high": 116.5,
       "low": 77.5,
-      "k": 7.3,
-      "d": 11.2,
-      "kd": 7.3,
+      "k": 8.3,
+      "d": 10.2,
+      "kd": 8.3,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -14637,13 +14637,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 109.0,
-          "high": 109.0,
-          "low": 106.0,
-          "close": 109.0
-        },
         {
           "date": "2026-01-16",
           "open": 109.0,
@@ -14846,46 +14839,53 @@
           "high": 80.0,
           "low": 77.5,
           "close": 79.9
+        },
+        {
+          "date": "2026-03-10",
+          "open": 81.0,
+          "high": 81.6,
+          "low": 79.3,
+          "close": 79.8
         }
       ]
     },
     "3702": {
       "code": "3702",
       "name": "3702",
-      "currentPrice": 69.9,
-      "change": -2.92,
-      "high": 72.0,
+      "currentPrice": 72.1,
+      "change": 3.15,
+      "high": 73.8,
       "low": 56.6,
-      "k": 79.7,
-      "d": 77.5,
-      "kd": 79.7,
+      "k": 80.2,
+      "d": 78.4,
+      "kd": 80.2,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
-          "price": 72.0
+          "price": 73.8
         },
         {
           "ratio": 0.236,
-          "price": 68.37
+          "price": 69.74
         },
         {
           "ratio": 0.382,
-          "price": 66.12
+          "price": 67.23
         },
         {
           "ratio": 0.5,
-          "price": 64.3
+          "price": 65.2
         },
         {
           "ratio": 0.618,
-          "price": 62.48
+          "price": 63.17
         },
         {
           "ratio": 0.786,
-          "price": 59.9
+          "price": 60.28
         },
         {
           "ratio": 1,
@@ -14893,13 +14893,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 65.4,
-          "high": 65.4,
-          "low": 64.2,
-          "close": 65.2
-        },
         {
           "date": "2026-01-16",
           "open": 65.4,
@@ -15102,22 +15095,29 @@
           "high": 69.9,
           "low": 67.4,
           "close": 69.9
+        },
+        {
+          "date": "2026-03-10",
+          "open": 72.0,
+          "high": 73.8,
+          "low": 70.7,
+          "close": 72.1
         }
       ]
     },
     "6770": {
       "code": "6770",
       "name": "6770",
-      "currentPrice": 59.4,
-      "change": -7.62,
+      "currentPrice": 62.2,
+      "change": 4.71,
       "high": 78.9,
       "low": 27.9,
-      "k": 21.6,
-      "d": 37.3,
-      "kd": 21.6,
+      "k": 21.2,
+      "d": 32.0,
+      "kd": 21.2,
       "goldenCross": false,
       "deathCross": false,
-      "hitFib": 0.382,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -15149,13 +15149,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 51.0,
-          "high": 51.3,
-          "low": 49.85,
-          "close": 51.3
-        },
         {
           "date": "2026-01-16",
           "open": 53.0,
@@ -15358,19 +15351,26 @@
           "high": 59.4,
           "low": 57.9,
           "close": 59.4
+        },
+        {
+          "date": "2026-03-10",
+          "open": 63.8,
+          "high": 64.2,
+          "low": 60.5,
+          "close": 62.2
         }
       ]
     },
     "2049": {
       "code": "2049",
       "name": "2049",
-      "currentPrice": 220.0,
-      "change": -4.35,
+      "currentPrice": 232.0,
+      "change": 5.45,
       "high": 274.5,
       "low": 180.5,
-      "k": 32.1,
-      "d": 42.1,
-      "kd": 32.1,
+      "k": 34.9,
+      "d": 39.7,
+      "kd": 34.9,
       "goldenCross": false,
       "deathCross": false,
       "hitFib": null,
@@ -15405,13 +15405,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-01-15",
-          "open": 213.5,
-          "high": 213.5,
-          "low": 207.0,
-          "close": 213.0
-        },
         {
           "date": "2026-01-16",
           "open": 217.0,
@@ -15614,6 +15607,13 @@
           "high": 222.5,
           "low": 211.0,
           "close": 220.0
+        },
+        {
+          "date": "2026-03-10",
+          "open": 225.0,
+          "high": 233.5,
+          "low": 224.0,
+          "close": 232.0
         }
       ]
     }
