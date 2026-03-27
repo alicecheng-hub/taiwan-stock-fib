@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27 06:29",
+  "updated": "2026-03-27 07:57",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -19,7 +19,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 179652,
+      "avgVol20": 180157,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -350,7 +350,7 @@
           "high": 75.1,
           "low": 74.1,
           "close": 75.0,
-          "volume": 105697
+          "volume": 115798
         }
       ],
       "scoreHistory": [
@@ -394,7 +394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 59771,
+      "avgVol20": 59848,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -725,7 +725,7 @@
           "high": 38.45,
           "low": 38.07,
           "close": 38.43,
-          "volume": 50428
+          "volume": 51978
         }
       ],
       "scoreHistory": [
@@ -769,7 +769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 64608,
+      "avgVol20": 64660,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -1100,7 +1100,7 @@
           "high": 22.4,
           "low": 22.18,
           "close": 22.39,
-          "volume": 28963
+          "volume": 29994
         }
       ],
       "scoreHistory": [
@@ -1144,7 +1144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 10705,
+      "avgVol20": 10709,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -1475,7 +1475,7 @@
           "high": 14.1,
           "low": 13.97,
           "close": 14.08,
-          "volume": 8197
+          "volume": 8279
         }
       ],
       "scoreHistory": [
@@ -1519,7 +1519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 5601,
+      "avgVol20": 5630,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -1850,7 +1850,7 @@
           "high": 174.5,
           "low": 172.15,
           "close": 174.45,
-          "volume": 2280
+          "volume": 2865
         }
       ],
       "scoreHistory": [
@@ -1894,7 +1894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 203067,
+      "avgVol20": 203174,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -2225,7 +2225,7 @@
           "high": 22.59,
           "low": 22.38,
           "close": 22.52,
-          "volume": 91773
+          "volume": 93923
         }
       ],
       "scoreHistory": [
@@ -2269,7 +2269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 40756,
+      "avgVol20": 40768,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -2600,7 +2600,7 @@
           "high": 19.44,
           "low": 19.11,
           "close": 19.42,
-          "volume": 22720
+          "volume": 22954
         }
       ],
       "scoreHistory": [
@@ -2644,7 +2644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 39279,
+      "avgVol20": 39285,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -2975,7 +2975,7 @@
           "high": 9.67,
           "low": 9.56,
           "close": 9.67,
-          "volume": 15211
+          "volume": 15327
         }
       ],
       "scoreHistory": [
@@ -3019,7 +3019,7 @@
       "deathCross": false,
       "kRising": true,
       "volSurge": false,
-      "avgVol20": 66738,
+      "avgVol20": 66790,
       "hitFib": null,
       "fibLevels": [
         {
@@ -3350,7 +3350,7 @@
           "high": 200.5,
           "low": 196.5,
           "close": 199.5,
-          "volume": 28494
+          "volume": 29525
         }
       ],
       "scoreHistory": [
@@ -3394,7 +3394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 17083,
+      "avgVol20": 17096,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -3725,7 +3725,7 @@
           "high": 289.5,
           "low": 282.0,
           "close": 289.0,
-          "volume": 12779
+          "volume": 13030
         }
       ],
       "scoreHistory": [
@@ -3769,7 +3769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 4863,
+      "avgVol20": 4867,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -4100,7 +4100,7 @@
           "high": 577.0,
           "low": 566.0,
           "close": 577.0,
-          "volume": 2403
+          "volume": 2481
         }
       ],
       "scoreHistory": [
@@ -4144,7 +4144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 14230,
+      "avgVol20": 14235,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -4475,7 +4475,7 @@
           "high": 81.5,
           "low": 79.5,
           "close": 80.9,
-          "volume": 11854
+          "volume": 11954
         }
       ],
       "scoreHistory": [
@@ -4519,7 +4519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 32862,
+      "avgVol20": 32877,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -4850,7 +4850,7 @@
           "high": 30.25,
           "low": 29.45,
           "close": 30.25,
-          "volume": 61644
+          "volume": 61944
         }
       ],
       "scoreHistory": [
@@ -4894,7 +4894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 6939,
+      "avgVol20": 6941,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -5225,7 +5225,7 @@
           "high": 236.0,
           "low": 230.0,
           "close": 235.0,
-          "volume": 4315
+          "volume": 4360
         }
       ],
       "scoreHistory": [
@@ -5269,7 +5269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 35848,
+      "avgVol20": 35860,
       "hitFib": null,
       "fibLevels": [
         {
@@ -5600,7 +5600,7 @@
           "high": 127.5,
           "low": 125.5,
           "close": 127.0,
-          "volume": 17378
+          "volume": 17630
         }
       ],
       "scoreHistory": [
@@ -5644,7 +5644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 2077,
+      "avgVol20": 2086,
       "hitFib": null,
       "fibLevels": [
         {
@@ -5975,7 +5975,7 @@
           "high": 3450.0,
           "low": 3320.0,
           "close": 3395.0,
-          "volume": 1832
+          "volume": 2008
         }
       ],
       "scoreHistory": [
@@ -6019,7 +6019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3810,
+      "avgVol20": 3816,
       "hitFib": null,
       "fibLevels": [
         {
@@ -6350,7 +6350,7 @@
           "high": 2950.0,
           "low": 2845.0,
           "close": 2910.0,
-          "volume": 1910
+          "volume": 2035
         }
       ],
       "scoreHistory": [
@@ -6394,7 +6394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 44901,
+      "avgVol20": 45065,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -6725,7 +6725,7 @@
           "high": 1825.0,
           "low": 1800.0,
           "close": 1820.0,
-          "volume": 28883
+          "volume": 32169
         }
       ],
       "scoreHistory": [
@@ -6769,7 +6769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 7494,
+      "avgVol20": 7526,
       "hitFib": 0.618,
       "fibLevels": [
         {
@@ -7100,7 +7100,7 @@
           "high": 1585.0,
           "low": 1545.0,
           "close": 1585.0,
-          "volume": 6817
+          "volume": 7443
         }
       ],
       "scoreHistory": [
@@ -7144,7 +7144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3771,
+      "avgVol20": 3776,
       "hitFib": 0.618,
       "fibLevels": [
         {
@@ -7475,7 +7475,7 @@
           "high": 498.0,
           "low": 485.5,
           "close": 494.5,
-          "volume": 2842
+          "volume": 2943
         }
       ],
       "scoreHistory": [
@@ -7519,7 +7519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 71347,
+      "avgVol20": 71357,
       "hitFib": null,
       "fibLevels": [
         {
@@ -7850,7 +7850,7 @@
           "high": 58.5,
           "low": 57.1,
           "close": 57.8,
-          "volume": 41428
+          "volume": 41614
         }
       ],
       "scoreHistory": [
@@ -7894,7 +7894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 106155,
+      "avgVol20": 106260,
       "hitFib": null,
       "fibLevels": [
         {
@@ -8225,7 +8225,7 @@
           "high": 220.0,
           "low": 207.0,
           "close": 219.5,
-          "volume": 131167
+          "volume": 133271
         }
       ],
       "scoreHistory": [
@@ -8269,7 +8269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 20868,
+      "avgVol20": 20884,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -8600,7 +8600,7 @@
           "high": 354.0,
           "low": 342.5,
           "close": 353.5,
-          "volume": 16769
+          "volume": 17087
         }
       ],
       "scoreHistory": [
@@ -8644,7 +8644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 4572,
+      "avgVol20": 4585,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -8975,7 +8975,7 @@
           "high": 406.5,
           "low": 390.0,
           "close": 399.0,
-          "volume": 9477
+          "volume": 9730
         }
       ],
       "scoreHistory": [
@@ -9019,7 +9019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 127386,
+      "avgVol20": 127458,
       "hitFib": null,
       "fibLevels": [
         {
@@ -9350,7 +9350,7 @@
           "high": 125.0,
           "low": 115.5,
           "close": 125.0,
-          "volume": 46378
+          "volume": 47808
         }
       ],
       "scoreHistory": [
@@ -9394,7 +9394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 2383,
+      "avgVol20": 2386,
       "hitFib": null,
       "fibLevels": [
         {
@@ -9725,7 +9725,7 @@
           "high": 2510.0,
           "low": 2415.0,
           "close": 2460.0,
-          "volume": 1393
+          "volume": 1460
         }
       ],
       "scoreHistory": [
@@ -9769,7 +9769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 271870,
+      "avgVol20": 271981,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -10100,7 +10100,7 @@
           "high": 61.2,
           "low": 57.1,
           "close": 59.2,
-          "volume": 220441
+          "volume": 222663
         }
       ],
       "scoreHistory": [
@@ -10144,7 +10144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 5332,
+      "avgVol20": 5335,
       "hitFib": null,
       "fibLevels": [
         {
@@ -10475,7 +10475,7 @@
           "high": 154.0,
           "low": 145.0,
           "close": 152.0,
-          "volume": 4127
+          "volume": 4187
         }
       ],
       "scoreHistory": [
@@ -10519,7 +10519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 27308,
+      "avgVol20": 27323,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -10850,7 +10850,7 @@
           "high": 261.0,
           "low": 253.5,
           "close": 260.0,
-          "volume": 11495
+          "volume": 11792
         }
       ],
       "scoreHistory": [
@@ -10894,7 +10894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 1084,
+      "avgVol20": 1086,
       "hitFib": null,
       "fibLevels": [
         {
@@ -11225,7 +11225,7 @@
           "high": 1180.0,
           "low": 1150.0,
           "close": 1165.0,
-          "volume": 389
+          "volume": 418
         }
       ],
       "scoreHistory": [
@@ -11269,7 +11269,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 6764,
+      "avgVol20": 6768,
       "hitFib": null,
       "fibLevels": [
         {
@@ -11600,7 +11600,7 @@
           "high": 298.0,
           "low": 288.5,
           "close": 293.0,
-          "volume": 4394
+          "volume": 4455
         }
       ],
       "scoreHistory": [
@@ -12010,7 +12010,7 @@
       "high": 1565.0,
       "low": 886.0,
       "k": 72.0,
-      "d": 71.2,
+      "d": 71.3,
       "kd": 72.0,
       "ma5": 1480.0,
       "ma20": 1396.75,
@@ -12019,7 +12019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 13339,
+      "avgVol20": 13362,
       "hitFib": null,
       "fibLevels": [
         {
@@ -12028,27 +12028,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 1410.18
+          "price": 1404.76
         },
         {
           "ratio": 0.382,
-          "price": 1314.41
+          "price": 1305.62
         },
         {
           "ratio": 0.5,
-          "price": 1237.0
+          "price": 1225.5
         },
         {
           "ratio": 0.618,
-          "price": 1159.59
+          "price": 1145.38
         },
         {
           "ratio": 0.786,
-          "price": 1049.38
+          "price": 1031.31
         },
         {
           "ratio": 1,
-          "price": 909.0
+          "price": 886.0
         }
       ],
       "fibLevels60": [
@@ -12058,27 +12058,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 1410.18
+          "price": 1404.76
         },
         {
           "ratio": 0.382,
-          "price": 1314.41
+          "price": 1305.62
         },
         {
           "ratio": 0.5,
-          "price": 1237.0
+          "price": 1225.5
         },
         {
           "ratio": 0.618,
-          "price": 1159.59
+          "price": 1145.38
         },
         {
           "ratio": 0.786,
-          "price": 1049.38
+          "price": 1031.31
         },
         {
           "ratio": 1,
-          "price": 909.0
+          "price": 886.0
         }
       ],
       "fibLevels120": [
@@ -12088,27 +12088,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 1410.18
+          "price": 1404.76
         },
         {
           "ratio": 0.382,
-          "price": 1314.41
+          "price": 1305.62
         },
         {
           "ratio": 0.5,
-          "price": 1237.0
+          "price": 1225.5
         },
         {
           "ratio": 0.618,
-          "price": 1159.59
+          "price": 1145.38
         },
         {
           "ratio": 0.786,
-          "price": 1049.38
+          "price": 1031.31
         },
         {
           "ratio": 1,
-          "price": 909.0
+          "price": 886.0
         }
       ],
       "candles": [
@@ -12350,7 +12350,7 @@
           "high": 1520.0,
           "low": 1440.0,
           "close": 1510.0,
-          "volume": 10068
+          "volume": 10527
         }
       ],
       "scoreHistory": [
@@ -12394,7 +12394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 19563,
+      "avgVol20": 19578,
       "hitFib": null,
       "fibLevels": [
         {
@@ -12725,7 +12725,7 @@
           "high": 154.5,
           "low": 149.0,
           "close": 152.0,
-          "volume": 12887
+          "volume": 13188
         }
       ],
       "scoreHistory": [
@@ -12769,7 +12769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 4401,
+      "avgVol20": 4403,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -13100,7 +13100,7 @@
           "high": 52.3,
           "low": 51.3,
           "close": 52.2,
-          "volume": 2376
+          "volume": 2411
         }
       ],
       "scoreHistory": [
@@ -13144,7 +13144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 6164,
+      "avgVol20": 6177,
       "hitFib": null,
       "fibLevels": [
         {
@@ -13475,7 +13475,7 @@
           "high": 2225.0,
           "low": 2120.0,
           "close": 2195.0,
-          "volume": 5239
+          "volume": 5491
         }
       ],
       "scoreHistory": [
@@ -13519,7 +13519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 6421,
+      "avgVol20": 6423,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -13850,7 +13850,7 @@
           "high": 45.0,
           "low": 43.7,
           "close": 44.85,
-          "volume": 3014
+          "volume": 3060
         }
       ],
       "scoreHistory": [
@@ -14269,7 +14269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 21313,
+      "avgVol20": 21328,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -14600,7 +14600,7 @@
           "high": 505.0,
           "low": 473.0,
           "close": 505.0,
-          "volume": 5470
+          "volume": 5779
         }
       ],
       "scoreHistory": [
@@ -14644,7 +14644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 10533,
+      "avgVol20": 10539,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -14975,7 +14975,7 @@
           "high": 935.0,
           "low": 890.0,
           "close": 924.0,
-          "volume": 4803
+          "volume": 4937
         }
       ],
       "scoreHistory": [
@@ -15019,7 +15019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 2772,
+      "avgVol20": 2775,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -15350,7 +15350,7 @@
           "high": 63.5,
           "low": 60.4,
           "close": 63.5,
-          "volume": 3120
+          "volume": 3170
         }
       ],
       "scoreHistory": [
@@ -15769,7 +15769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 5323,
+      "avgVol20": 5329,
       "hitFib": null,
       "fibLevels": [
         {
@@ -16100,7 +16100,7 @@
           "high": 1670.0,
           "low": 1600.0,
           "close": 1655.0,
-          "volume": 4365
+          "volume": 4485
         }
       ],
       "scoreHistory": [
@@ -16144,7 +16144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 21896,
+      "avgVol20": 21936,
       "hitFib": null,
       "fibLevels": [
         {
@@ -16475,7 +16475,7 @@
           "high": 189.0,
           "low": 168.5,
           "close": 188.5,
-          "volume": 46141
+          "volume": 46939
         }
       ],
       "scoreHistory": [
@@ -16519,7 +16519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3130,
+      "avgVol20": 3131,
       "hitFib": null,
       "fibLevels": [
         {
@@ -16850,7 +16850,7 @@
           "high": 172.0,
           "low": 165.0,
           "close": 168.0,
-          "volume": 3136
+          "volume": 3165
         }
       ],
       "scoreHistory": [
@@ -16894,7 +16894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 872,
+      "avgVol20": 875,
       "hitFib": null,
       "fibLevels": [
         {
@@ -17225,7 +17225,7 @@
           "high": 2225.0,
           "low": 2170.0,
           "close": 2220.0,
-          "volume": 512
+          "volume": 568
         }
       ],
       "scoreHistory": [
@@ -17269,7 +17269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 4488,
+      "avgVol20": 4490,
       "hitFib": null,
       "fibLevels": [
         {
@@ -17600,7 +17600,7 @@
           "high": 91.7,
           "low": 90.4,
           "close": 91.7,
-          "volume": 2169
+          "volume": 2203
         }
       ],
       "scoreHistory": [
@@ -17644,7 +17644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 86480,
+      "avgVol20": 86499,
       "hitFib": null,
       "fibLevels": [
         {
@@ -17975,7 +17975,7 @@
           "high": 74.9,
           "low": 72.2,
           "close": 74.2,
-          "volume": 38954
+          "volume": 39331
         }
       ],
       "scoreHistory": [
@@ -18394,7 +18394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 21608,
+      "avgVol20": 21615,
       "hitFib": null,
       "fibLevels": [
         {
@@ -18725,7 +18725,7 @@
           "high": 51.0,
           "low": 48.8,
           "close": 50.5,
-          "volume": 12929
+          "volume": 13062
         }
       ],
       "scoreHistory": [
@@ -18769,7 +18769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 25145,
+      "avgVol20": 25157,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -19100,7 +19100,7 @@
           "high": 204.5,
           "low": 199.5,
           "close": 201.0,
-          "volume": 9334
+          "volume": 9564
         }
       ],
       "scoreHistory": [
@@ -19144,7 +19144,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 66901,
+      "avgVol20": 66908,
       "hitFib": null,
       "fibLevels": [
         {
@@ -19475,7 +19475,7 @@
           "high": 53.7,
           "low": 52.3,
           "close": 52.4,
-          "volume": 14979
+          "volume": 15106
         }
       ],
       "scoreHistory": [
@@ -19519,7 +19519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 29359,
+      "avgVol20": 29362,
       "hitFib": null,
       "fibLevels": [
         {
@@ -19850,7 +19850,7 @@
           "high": 76.8,
           "low": 74.3,
           "close": 75.1,
-          "volume": 7221
+          "volume": 7282
         }
       ],
       "scoreHistory": [
@@ -19894,7 +19894,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 42336,
+      "avgVol20": 42339,
       "hitFib": null,
       "fibLevels": [
         {
@@ -20225,7 +20225,7 @@
           "high": 18.75,
           "low": 18.5,
           "close": 18.65,
-          "volume": 23114
+          "volume": 23183
         }
       ],
       "scoreHistory": [
@@ -20269,7 +20269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 38907,
+      "avgVol20": 38911,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -20600,7 +20600,7 @@
           "high": 35.75,
           "low": 34.95,
           "close": 35.45,
-          "volume": 21947
+          "volume": 22016
         }
       ],
       "scoreHistory": [
@@ -20644,7 +20644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 12755,
+      "avgVol20": 12757,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -20975,7 +20975,7 @@
           "high": 135.0,
           "low": 134.0,
           "close": 134.0,
-          "volume": 4879
+          "volume": 4920
         }
       ],
       "scoreHistory": [
@@ -21019,7 +21019,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 8601,
+      "avgVol20": 8602,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -21350,7 +21350,7 @@
           "high": 109.5,
           "low": 108.5,
           "close": 109.5,
-          "volume": 4944
+          "volume": 4957
         }
       ],
       "scoreHistory": [
@@ -21394,7 +21394,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 5781,
+      "avgVol20": 5782,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -21725,7 +21725,7 @@
           "high": 93.0,
           "low": 92.0,
           "close": 92.6,
-          "volume": 8456
+          "volume": 8466
         }
       ],
       "scoreHistory": [
@@ -21769,7 +21769,7 @@
       "deathCross": false,
       "kRising": true,
       "volSurge": false,
-      "avgVol20": 38951,
+      "avgVol20": 38955,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -22100,7 +22100,7 @@
           "high": 57.1,
           "low": 55.2,
           "close": 56.3,
-          "volume": 12143
+          "volume": 12213
         }
       ],
       "scoreHistory": [
@@ -22144,7 +22144,7 @@
       "deathCross": false,
       "kRising": true,
       "volSurge": false,
-      "avgVol20": 43336,
+      "avgVol20": 43343,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -22475,7 +22475,7 @@
           "high": 48.15,
           "low": 46.75,
           "close": 46.9,
-          "volume": 19628
+          "volume": 19772
         }
       ],
       "scoreHistory": [
@@ -22519,7 +22519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 49617,
+      "avgVol20": 49626,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -22850,7 +22850,7 @@
           "high": 45.85,
           "low": 43.9,
           "close": 44.25,
-          "volume": 28781
+          "volume": 28950
         }
       ],
       "scoreHistory": [
@@ -22894,7 +22894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 50811,
+      "avgVol20": 50821,
       "hitFib": 0.618,
       "fibLevels": [
         {
@@ -23225,7 +23225,7 @@
           "high": 19.85,
           "low": 19.5,
           "close": 19.6,
-          "volume": 25597
+          "volume": 25813
         }
       ],
       "scoreHistory": [
@@ -23269,7 +23269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 30240,
+      "avgVol20": 30248,
       "hitFib": null,
       "fibLevels": [
         {
@@ -23600,7 +23600,7 @@
           "high": 22.95,
           "low": 22.7,
           "close": 22.8,
-          "volume": 13289
+          "volume": 13449
         }
       ],
       "scoreHistory": [
@@ -23644,7 +23644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 10907,
+      "avgVol20": 10911,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -23975,7 +23975,7 @@
           "high": 72.5,
           "low": 70.9,
           "close": 72.0,
-          "volume": 9134
+          "volume": 9220
         }
       ],
       "scoreHistory": [
@@ -24019,7 +24019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 18901,
+      "avgVol20": 18904,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -24350,7 +24350,7 @@
           "high": 30.75,
           "low": 30.15,
           "close": 30.75,
-          "volume": 9633
+          "volume": 9684
         }
       ],
       "scoreHistory": [
@@ -24394,7 +24394,7 @@
       "deathCross": false,
       "kRising": true,
       "volSurge": false,
-      "avgVol20": 21348,
+      "avgVol20": 21350,
       "hitFib": null,
       "fibLevels": [
         {
@@ -24725,7 +24725,7 @@
           "high": 26.55,
           "low": 26.15,
           "close": 26.25,
-          "volume": 13754
+          "volume": 13797
         }
       ],
       "scoreHistory": [
@@ -25100,7 +25100,7 @@
           "high": 502.0,
           "low": 494.0,
           "close": 497.5,
-          "volume": 404
+          "volume": 411
         }
       ],
       "scoreHistory": [
@@ -25144,7 +25144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 945,
+      "avgVol20": 946,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -25475,7 +25475,7 @@
           "high": 992.0,
           "low": 973.0,
           "close": 990.0,
-          "volume": 336
+          "volume": 346
         }
       ],
       "scoreHistory": [
@@ -25519,7 +25519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 73563,
+      "avgVol20": 73582,
       "hitFib": null,
       "fibLevels": [
         {
@@ -25850,7 +25850,7 @@
           "high": 55.0,
           "low": 50.6,
           "close": 54.9,
-          "volume": 56526
+          "volume": 56916
         }
       ],
       "scoreHistory": [
@@ -25894,7 +25894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 9640,
+      "avgVol20": 9646,
       "hitFib": null,
       "fibLevels": [
         {
@@ -26225,7 +26225,7 @@
           "high": 64.8,
           "low": 63.1,
           "close": 63.8,
-          "volume": 6188
+          "volume": 6311
         }
       ],
       "scoreHistory": [
@@ -26269,7 +26269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 1975,
+      "avgVol20": 1977,
       "hitFib": null,
       "fibLevels": [
         {
@@ -26600,7 +26600,7 @@
           "high": 250.0,
           "low": 243.0,
           "close": 247.0,
-          "volume": 2259
+          "volume": 2289
         }
       ],
       "scoreHistory": [
@@ -26644,7 +26644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 33755,
+      "avgVol20": 33768,
       "hitFib": null,
       "fibLevels": [
         {
@@ -26975,7 +26975,7 @@
           "high": 30.75,
           "low": 30.0,
           "close": 30.75,
-          "volume": 19711
+          "volume": 19980
         }
       ],
       "scoreHistory": [
@@ -27019,7 +27019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 2740,
+      "avgVol20": 2742,
       "hitFib": 0.618,
       "fibLevels": [
         {
@@ -27350,7 +27350,7 @@
           "high": 194.0,
           "low": 187.5,
           "close": 192.5,
-          "volume": 3122
+          "volume": 3162
         }
       ],
       "scoreHistory": [
@@ -27394,7 +27394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 5581,
+      "avgVol20": 5584,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -27725,7 +27725,7 @@
           "high": 23.8,
           "low": 23.35,
           "close": 23.65,
-          "volume": 3253
+          "volume": 3314
         }
       ],
       "scoreHistory": [
@@ -27769,7 +27769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 4480,
+      "avgVol20": 4483,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -28100,7 +28100,7 @@
           "high": 336.0,
           "low": 329.0,
           "close": 332.5,
-          "volume": 1669
+          "volume": 1726
         }
       ],
       "scoreHistory": [
@@ -28519,7 +28519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 5807,
+      "avgVol20": 5809,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -28850,7 +28850,7 @@
           "high": 236.0,
           "low": 228.5,
           "close": 235.0,
-          "volume": 3443
+          "volume": 3492
         }
       ],
       "scoreHistory": [
@@ -28894,7 +28894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 19144,
+      "avgVol20": 19149,
       "hitFib": null,
       "fibLevels": [
         {
@@ -29225,7 +29225,7 @@
           "high": 94.1,
           "low": 90.6,
           "close": 92.1,
-          "volume": 13883
+          "volume": 13979
         }
       ],
       "scoreHistory": [
@@ -29600,7 +29600,7 @@
           "high": 85.3,
           "low": 84.0,
           "close": 85.3,
-          "volume": 813
+          "volume": 826
         }
       ],
       "scoreHistory": [
@@ -29644,7 +29644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 14781,
+      "avgVol20": 14785,
       "hitFib": null,
       "fibLevels": [
         {
@@ -29975,7 +29975,7 @@
           "high": 31.35,
           "low": 30.25,
           "close": 31.1,
-          "volume": 7608
+          "volume": 7675
         }
       ],
       "scoreHistory": [
@@ -30019,7 +30019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3957,
+      "avgVol20": 3961,
       "hitFib": null,
       "fibLevels": [
         {
@@ -30350,7 +30350,7 @@
           "high": 1620.0,
           "low": 1540.0,
           "close": 1615.0,
-          "volume": 3526
+          "volume": 3605
         }
       ],
       "scoreHistory": [
@@ -31100,7 +31100,7 @@
           "high": 105.0,
           "low": 98.1,
           "close": 100.0,
-          "volume": 680
+          "volume": 686
         }
       ],
       "scoreHistory": [
@@ -31519,7 +31519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3453,
+      "avgVol20": 3458,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -31850,7 +31850,7 @@
           "high": 224.0,
           "low": 220.5,
           "close": 223.5,
-          "volume": 3076
+          "volume": 3184
         }
       ],
       "scoreHistory": [
@@ -31894,7 +31894,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 666,
+      "avgVol20": 667,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -32225,7 +32225,7 @@
           "high": 3660.0,
           "low": 3515.0,
           "close": 3600.0,
-          "volume": 394
+          "volume": 425
         }
       ],
       "scoreHistory": [
@@ -32269,7 +32269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 4394,
+      "avgVol20": 4403,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -32600,7 +32600,7 @@
           "high": 152.0,
           "low": 149.5,
           "close": 152.0,
-          "volume": 3915
+          "volume": 4086
         }
       ],
       "scoreHistory": [
@@ -32644,7 +32644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 531,
+      "avgVol20": 532,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -32975,7 +32975,7 @@
           "high": 319.5,
           "low": 312.0,
           "close": 318.5,
-          "volume": 439
+          "volume": 452
         }
       ],
       "scoreHistory": [
@@ -33019,7 +33019,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 2349,
+      "avgVol20": 2351,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -33350,7 +33350,7 @@
           "high": 53.3,
           "low": 52.1,
           "close": 52.2,
-          "volume": 423
+          "volume": 457
         }
       ],
       "scoreHistory": [
@@ -33394,7 +33394,7 @@
       "deathCross": false,
       "kRising": true,
       "volSurge": false,
-      "avgVol20": 2265,
+      "avgVol20": 2266,
       "hitFib": null,
       "fibLevels": [
         {
@@ -33725,7 +33725,7 @@
           "high": 71.7,
           "low": 70.3,
           "close": 71.4,
-          "volume": 1144
+          "volume": 1163
         }
       ],
       "scoreHistory": [
@@ -33769,7 +33769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 1734,
+      "avgVol20": 1738,
       "hitFib": null,
       "fibLevels": [
         {
@@ -34100,7 +34100,7 @@
           "high": 67.0,
           "low": 65.5,
           "close": 66.0,
-          "volume": 2286
+          "volume": 2353
         }
       ],
       "scoreHistory": [
@@ -34132,7 +34132,7 @@
       "sector": "傳產",
       "currentPrice": 343.5,
       "change": -0.15,
-      "high": 441.5,
+      "high": 470.0,
       "low": 334.0,
       "k": 10.5,
       "d": 12.3,
@@ -34144,7 +34144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 1162,
+      "avgVol20": 1164,
       "hitFib": null,
       "fibLevels": [
         {
@@ -34475,7 +34475,7 @@
           "high": 345.5,
           "low": 334.0,
           "close": 343.5,
-          "volume": 1919
+          "volume": 1963
         }
       ],
       "scoreHistory": [
@@ -34508,7 +34508,7 @@
       "currentPrice": 14.4,
       "change": -2.7,
       "high": 18.0,
-      "low": 11.1,
+      "low": 10.8,
       "k": 11.1,
       "d": 17.2,
       "kd": 11.1,
@@ -34519,7 +34519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 192694,
+      "avgVol20": 192712,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -34850,7 +34850,7 @@
           "high": 14.75,
           "low": 14.3,
           "close": 14.4,
-          "volume": 75773
+          "volume": 76126
         }
       ],
       "scoreHistory": [
@@ -34894,7 +34894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 760253,
+      "avgVol20": 760304,
       "hitFib": null,
       "fibLevels": [
         {
@@ -35225,7 +35225,7 @@
           "high": 24.9,
           "low": 24.05,
           "close": 24.8,
-          "volume": 173496
+          "volume": 174519
         }
       ],
       "scoreHistory": [
