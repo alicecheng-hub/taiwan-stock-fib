@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03 07:59",
+  "updated": "2026-04-03 08:45",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -32633,7 +32633,7 @@
       "currentPrice": 331.5,
       "change": 2.79,
       "high": 354.5,
-      "low": 75.3,
+      "low": 286.5,
       "k": 50.2,
       "d": 34.5,
       "kd": 50.2,
@@ -32645,7 +32645,7 @@
       "kRising": false,
       "volSurge": true,
       "avgVol20": 559,
-      "hitFib": null,
+      "hitFib": 0.382,
       "fibLevels": [
         {
           "ratio": 0,
@@ -32653,27 +32653,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 289.2
+          "price": 338.45
         },
         {
           "ratio": 0.382,
-          "price": 248.8
+          "price": 328.52
         },
         {
           "ratio": 0.5,
-          "price": 216.15
+          "price": 320.5
         },
         {
           "ratio": 0.618,
-          "price": 183.5
+          "price": 312.48
         },
         {
           "ratio": 0.786,
-          "price": 137.01
+          "price": 301.05
         },
         {
           "ratio": 1,
-          "price": 77.8
+          "price": 286.5
         }
       ],
       "fibLevels60": [
@@ -32683,27 +32683,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 289.2
+          "price": 338.45
         },
         {
           "ratio": 0.382,
-          "price": 248.8
+          "price": 328.52
         },
         {
           "ratio": 0.5,
-          "price": 216.15
+          "price": 320.5
         },
         {
           "ratio": 0.618,
-          "price": 183.5
+          "price": 312.48
         },
         {
           "ratio": 0.786,
-          "price": 137.01
+          "price": 301.05
         },
         {
           "ratio": 1,
-          "price": 77.8
+          "price": 286.5
         }
       ],
       "fibLevels120": [
@@ -32713,27 +32713,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 289.2
+          "price": 338.45
         },
         {
           "ratio": 0.382,
-          "price": 248.8
+          "price": 328.52
         },
         {
           "ratio": 0.5,
-          "price": 216.15
+          "price": 320.5
         },
         {
           "ratio": 0.618,
-          "price": 183.5
+          "price": 312.48
         },
         {
           "ratio": 0.786,
-          "price": 137.01
+          "price": 301.05
         },
         {
           "ratio": 1,
-          "price": 77.8
+          "price": 286.5
         }
       ],
       "candles": [
@@ -32981,23 +32981,23 @@
       "scoreHistory": [
         {
           "date": "2026-03-27",
-          "score": 1
+          "score": 2
         },
         {
           "date": "2026-03-30",
-          "score": 1
+          "score": 2
         },
         {
           "date": "2026-03-31",
-          "score": 1
+          "score": 2
         },
         {
           "date": "2026-04-01",
-          "score": 1
+          "score": 2
         },
         {
           "date": "2026-04-02",
-          "score": 2
+          "score": 3
         }
       ]
     },
