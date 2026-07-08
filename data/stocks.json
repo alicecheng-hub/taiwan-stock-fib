@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08 06:49",
+  "updated": "2026-07-08 08:54",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -19,7 +19,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 126153,
+      "avgVol20": 126642,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -350,7 +350,7 @@
           "high": 106.6,
           "low": 105.05,
           "close": 106.05,
-          "volume": 86734
+          "volume": 96508
         }
       ],
       "scoreHistory": [
@@ -394,7 +394,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 49198,
+      "avgVol20": 49282,
       "hitFib": null,
       "fibLevels": [
         {
@@ -725,7 +725,7 @@
           "high": 52.65,
           "low": 51.65,
           "close": 52.35,
-          "volume": 48137
+          "volume": 49809
         }
       ],
       "scoreHistory": [
@@ -769,7 +769,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 43682,
+      "avgVol20": 43733,
       "hitFib": null,
       "fibLevels": [
         {
@@ -1100,7 +1100,7 @@
           "high": 33.22,
           "low": 32.72,
           "close": 33.2,
-          "volume": 28354
+          "volume": 29374
         }
       ],
       "scoreHistory": [
@@ -1144,7 +1144,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 6626,
+      "avgVol20": 6629,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -1475,7 +1475,7 @@
           "high": 19.26,
           "low": 18.81,
           "close": 19.07,
-          "volume": 5300
+          "volume": 5349
         }
       ],
       "scoreHistory": [
@@ -1894,7 +1894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 128887,
+      "avgVol20": 128931,
       "hitFib": null,
       "fibLevels": [
         {
@@ -2225,7 +2225,7 @@
           "high": 30.0,
           "low": 29.62,
           "close": 29.94,
-          "volume": 69646
+          "volume": 70540
         }
       ],
       "scoreHistory": [
@@ -3019,7 +3019,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 62017,
+      "avgVol20": 62085,
       "hitFib": null,
       "fibLevels": [
         {
@@ -3350,7 +3350,7 @@
           "high": 240.5,
           "low": 234.0,
           "close": 237.5,
-          "volume": 36496
+          "volume": 37857
         }
       ],
       "scoreHistory": [
@@ -3394,7 +3394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 20119,
+      "avgVol20": 20136,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -3725,7 +3725,7 @@
           "high": 380.5,
           "low": 367.0,
           "close": 377.0,
-          "volume": 15295
+          "volume": 15636
         }
       ],
       "scoreHistory": [
@@ -4144,7 +4144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 23222,
+      "avgVol20": 23225,
       "hitFib": null,
       "fibLevels": [
         {
@@ -4475,7 +4475,7 @@
           "high": 84.3,
           "low": 82.1,
           "close": 83.8,
-          "volume": 8391
+          "volume": 8457
         }
       ],
       "scoreHistory": [
@@ -4519,7 +4519,7 @@
       "deathCross": false,
       "kRising": true,
       "volSurge": false,
-      "avgVol20": 63885,
+      "avgVol20": 63894,
       "hitFib": 0.618,
       "fibLevels": [
         {
@@ -4850,7 +4850,7 @@
           "high": 35.5,
           "low": 34.85,
           "close": 35.5,
-          "volume": 22818
+          "volume": 23005
         }
       ],
       "scoreHistory": [
@@ -4894,7 +4894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 7623,
+      "avgVol20": 7627,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -5225,7 +5225,7 @@
           "high": 337.0,
           "low": 328.0,
           "close": 335.0,
-          "volume": 4556
+          "volume": 4647
         }
       ],
       "scoreHistory": [
@@ -5269,7 +5269,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 38488,
+      "avgVol20": 38553,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -5600,7 +5600,7 @@
           "high": 152.0,
           "low": 145.0,
           "close": 146.5,
-          "volume": 57954
+          "volume": 59256
         }
       ],
       "scoreHistory": [
@@ -5644,7 +5644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 1840,
+      "avgVol20": 1843,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -5975,7 +5975,7 @@
           "high": 5085.0,
           "low": 4900.0,
           "close": 5050.0,
-          "volume": 926
+          "volume": 1002
         }
       ],
       "scoreHistory": [
@@ -6019,7 +6019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 2225,
+      "avgVol20": 2231,
       "hitFib": null,
       "fibLevels": [
         {
@@ -6350,7 +6350,7 @@
           "high": 5555.0,
           "low": 5250.0,
           "close": 5315.0,
-          "volume": 2523
+          "volume": 2638
         }
       ],
       "scoreHistory": [
@@ -6394,7 +6394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 33763,
+      "avgVol20": 33774,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -6725,7 +6725,7 @@
           "high": 67.4,
           "low": 63.6,
           "close": 66.2,
-          "volume": 22744
+          "volume": 22956
         }
       ],
       "scoreHistory": [
@@ -6769,7 +6769,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 17144,
+      "avgVol20": 17159,
       "hitFib": null,
       "fibLevels": [
         {
@@ -7100,7 +7100,7 @@
           "high": 147.0,
           "low": 138.5,
           "close": 142.0,
-          "volume": 23071
+          "volume": 23384
         }
       ],
       "scoreHistory": [
@@ -7144,7 +7144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 39549,
+      "avgVol20": 39635,
       "hitFib": null,
       "fibLevels": [
         {
@@ -7475,7 +7475,7 @@
           "high": 2465.0,
           "low": 2420.0,
           "close": 2465.0,
-          "volume": 23216
+          "volume": 24944
         }
       ],
       "scoreHistory": [
@@ -7519,7 +7519,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 12590,
+      "avgVol20": 12624,
       "hitFib": null,
       "fibLevels": [
         {
@@ -7850,7 +7850,7 @@
           "high": 4040.0,
           "low": 3955.0,
           "close": 3995.0,
-          "volume": 5978
+          "volume": 6646
         }
       ],
       "scoreHistory": [
@@ -7894,7 +7894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 6192,
+      "avgVol20": 6202,
       "hitFib": null,
       "fibLevels": [
         {
@@ -8225,7 +8225,7 @@
           "high": 845.0,
           "low": 798.0,
           "close": 817.0,
-          "volume": 6639
+          "volume": 6821
         }
       ],
       "scoreHistory": [
@@ -8269,7 +8269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 264351,
+      "avgVol20": 264426,
       "hitFib": null,
       "fibLevels": [
         {
@@ -8600,7 +8600,7 @@
           "high": 163.0,
           "low": 149.0,
           "close": 163.0,
-          "volume": 81586
+          "volume": 83083
         }
       ],
       "scoreHistory": [
@@ -8644,7 +8644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 106972,
+      "avgVol20": 107050,
       "hitFib": null,
       "fibLevels": [
         {
@@ -8975,7 +8975,7 @@
           "high": 422.0,
           "low": 391.0,
           "close": 396.0,
-          "volume": 61389
+          "volume": 62959
         }
       ],
       "scoreHistory": [
@@ -9394,7 +9394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 6321,
+      "avgVol20": 6326,
       "hitFib": null,
       "fibLevels": [
         {
@@ -9725,7 +9725,7 @@
           "high": 547.0,
           "low": 528.0,
           "close": 544.0,
-          "volume": 6009
+          "volume": 6123
         }
       ],
       "scoreHistory": [
@@ -9769,7 +9769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 90732,
+      "avgVol20": 90775,
       "hitFib": null,
       "fibLevels": [
         {
@@ -10100,7 +10100,7 @@
           "high": 143.0,
           "low": 134.0,
           "close": 138.5,
-          "volume": 52407
+          "volume": 53267
         }
       ],
       "scoreHistory": [
@@ -10144,7 +10144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 2418,
+      "avgVol20": 2424,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -10475,7 +10475,7 @@
           "high": 4570.0,
           "low": 4330.0,
           "close": 4400.0,
-          "volume": 1586
+          "volume": 1695
         }
       ],
       "scoreHistory": [
@@ -10519,7 +10519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 219993,
+      "avgVol20": 220049,
       "hitFib": null,
       "fibLevels": [
         {
@@ -10850,7 +10850,7 @@
           "high": 71.5,
           "low": 67.1,
           "close": 71.2,
-          "volume": 138100
+          "volume": 139218
         }
       ],
       "scoreHistory": [
@@ -11269,7 +11269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 64931,
+      "avgVol20": 65086,
       "hitFib": null,
       "fibLevels": [
         {
@@ -11600,7 +11600,7 @@
           "high": 930.0,
           "low": 856.0,
           "close": 891.0,
-          "volume": 67568
+          "volume": 70667
         }
       ],
       "scoreHistory": [
@@ -12019,7 +12019,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 5032,
+      "avgVol20": 5037,
       "hitFib": null,
       "fibLevels": [
         {
@@ -12350,7 +12350,7 @@
           "high": 573.0,
           "low": 526.0,
           "close": 551.0,
-          "volume": 5892
+          "volume": 5990
         }
       ],
       "scoreHistory": [
@@ -12755,21 +12755,21 @@
       "code": "2344",
       "name": "華邦電",
       "sector": "半導體",
-      "currentPrice": 207.5,
-      "change": 2.22,
+      "currentPrice": 168.5,
+      "change": -3.16,
       "high": 233.5,
       "low": 83.8,
-      "k": 53.6,
-      "d": 64.0,
-      "kd": 53.6,
-      "ma5": 208.3,
-      "ma20": 188.5,
+      "k": 12.4,
+      "d": 22.5,
+      "kd": 12.4,
+      "ma5": 178.7,
+      "ma20": 191.97,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 249756,
+      "avgVol20": 227313,
       "hitFib": null,
       "fibLevels": [
         {
@@ -12862,54 +12862,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-05-19",
-          "open": 125.0,
-          "high": 127.0,
-          "low": 117.5,
-          "close": 117.5,
-          "volume": 184930
-        },
-        {
-          "date": "2026-05-20",
-          "open": 117.5,
-          "high": 119.0,
-          "low": 112.0,
-          "close": 115.5,
-          "volume": 150894
-        },
-        {
-          "date": "2026-05-21",
-          "open": 120.0,
-          "high": 122.5,
-          "low": 113.5,
-          "close": 114.0,
-          "volume": 209614
-        },
-        {
-          "date": "2026-05-22",
-          "open": 116.5,
-          "high": 125.0,
-          "low": 115.5,
-          "close": 125.0,
-          "volume": 193146
-        },
-        {
-          "date": "2026-05-25",
-          "open": 120.5,
-          "high": 133.0,
-          "low": 119.0,
-          "close": 128.5,
-          "volume": 357612
-        },
-        {
-          "date": "2026-05-26",
-          "open": 133.5,
-          "high": 141.0,
-          "low": 133.0,
-          "close": 141.0,
-          "volume": 336105
-        },
         {
           "date": "2026-05-27",
           "open": 155.0,
@@ -13101,28 +13053,76 @@
           "low": 197.5,
           "close": 207.5,
           "volume": 217328
+        },
+        {
+          "date": "2026-07-01",
+          "open": 207.0,
+          "high": 207.5,
+          "low": 188.0,
+          "close": 190.0,
+          "volume": 234325
+        },
+        {
+          "date": "2026-07-02",
+          "open": 176.0,
+          "high": 186.0,
+          "low": 176.0,
+          "close": 183.5,
+          "volume": 164178
+        },
+        {
+          "date": "2026-07-03",
+          "open": 180.5,
+          "high": 188.0,
+          "low": 177.0,
+          "close": 184.5,
+          "volume": 141900
+        },
+        {
+          "date": "2026-07-06",
+          "open": 191.0,
+          "high": 200.0,
+          "low": 183.0,
+          "close": 183.0,
+          "volume": 163686
+        },
+        {
+          "date": "2026-07-07",
+          "open": 184.0,
+          "high": 186.0,
+          "low": 172.0,
+          "close": 174.0,
+          "volume": 142095
+        },
+        {
+          "date": "2026-07-08",
+          "open": 177.5,
+          "high": 181.5,
+          "low": 165.0,
+          "close": 168.5,
+          "volume": 146196
         }
       ],
       "scoreHistory": [
         {
-          "date": "2026-06-24",
-          "score": 0
+          "date": "2026-07-02",
+          "score": 1
         },
         {
-          "date": "2026-06-25",
-          "score": 0
+          "date": "2026-07-03",
+          "score": 1
         },
         {
-          "date": "2026-06-26",
-          "score": 0
+          "date": "2026-07-06",
+          "score": 1
         },
         {
-          "date": "2026-06-29",
-          "score": 0
+          "date": "2026-07-07",
+          "score": 2
         },
         {
-          "date": "2026-06-30",
-          "score": 0
+          "date": "2026-07-08",
+          "score": 1
         }
       ]
     },
@@ -13144,7 +13144,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 2000,
+      "avgVol20": 2005,
       "hitFib": 0.618,
       "fibLevels": [
         {
@@ -13475,7 +13475,7 @@
           "high": 4085.0,
           "low": 3965.0,
           "close": 4065.0,
-          "volume": 1495
+          "volume": 1597
         }
       ],
       "scoreHistory": [
@@ -13519,7 +13519,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 36488,
+      "avgVol20": 36553,
       "hitFib": 0.618,
       "fibLevels": [
         {
@@ -13850,7 +13850,7 @@
           "high": 318.0,
           "low": 301.0,
           "close": 305.5,
-          "volume": 25175
+          "volume": 26467
         }
       ],
       "scoreHistory": [
@@ -13894,7 +13894,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 37699,
+      "avgVol20": 37722,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -14225,7 +14225,7 @@
           "high": 323.0,
           "low": 309.0,
           "close": 318.0,
-          "volume": 16899
+          "volume": 17354
         }
       ],
       "scoreHistory": [
@@ -16519,7 +16519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3803,
+      "avgVol20": 3813,
       "hitFib": null,
       "fibLevels": [
         {
@@ -16850,7 +16850,7 @@
           "high": 1275.0,
           "low": 1180.0,
           "close": 1200.0,
-          "volume": 2131
+          "volume": 2328
         }
       ],
       "scoreHistory": [
@@ -16894,7 +16894,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 2295,
+      "avgVol20": 2300,
       "hitFib": null,
       "fibLevels": [
         {
@@ -17225,7 +17225,7 @@
           "high": 565.0,
           "low": 532.0,
           "close": 546.0,
-          "volume": 1784
+          "volume": 1893
         }
       ],
       "scoreHistory": [
@@ -17269,7 +17269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 1436,
+      "avgVol20": 1438,
       "hitFib": null,
       "fibLevels": [
         {
@@ -17600,7 +17600,7 @@
           "high": 707.0,
           "low": 680.0,
           "close": 698.0,
-          "volume": 1144
+          "volume": 1189
         }
       ],
       "scoreHistory": [
@@ -17644,7 +17644,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 21108,
+      "avgVol20": 21122,
       "hitFib": null,
       "fibLevels": [
         {
@@ -17975,7 +17975,7 @@
           "high": 78.5,
           "low": 73.3,
           "close": 76.7,
-          "volume": 19820
+          "volume": 20097
         }
       ],
       "scoreHistory": [
@@ -18394,7 +18394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 665,
+      "avgVol20": 666,
       "hitFib": null,
       "fibLevels": [
         {
@@ -18725,7 +18725,7 @@
           "high": 177.0,
           "low": 171.5,
           "close": 175.0,
-          "volume": 350
+          "volume": 364
         }
       ],
       "scoreHistory": [
@@ -19145,7 +19145,7 @@
       "kRising": false,
       "volSurge": false,
       "avgVol20": 26925,
-      "hitFib": null,
+      "hitFib": 0.382,
       "fibLevels": [
         {
           "ratio": 0,
@@ -19153,27 +19153,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 236.87
+          "price": 233.09
         },
         {
           "ratio": 0.382,
-          "price": 221.32
+          "price": 215.2
         },
         {
           "ratio": 0.5,
-          "price": 208.75
+          "price": 200.75
         },
         {
           "ratio": 0.618,
-          "price": 196.18
+          "price": 186.3
         },
         {
           "ratio": 0.786,
-          "price": 178.29
+          "price": 165.71
         },
         {
           "ratio": 1,
-          "price": 155.5
+          "price": 139.5
         }
       ],
       "fibLevels60": [
@@ -19183,27 +19183,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 236.87
+          "price": 233.09
         },
         {
           "ratio": 0.382,
-          "price": 221.32
+          "price": 215.2
         },
         {
           "ratio": 0.5,
-          "price": 208.75
+          "price": 200.75
         },
         {
           "ratio": 0.618,
-          "price": 196.18
+          "price": 186.3
         },
         {
           "ratio": 0.786,
-          "price": 178.29
+          "price": 165.71
         },
         {
           "ratio": 1,
-          "price": 155.5
+          "price": 139.5
         }
       ],
       "fibLevels120": [
@@ -19213,27 +19213,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 236.87
+          "price": 233.09
         },
         {
           "ratio": 0.382,
-          "price": 221.32
+          "price": 215.2
         },
         {
           "ratio": 0.5,
-          "price": 208.75
+          "price": 200.75
         },
         {
           "ratio": 0.618,
-          "price": 196.18
+          "price": 186.3
         },
         {
           "ratio": 0.786,
-          "price": 178.29
+          "price": 165.71
         },
         {
           "ratio": 1,
-          "price": 155.5
+          "price": 139.5
         }
       ],
       "candles": [
@@ -19481,23 +19481,23 @@
       "scoreHistory": [
         {
           "date": "2026-07-02",
-          "score": 1
+          "score": 0
         },
         {
           "date": "2026-07-03",
-          "score": 2
-        },
-        {
-          "date": "2026-07-06",
           "score": 1
         },
         {
-          "date": "2026-07-07",
+          "date": "2026-07-06",
           "score": 0
         },
         {
+          "date": "2026-07-07",
+          "score": 1
+        },
+        {
           "date": "2026-07-08",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -19519,7 +19519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 7185,
+      "avgVol20": 7187,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -19850,7 +19850,7 @@
           "high": 57.9,
           "low": 55.8,
           "close": 57.9,
-          "volume": 5340
+          "volume": 5389
         }
       ],
       "scoreHistory": [
@@ -19894,7 +19894,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 4185,
+      "avgVol20": 4207,
       "hitFib": null,
       "fibLevels": [
         {
@@ -20225,7 +20225,7 @@
           "high": 2440.0,
           "low": 2290.0,
           "close": 2325.0,
-          "volume": 4007
+          "volume": 4441
         }
       ],
       "scoreHistory": [
@@ -21019,7 +21019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 29195,
+      "avgVol20": 29247,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -21350,7 +21350,7 @@
           "high": 882.0,
           "low": 843.0,
           "close": 863.0,
-          "volume": 31584
+          "volume": 32629
         }
       ],
       "scoreHistory": [
@@ -21394,7 +21394,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 5718,
+      "avgVol20": 5724,
       "hitFib": null,
       "fibLevels": [
         {
@@ -21725,7 +21725,7 @@
           "high": 1180.0,
           "low": 1110.0,
           "close": 1150.0,
-          "volume": 3796
+          "volume": 3923
         }
       ],
       "scoreHistory": [
@@ -21769,7 +21769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 11491,
+      "avgVol20": 11492,
       "hitFib": null,
       "fibLevels": [
         {
@@ -21778,27 +21778,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 82.57
+          "price": 83.07
         },
         {
           "ratio": 0.382,
-          "price": 76.86
+          "price": 77.67
         },
         {
           "ratio": 0.5,
-          "price": 72.25
+          "price": 73.3
         },
         {
           "ratio": 0.618,
-          "price": 67.64
+          "price": 68.93
         },
         {
           "ratio": 0.786,
-          "price": 61.07
+          "price": 62.72
         },
         {
           "ratio": 1,
-          "price": 52.7
+          "price": 54.8
         }
       ],
       "fibLevels60": [
@@ -21808,27 +21808,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 82.57
+          "price": 83.07
         },
         {
           "ratio": 0.382,
-          "price": 76.86
+          "price": 77.67
         },
         {
           "ratio": 0.5,
-          "price": 72.25
+          "price": 73.3
         },
         {
           "ratio": 0.618,
-          "price": 67.64
+          "price": 68.93
         },
         {
           "ratio": 0.786,
-          "price": 61.07
+          "price": 62.72
         },
         {
           "ratio": 1,
-          "price": 52.7
+          "price": 54.8
         }
       ],
       "fibLevels120": [
@@ -21838,53 +21838,53 @@
         },
         {
           "ratio": 0.236,
-          "price": 82.57
+          "price": 83.07
         },
         {
           "ratio": 0.382,
-          "price": 76.86
+          "price": 77.67
         },
         {
           "ratio": 0.5,
-          "price": 72.25
+          "price": 73.3
         },
         {
           "ratio": 0.618,
-          "price": 67.64
+          "price": 68.93
         },
         {
           "ratio": 0.786,
-          "price": 61.07
+          "price": 62.72
         },
         {
           "ratio": 1,
-          "price": 52.7
+          "price": 54.8
         }
       ],
       "candles": [
         {
-          "date": "2026-04-28",
-          "open": 65.0,
-          "high": 65.9,
-          "low": 64.3,
-          "close": 64.5,
-          "volume": 2050
+          "date": "2026-05-27",
+          "open": 64.3,
+          "high": 65.0,
+          "low": 62.2,
+          "close": 62.8,
+          "volume": 3455
         },
         {
-          "date": "2026-04-29",
-          "open": 64.5,
-          "high": 65.9,
-          "low": 63.5,
-          "close": 63.7,
-          "volume": 2922
+          "date": "2026-05-28",
+          "open": 63.0,
+          "high": 64.0,
+          "low": 60.5,
+          "close": 60.8,
+          "volume": 3752
         },
         {
-          "date": "2026-04-30",
-          "open": 64.4,
-          "high": 66.0,
-          "low": 63.0,
-          "close": 65.8,
-          "volume": 3144
+          "date": "2026-05-29",
+          "open": 62.3,
+          "high": 63.0,
+          "low": 61.7,
+          "close": 62.9,
+          "volume": 2807
         },
         {
           "date": "2026-06-01",
@@ -22100,7 +22100,7 @@
           "high": 63.9,
           "low": 62.1,
           "close": 63.7,
-          "volume": 2600
+          "volume": 2634
         }
       ],
       "scoreHistory": [
@@ -22110,15 +22110,15 @@
         },
         {
           "date": "2026-07-03",
-          "score": 2
+          "score": 1
         },
         {
           "date": "2026-07-06",
-          "score": 2
+          "score": 1
         },
         {
           "date": "2026-07-07",
-          "score": 1
+          "score": 2
         },
         {
           "date": "2026-07-08",
@@ -22520,7 +22520,7 @@
       "kRising": false,
       "volSurge": false,
       "avgVol20": 4240,
-      "hitFib": 0.5,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -22528,27 +22528,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 536.4
+          "price": 546.08
         },
         {
           "ratio": 0.382,
-          "price": 498.3
+          "price": 513.96
         },
         {
           "ratio": 0.5,
-          "price": 467.5
+          "price": 488.0
         },
         {
           "ratio": 0.618,
-          "price": 436.7
+          "price": 462.04
         },
         {
           "ratio": 0.786,
-          "price": 392.85
+          "price": 425.08
         },
         {
           "ratio": 1,
-          "price": 337.0
+          "price": 378.0
         }
       ],
       "fibLevels60": [
@@ -22558,27 +22558,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 536.4
+          "price": 546.08
         },
         {
           "ratio": 0.382,
-          "price": 498.3
+          "price": 513.96
         },
         {
           "ratio": 0.5,
-          "price": 467.5
+          "price": 488.0
         },
         {
           "ratio": 0.618,
-          "price": 436.7
+          "price": 462.04
         },
         {
           "ratio": 0.786,
-          "price": 392.85
+          "price": 425.08
         },
         {
           "ratio": 1,
-          "price": 337.0
+          "price": 378.0
         }
       ],
       "fibLevels120": [
@@ -22588,27 +22588,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 536.4
+          "price": 546.08
         },
         {
           "ratio": 0.382,
-          "price": 498.3
+          "price": 513.96
         },
         {
           "ratio": 0.5,
-          "price": 467.5
+          "price": 488.0
         },
         {
           "ratio": 0.618,
-          "price": 436.7
+          "price": 462.04
         },
         {
           "ratio": 0.786,
-          "price": 392.85
+          "price": 425.08
         },
         {
           "ratio": 1,
-          "price": 337.0
+          "price": 378.0
         }
       ],
       "candles": [
@@ -22860,7 +22860,7 @@
         },
         {
           "date": "2026-07-03",
-          "score": 1
+          "score": 2
         },
         {
           "date": "2026-07-06",
@@ -22872,7 +22872,7 @@
         },
         {
           "date": "2026-07-08",
-          "score": 2
+          "score": 1
         }
       ]
     },
@@ -24019,7 +24019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 4735,
+      "avgVol20": 4737,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -24350,7 +24350,7 @@
           "high": 219.0,
           "low": 202.0,
           "close": 218.0,
-          "volume": 1086
+          "volume": 1128
         }
       ],
       "scoreHistory": [
@@ -24394,7 +24394,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 12140,
+      "avgVol20": 12144,
       "hitFib": null,
       "fibLevels": [
         {
@@ -24725,7 +24725,7 @@
           "high": 216.0,
           "low": 208.5,
           "close": 210.5,
-          "volume": 6291
+          "volume": 6387
         }
       ],
       "scoreHistory": [
@@ -24758,18 +24758,18 @@
       "currentPrice": 2415.0,
       "change": -1.63,
       "high": 2825.0,
-      "low": 1290.0,
-      "k": 46.0,
-      "d": 55.5,
-      "kd": 46.0,
+      "low": 55.5,
+      "k": 37.6,
+      "d": 53.5,
+      "kd": 37.6,
       "ma5": 2600.0,
-      "ma20": 2475.75,
+      "ma20": 2531.75,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3609,
+      "avgVol20": 4416,
       "hitFib": null,
       "fibLevels": [
         {
@@ -24778,27 +24778,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 2594.9
+          "price": 2483.98
         },
         {
           "ratio": 0.382,
-          "price": 2452.55
+          "price": 2273.01
         },
         {
           "ratio": 0.5,
-          "price": 2337.5
+          "price": 2102.5
         },
         {
           "ratio": 0.618,
-          "price": 2222.45
+          "price": 1931.99
         },
         {
           "ratio": 0.786,
-          "price": 2058.65
+          "price": 1689.23
         },
         {
           "ratio": 1,
-          "price": 1850.0
+          "price": 1380.0
         }
       ],
       "fibLevels60": [
@@ -24808,27 +24808,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 2594.9
+          "price": 2483.98
         },
         {
           "ratio": 0.382,
-          "price": 2452.55
+          "price": 2273.01
         },
         {
           "ratio": 0.5,
-          "price": 2337.5
+          "price": 2102.5
         },
         {
           "ratio": 0.618,
-          "price": 2222.45
+          "price": 1931.99
         },
         {
           "ratio": 0.786,
-          "price": 2058.65
+          "price": 1689.23
         },
         {
           "ratio": 1,
-          "price": 1850.0
+          "price": 1380.0
         }
       ],
       "fibLevels120": [
@@ -24838,30 +24838,198 @@
         },
         {
           "ratio": 0.236,
-          "price": 2594.9
+          "price": 2483.98
         },
         {
           "ratio": 0.382,
-          "price": 2452.55
+          "price": 2273.01
         },
         {
           "ratio": 0.5,
-          "price": 2337.5
+          "price": 2102.5
         },
         {
           "ratio": 0.618,
-          "price": 2222.45
+          "price": 1931.99
         },
         {
           "ratio": 0.786,
-          "price": 2058.65
+          "price": 1689.23
         },
         {
           "ratio": 1,
-          "price": 1850.0
+          "price": 1380.0
         }
       ],
       "candles": [
+        {
+          "date": "2026-04-27",
+          "open": 2205.0,
+          "high": 2225.0,
+          "low": 2105.0,
+          "close": 2175.0,
+          "volume": 4986
+        },
+        {
+          "date": "2026-04-28",
+          "open": 2250.0,
+          "high": 2340.0,
+          "low": 2195.0,
+          "close": 2295.0,
+          "volume": 5955
+        },
+        {
+          "date": "2026-04-29",
+          "open": 2245.0,
+          "high": 2270.0,
+          "low": 2190.0,
+          "close": 2210.0,
+          "volume": 4561
+        },
+        {
+          "date": "2026-04-30",
+          "open": 2225.0,
+          "high": 2315.0,
+          "low": 2215.0,
+          "close": 2280.0,
+          "volume": 3775
+        },
+        {
+          "date": "2026-05-04",
+          "open": 2380.0,
+          "high": 2505.0,
+          "low": 2360.0,
+          "close": 2505.0,
+          "volume": 4412
+        },
+        {
+          "date": "2026-05-05",
+          "open": 2520.0,
+          "high": 2550.0,
+          "low": 2440.0,
+          "close": 2495.0,
+          "volume": 3474
+        },
+        {
+          "date": "2026-05-06",
+          "open": 2545.0,
+          "high": 2620.0,
+          "low": 2325.0,
+          "close": 2485.0,
+          "volume": 6256
+        },
+        {
+          "date": "2026-05-07",
+          "open": 2495.0,
+          "high": 2560.0,
+          "low": 2465.0,
+          "close": 2560.0,
+          "volume": 3820
+        },
+        {
+          "date": "2026-05-08",
+          "open": 2400.0,
+          "high": 2425.0,
+          "low": 2305.0,
+          "close": 2375.0,
+          "volume": 10934
+        },
+        {
+          "date": "2026-05-11",
+          "open": 2490.0,
+          "high": 2610.0,
+          "low": 2485.0,
+          "close": 2590.0,
+          "volume": 8849
+        },
+        {
+          "date": "2026-05-12",
+          "open": 2675.0,
+          "high": 2695.0,
+          "low": 2520.0,
+          "close": 2525.0,
+          "volume": 6056
+        },
+        {
+          "date": "2026-05-13",
+          "open": 2510.0,
+          "high": 2555.0,
+          "low": 2435.0,
+          "close": 2435.0,
+          "volume": 4119
+        },
+        {
+          "date": "2026-05-14",
+          "open": 2625.0,
+          "high": 2675.0,
+          "low": 2605.0,
+          "close": 2675.0,
+          "volume": 7660
+        },
+        {
+          "date": "2026-05-15",
+          "open": 2640.0,
+          "high": 2640.0,
+          "low": 2500.0,
+          "close": 2505.0,
+          "volume": 7039
+        },
+        {
+          "date": "2026-05-18",
+          "open": 2375.0,
+          "high": 2530.0,
+          "low": 2375.0,
+          "close": 2495.0,
+          "volume": 3138
+        },
+        {
+          "date": "2026-05-19",
+          "open": 2460.0,
+          "high": 2505.0,
+          "low": 2375.0,
+          "close": 2390.0,
+          "volume": 4254
+        },
+        {
+          "date": "2026-05-20",
+          "open": 2330.0,
+          "high": 2475.0,
+          "low": 2325.0,
+          "close": 2355.0,
+          "volume": 4381
+        },
+        {
+          "date": "2026-05-21",
+          "open": 2480.0,
+          "high": 2530.0,
+          "low": 2450.0,
+          "close": 2480.0,
+          "volume": 5468
+        },
+        {
+          "date": "2026-05-22",
+          "open": 2535.0,
+          "high": 2535.0,
+          "low": 2450.0,
+          "close": 2470.0,
+          "volume": 2750
+        },
+        {
+          "date": "2026-05-25",
+          "open": 2535.0,
+          "high": 2600.0,
+          "low": 2505.0,
+          "close": 2540.0,
+          "volume": 2633
+        },
+        {
+          "date": "2026-05-26",
+          "open": 2610.0,
+          "high": 2695.0,
+          "low": 2560.0,
+          "close": 2620.0,
+          "volume": 3688
+        },
         {
           "date": "2026-05-27",
           "open": 2645.0,
@@ -24885,174 +25053,6 @@
           "low": 2390.0,
           "close": 2430.0,
           "volume": 6396
-        },
-        {
-          "date": "2026-06-01",
-          "open": 2460.0,
-          "high": 2540.0,
-          "low": 2430.0,
-          "close": 2510.0,
-          "volume": 3363
-        },
-        {
-          "date": "2026-06-02",
-          "open": 2505.0,
-          "high": 2520.0,
-          "low": 2390.0,
-          "close": 2425.0,
-          "volume": 3795
-        },
-        {
-          "date": "2026-06-03",
-          "open": 2470.0,
-          "high": 2645.0,
-          "low": 2470.0,
-          "close": 2585.0,
-          "volume": 4091
-        },
-        {
-          "date": "2026-06-04",
-          "open": 2525.0,
-          "high": 2550.0,
-          "low": 2460.0,
-          "close": 2510.0,
-          "volume": 2462
-        },
-        {
-          "date": "2026-06-05",
-          "open": 2460.0,
-          "high": 2545.0,
-          "low": 2430.0,
-          "close": 2490.0,
-          "volume": 2517
-        },
-        {
-          "date": "2026-06-08",
-          "open": 2265.0,
-          "high": 2435.0,
-          "low": 2260.0,
-          "close": 2420.0,
-          "volume": 3205
-        },
-        {
-          "date": "2026-06-09",
-          "open": 2420.0,
-          "high": 2475.0,
-          "low": 2345.0,
-          "close": 2475.0,
-          "volume": 2691
-        },
-        {
-          "date": "2026-06-10",
-          "open": 2590.0,
-          "high": 2630.0,
-          "low": 2360.0,
-          "close": 2365.0,
-          "volume": 4169
-        },
-        {
-          "date": "2026-06-11",
-          "open": 2330.0,
-          "high": 2345.0,
-          "low": 2170.0,
-          "close": 2275.0,
-          "volume": 3682
-        },
-        {
-          "date": "2026-06-12",
-          "open": 2365.0,
-          "high": 2390.0,
-          "low": 2270.0,
-          "close": 2335.0,
-          "volume": 2814
-        },
-        {
-          "date": "2026-06-15",
-          "open": 2435.0,
-          "high": 2475.0,
-          "low": 2335.0,
-          "close": 2430.0,
-          "volume": 3350
-        },
-        {
-          "date": "2026-06-16",
-          "open": 2495.0,
-          "high": 2555.0,
-          "low": 2410.0,
-          "close": 2520.0,
-          "volume": 3072
-        },
-        {
-          "date": "2026-06-17",
-          "open": 2555.0,
-          "high": 2600.0,
-          "low": 2470.0,
-          "close": 2495.0,
-          "volume": 2648
-        },
-        {
-          "date": "2026-06-18",
-          "open": 2480.0,
-          "high": 2490.0,
-          "low": 2415.0,
-          "close": 2435.0,
-          "volume": 4237
-        },
-        {
-          "date": "2026-06-22",
-          "open": 2495.0,
-          "high": 2605.0,
-          "low": 2485.0,
-          "close": 2595.0,
-          "volume": 3410
-        },
-        {
-          "date": "2026-06-23",
-          "open": 2675.0,
-          "high": 2720.0,
-          "low": 2435.0,
-          "close": 2435.0,
-          "volume": 3948
-        },
-        {
-          "date": "2026-06-24",
-          "open": 2410.0,
-          "high": 2445.0,
-          "low": 2340.0,
-          "close": 2375.0,
-          "volume": 3033
-        },
-        {
-          "date": "2026-06-25",
-          "open": 2485.0,
-          "high": 2545.0,
-          "low": 2375.0,
-          "close": 2380.0,
-          "volume": 4634
-        },
-        {
-          "date": "2026-06-26",
-          "open": 2395.0,
-          "high": 2520.0,
-          "low": 2335.0,
-          "close": 2380.0,
-          "volume": 4874
-        },
-        {
-          "date": "2026-06-29",
-          "open": 2395.0,
-          "high": 2430.0,
-          "low": 2290.0,
-          "close": 2340.0,
-          "volume": 3066
-        },
-        {
-          "date": "2026-06-30",
-          "open": 2445.0,
-          "high": 2525.0,
-          "low": 2420.0,
-          "close": 2495.0,
-          "volume": 3513
         },
         {
           "date": "2026-07-01",
@@ -25144,7 +25144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 12596,
+      "avgVol20": 12602,
       "hitFib": 0.618,
       "fibLevels": [
         {
@@ -25475,7 +25475,7 @@
           "high": 254.5,
           "low": 237.5,
           "close": 251.5,
-          "volume": 4366
+          "volume": 4489
         }
       ],
       "scoreHistory": [
@@ -25524,91 +25524,91 @@
       "fibLevels": [
         {
           "ratio": 0,
-          "price": 214.0
+          "price": 202.5
         },
         {
           "ratio": 0.236,
-          "price": 199.37
+          "price": 192.23
         },
         {
           "ratio": 0.382,
-          "price": 190.32
+          "price": 185.88
         },
         {
           "ratio": 0.5,
-          "price": 183.0
+          "price": 180.75
         },
         {
           "ratio": 0.618,
-          "price": 175.68
+          "price": 175.62
         },
         {
           "ratio": 0.786,
-          "price": 165.27
+          "price": 168.31
         },
         {
           "ratio": 1,
-          "price": 152.0
+          "price": 159.0
         }
       ],
       "fibLevels60": [
         {
           "ratio": 0,
-          "price": 214.0
+          "price": 202.5
         },
         {
           "ratio": 0.236,
-          "price": 199.37
+          "price": 192.23
         },
         {
           "ratio": 0.382,
-          "price": 190.32
+          "price": 185.88
         },
         {
           "ratio": 0.5,
-          "price": 183.0
+          "price": 180.75
         },
         {
           "ratio": 0.618,
-          "price": 175.68
+          "price": 175.62
         },
         {
           "ratio": 0.786,
-          "price": 165.27
+          "price": 168.31
         },
         {
           "ratio": 1,
-          "price": 152.0
+          "price": 159.0
         }
       ],
       "fibLevels120": [
         {
           "ratio": 0,
-          "price": 214.0
+          "price": 202.5
         },
         {
           "ratio": 0.236,
-          "price": 199.37
+          "price": 192.23
         },
         {
           "ratio": 0.382,
-          "price": 190.32
+          "price": 185.88
         },
         {
           "ratio": 0.5,
-          "price": 183.0
+          "price": 180.75
         },
         {
           "ratio": 0.618,
-          "price": 175.68
+          "price": 175.62
         },
         {
           "ratio": 0.786,
-          "price": 165.27
+          "price": 168.31
         },
         {
           "ratio": 1,
-          "price": 152.0
+          "price": 159.0
         }
       ],
       "candles": [
@@ -25860,15 +25860,15 @@
         },
         {
           "date": "2026-07-03",
-          "score": 1
+          "score": 0
         },
         {
           "date": "2026-07-06",
-          "score": 1
+          "score": 0
         },
         {
           "date": "2026-07-07",
-          "score": 0
+          "score": 1
         },
         {
           "date": "2026-07-08",
@@ -25894,7 +25894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3118,
+      "avgVol20": 3125,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -26225,7 +26225,7 @@
           "high": 4035.0,
           "low": 3870.0,
           "close": 3950.0,
-          "volume": 1619
+          "volume": 1775
         }
       ],
       "scoreHistory": [
@@ -26255,21 +26255,21 @@
       "code": "6176",
       "name": "瑞儀",
       "sector": "光電",
-      "currentPrice": 87.0,
-      "change": 0.12,
+      "currentPrice": 90.9,
+      "change": -0.33,
       "high": 116.5,
       "low": 85.8,
-      "k": 23.1,
-      "d": 28.4,
-      "kd": 23.1,
-      "ma5": 88.5,
-      "ma20": 92.07,
+      "k": 59.9,
+      "d": 48.6,
+      "kd": 59.9,
+      "ma5": 90.38,
+      "ma20": 89.29,
       "maGolden": false,
       "goldenCross": false,
-      "deathCross": true,
+      "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 10393,
+      "avgVol20": 8216,
       "hitFib": null,
       "fibLevels": [
         {
@@ -26362,54 +26362,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-05-19",
-          "open": 100.0,
-          "high": 104.0,
-          "low": 100.0,
-          "close": 102.0,
-          "volume": 6603
-        },
-        {
-          "date": "2026-05-20",
-          "open": 103.0,
-          "high": 105.0,
-          "low": 100.0,
-          "close": 104.5,
-          "volume": 7168
-        },
-        {
-          "date": "2026-05-21",
-          "open": 105.0,
-          "high": 107.0,
-          "low": 104.0,
-          "close": 105.0,
-          "volume": 7078
-        },
-        {
-          "date": "2026-05-22",
-          "open": 105.5,
-          "high": 108.0,
-          "low": 104.5,
-          "close": 107.5,
-          "volume": 7163
-        },
-        {
-          "date": "2026-05-25",
-          "open": 109.0,
-          "high": 109.5,
-          "low": 106.5,
-          "close": 107.5,
-          "volume": 6949
-        },
-        {
-          "date": "2026-05-26",
-          "open": 108.0,
-          "high": 108.0,
-          "low": 104.0,
-          "close": 105.0,
-          "volume": 6571
-        },
         {
           "date": "2026-05-27",
           "open": 105.0,
@@ -26601,28 +26553,76 @@
           "low": 85.8,
           "close": 87.0,
           "volume": 7356
+        },
+        {
+          "date": "2026-07-01",
+          "open": 87.5,
+          "high": 88.2,
+          "low": 86.4,
+          "close": 86.9,
+          "volume": 5894
+        },
+        {
+          "date": "2026-07-02",
+          "open": 86.6,
+          "high": 87.8,
+          "low": 86.1,
+          "close": 87.5,
+          "volume": 4764
+        },
+        {
+          "date": "2026-07-03",
+          "open": 87.5,
+          "high": 90.4,
+          "low": 87.2,
+          "close": 90.3,
+          "volume": 8326
+        },
+        {
+          "date": "2026-07-06",
+          "open": 90.6,
+          "high": 93.6,
+          "low": 90.5,
+          "close": 92.0,
+          "volume": 8729
+        },
+        {
+          "date": "2026-07-07",
+          "open": 92.5,
+          "high": 92.6,
+          "low": 90.3,
+          "close": 91.2,
+          "volume": 5255
+        },
+        {
+          "date": "2026-07-08",
+          "open": 91.2,
+          "high": 92.0,
+          "low": 89.9,
+          "close": 90.9,
+          "volume": 3768
         }
       ],
       "scoreHistory": [
         {
-          "date": "2026-06-24",
+          "date": "2026-07-02",
           "score": 1
         },
         {
-          "date": "2026-06-25",
+          "date": "2026-07-03",
+          "score": 2
+        },
+        {
+          "date": "2026-07-06",
+          "score": 2
+        },
+        {
+          "date": "2026-07-07",
+          "score": 2
+        },
+        {
+          "date": "2026-07-08",
           "score": 0
-        },
-        {
-          "date": "2026-06-26",
-          "score": 0
-        },
-        {
-          "date": "2026-06-29",
-          "score": 1
-        },
-        {
-          "date": "2026-06-30",
-          "score": 1
         }
       ]
     },
@@ -26644,7 +26644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 495196,
+      "avgVol20": 495249,
       "hitFib": null,
       "fibLevels": [
         {
@@ -26975,7 +26975,7 @@
           "high": 30.3,
           "low": 28.5,
           "close": 29.55,
-          "volume": 262602
+          "volume": 263664
         }
       ],
       "scoreHistory": [
@@ -27019,7 +27019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 502902,
+      "avgVol20": 503033,
       "hitFib": null,
       "fibLevels": [
         {
@@ -27350,7 +27350,7 @@
           "high": 66.7,
           "low": 62.4,
           "close": 65.2,
-          "volume": 413638
+          "volume": 416258
         }
       ],
       "scoreHistory": [
@@ -27394,7 +27394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 67816,
+      "avgVol20": 67872,
       "hitFib": null,
       "fibLevels": [
         {
@@ -27725,7 +27725,7 @@
           "high": 182.0,
           "low": 164.5,
           "close": 182.0,
-          "volume": 97656
+          "volume": 98771
         }
       ],
       "scoreHistory": [
@@ -28894,7 +28894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 27470,
+      "avgVol20": 27477,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -29225,7 +29225,7 @@
           "high": 52.3,
           "low": 51.2,
           "close": 52.3,
-          "volume": 14624
+          "volume": 14771
         }
       ],
       "scoreHistory": [
@@ -30757,44 +30757,44 @@
       "sector": "航空",
       "currentPrice": 39.85,
       "change": -6.01,
-      "high": 45.65,
+      "high": 45.0,
       "low": 32.15,
-      "k": 30.7,
-      "d": 49.1,
-      "kd": 30.7,
+      "k": 69.5,
+      "d": 73.3,
+      "kd": 69.5,
       "ma5": 42.71,
-      "ma20": 42.08,
+      "ma20": 37.36,
       "maGolden": false,
       "goldenCross": false,
-      "deathCross": false,
+      "deathCross": true,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 66979,
-      "hitFib": 0.5,
+      "avgVol20": 52022,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
-          "price": 45.65
+          "price": 45.0
         },
         {
           "ratio": 0.236,
-          "price": 42.71
+          "price": 42.22
         },
         {
           "ratio": 0.382,
-          "price": 40.89
+          "price": 40.49
         },
         {
           "ratio": 0.5,
-          "price": 39.42
+          "price": 39.1
         },
         {
           "ratio": 0.618,
-          "price": 37.96
+          "price": 37.71
         },
         {
           "ratio": 0.786,
-          "price": 35.86
+          "price": 35.73
         },
         {
           "ratio": 1,
@@ -30804,27 +30804,27 @@
       "fibLevels60": [
         {
           "ratio": 0,
-          "price": 45.65
+          "price": 45.0
         },
         {
           "ratio": 0.236,
-          "price": 42.71
+          "price": 42.22
         },
         {
           "ratio": 0.382,
-          "price": 40.89
+          "price": 40.49
         },
         {
           "ratio": 0.5,
-          "price": 39.42
+          "price": 39.1
         },
         {
           "ratio": 0.618,
-          "price": 37.96
+          "price": 37.71
         },
         {
           "ratio": 0.786,
-          "price": 35.86
+          "price": 35.73
         },
         {
           "ratio": 1,
@@ -30834,27 +30834,27 @@
       "fibLevels120": [
         {
           "ratio": 0,
-          "price": 45.65
+          "price": 45.0
         },
         {
           "ratio": 0.236,
-          "price": 42.71
+          "price": 42.22
         },
         {
           "ratio": 0.382,
-          "price": 40.89
+          "price": 40.49
         },
         {
           "ratio": 0.5,
-          "price": 39.42
+          "price": 39.1
         },
         {
           "ratio": 0.618,
-          "price": 37.96
+          "price": 37.71
         },
         {
           "ratio": 0.786,
-          "price": 35.86
+          "price": 35.73
         },
         {
           "ratio": 1,
@@ -30862,6 +30862,174 @@
         }
       ],
       "candles": [
+        {
+          "date": "2026-04-27",
+          "open": 33.55,
+          "high": 33.65,
+          "low": 33.2,
+          "close": 33.35,
+          "volume": 29109
+        },
+        {
+          "date": "2026-04-28",
+          "open": 33.4,
+          "high": 33.6,
+          "low": 33.25,
+          "close": 33.35,
+          "volume": 21657
+        },
+        {
+          "date": "2026-04-29",
+          "open": 33.6,
+          "high": 34.05,
+          "low": 33.5,
+          "close": 34.0,
+          "volume": 21860
+        },
+        {
+          "date": "2026-04-30",
+          "open": 33.95,
+          "high": 34.2,
+          "low": 33.5,
+          "close": 33.5,
+          "volume": 26150
+        },
+        {
+          "date": "2026-05-04",
+          "open": 33.55,
+          "high": 33.9,
+          "low": 33.5,
+          "close": 33.8,
+          "volume": 16096
+        },
+        {
+          "date": "2026-05-05",
+          "open": 33.75,
+          "high": 34.3,
+          "low": 33.4,
+          "close": 34.0,
+          "volume": 22178
+        },
+        {
+          "date": "2026-05-06",
+          "open": 34.2,
+          "high": 34.25,
+          "low": 33.7,
+          "close": 33.95,
+          "volume": 34613
+        },
+        {
+          "date": "2026-05-07",
+          "open": 34.2,
+          "high": 35.5,
+          "low": 34.2,
+          "close": 35.4,
+          "volume": 44124
+        },
+        {
+          "date": "2026-05-08",
+          "open": 35.4,
+          "high": 35.7,
+          "low": 35.2,
+          "close": 35.65,
+          "volume": 34415
+        },
+        {
+          "date": "2026-05-11",
+          "open": 35.9,
+          "high": 36.0,
+          "low": 35.7,
+          "close": 35.85,
+          "volume": 23645
+        },
+        {
+          "date": "2026-05-12",
+          "open": 35.75,
+          "high": 35.9,
+          "low": 35.05,
+          "close": 35.1,
+          "volume": 35572
+        },
+        {
+          "date": "2026-05-13",
+          "open": 35.0,
+          "high": 35.0,
+          "low": 34.35,
+          "close": 34.45,
+          "volume": 21572
+        },
+        {
+          "date": "2026-05-14",
+          "open": 35.5,
+          "high": 36.2,
+          "low": 34.95,
+          "close": 35.0,
+          "volume": 37043
+        },
+        {
+          "date": "2026-05-15",
+          "open": 35.2,
+          "high": 35.4,
+          "low": 34.65,
+          "close": 34.65,
+          "volume": 23270
+        },
+        {
+          "date": "2026-05-18",
+          "open": 34.5,
+          "high": 34.75,
+          "low": 34.1,
+          "close": 34.1,
+          "volume": 26384
+        },
+        {
+          "date": "2026-05-19",
+          "open": 34.1,
+          "high": 34.85,
+          "low": 34.1,
+          "close": 34.45,
+          "volume": 21604
+        },
+        {
+          "date": "2026-05-20",
+          "open": 34.75,
+          "high": 34.75,
+          "low": 34.3,
+          "close": 34.3,
+          "volume": 28780
+        },
+        {
+          "date": "2026-05-21",
+          "open": 34.8,
+          "high": 35.45,
+          "low": 34.7,
+          "close": 35.3,
+          "volume": 45014
+        },
+        {
+          "date": "2026-05-22",
+          "open": 35.5,
+          "high": 35.65,
+          "low": 35.1,
+          "close": 35.5,
+          "volume": 45237
+        },
+        {
+          "date": "2026-05-25",
+          "open": 36.0,
+          "high": 36.1,
+          "low": 35.45,
+          "close": 35.45,
+          "volume": 66136
+        },
+        {
+          "date": "2026-05-26",
+          "open": 35.8,
+          "high": 36.05,
+          "low": 35.2,
+          "close": 35.2,
+          "volume": 66828
+        },
         {
           "date": "2026-05-27",
           "open": 35.2,
@@ -30885,174 +31053,6 @@
           "low": 35.65,
           "close": 36.05,
           "volume": 122963
-        },
-        {
-          "date": "2026-06-01",
-          "open": 36.45,
-          "high": 37.85,
-          "low": 36.3,
-          "close": 37.7,
-          "volume": 82974
-        },
-        {
-          "date": "2026-06-02",
-          "open": 37.4,
-          "high": 37.8,
-          "low": 36.65,
-          "close": 37.25,
-          "volume": 84389
-        },
-        {
-          "date": "2026-06-03",
-          "open": 37.8,
-          "high": 38.45,
-          "low": 37.3,
-          "close": 37.7,
-          "volume": 81050
-        },
-        {
-          "date": "2026-06-04",
-          "open": 37.55,
-          "high": 38.4,
-          "low": 37.3,
-          "close": 37.9,
-          "volume": 59159
-        },
-        {
-          "date": "2026-06-05",
-          "open": 37.95,
-          "high": 38.1,
-          "low": 37.35,
-          "close": 37.7,
-          "volume": 39384
-        },
-        {
-          "date": "2026-06-08",
-          "open": 36.25,
-          "high": 36.6,
-          "low": 35.85,
-          "close": 36.4,
-          "volume": 52725
-        },
-        {
-          "date": "2026-06-09",
-          "open": 36.35,
-          "high": 37.35,
-          "low": 36.35,
-          "close": 37.0,
-          "volume": 37212
-        },
-        {
-          "date": "2026-06-10",
-          "open": 37.0,
-          "high": 37.75,
-          "low": 36.9,
-          "close": 37.25,
-          "volume": 42301
-        },
-        {
-          "date": "2026-06-11",
-          "open": 37.0,
-          "high": 37.8,
-          "low": 36.75,
-          "close": 37.7,
-          "volume": 41921
-        },
-        {
-          "date": "2026-06-12",
-          "open": 38.1,
-          "high": 39.4,
-          "low": 38.05,
-          "close": 38.7,
-          "volume": 75680
-        },
-        {
-          "date": "2026-06-15",
-          "open": 40.0,
-          "high": 40.45,
-          "low": 39.4,
-          "close": 39.95,
-          "volume": 78426
-        },
-        {
-          "date": "2026-06-16",
-          "open": 40.2,
-          "high": 40.5,
-          "low": 39.3,
-          "close": 39.75,
-          "volume": 43247
-        },
-        {
-          "date": "2026-06-17",
-          "open": 40.35,
-          "high": 43.3,
-          "low": 40.05,
-          "close": 42.55,
-          "volume": 192198
-        },
-        {
-          "date": "2026-06-18",
-          "open": 43.3,
-          "high": 43.7,
-          "low": 42.25,
-          "close": 42.55,
-          "volume": 65533
-        },
-        {
-          "date": "2026-06-22",
-          "open": 41.9,
-          "high": 42.0,
-          "low": 40.7,
-          "close": 41.65,
-          "volume": 54152
-        },
-        {
-          "date": "2026-06-23",
-          "open": 41.95,
-          "high": 43.1,
-          "low": 41.5,
-          "close": 42.95,
-          "volume": 87433
-        },
-        {
-          "date": "2026-06-24",
-          "open": 42.95,
-          "high": 44.8,
-          "low": 42.55,
-          "close": 44.0,
-          "volume": 89685
-        },
-        {
-          "date": "2026-06-25",
-          "open": 44.6,
-          "high": 45.65,
-          "low": 44.15,
-          "close": 44.5,
-          "volume": 69764
-        },
-        {
-          "date": "2026-06-26",
-          "open": 44.45,
-          "high": 44.85,
-          "low": 43.55,
-          "close": 43.8,
-          "volume": 46293
-        },
-        {
-          "date": "2026-06-29",
-          "open": 44.65,
-          "high": 45.0,
-          "low": 43.65,
-          "close": 43.9,
-          "volume": 44004
-        },
-        {
-          "date": "2026-06-30",
-          "open": 44.1,
-          "high": 44.9,
-          "low": 43.8,
-          "close": 44.9,
-          "volume": 62801
         },
         {
           "date": "2026-07-01",
@@ -31100,7 +31100,7 @@
           "high": 41.95,
           "low": 39.2,
           "close": 39.85,
-          "volume": 110373
+          "volume": 110711
         }
       ],
       "scoreHistory": [
@@ -31122,7 +31122,7 @@
         },
         {
           "date": "2026-07-08",
-          "score": 2
+          "score": 1
         }
       ]
     },
@@ -31519,7 +31519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 14933,
+      "avgVol20": 14949,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -31850,7 +31850,7 @@
           "high": 142.0,
           "low": 139.5,
           "close": 139.5,
-          "volume": 25038
+          "volume": 25356
         }
       ],
       "scoreHistory": [
@@ -31895,7 +31895,7 @@
       "kRising": false,
       "volSurge": true,
       "avgVol20": 13073,
-      "hitFib": 0.618,
+      "hitFib": 0.5,
       "fibLevels": [
         {
           "ratio": 0,
@@ -31903,27 +31903,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 118.67
+          "price": 117.84
         },
         {
           "ratio": 0.382,
-          "price": 116.92
+          "price": 115.58
         },
         {
           "ratio": 0.5,
-          "price": 115.5
+          "price": 113.75
         },
         {
           "ratio": 0.618,
-          "price": 114.08
+          "price": 111.92
         },
         {
           "ratio": 0.786,
-          "price": 112.07
+          "price": 109.32
         },
         {
           "ratio": 1,
-          "price": 109.5
+          "price": 106.0
         }
       ],
       "fibLevels60": [
@@ -31933,27 +31933,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 118.67
+          "price": 117.84
         },
         {
           "ratio": 0.382,
-          "price": 116.92
+          "price": 115.58
         },
         {
           "ratio": 0.5,
-          "price": 115.5
+          "price": 113.75
         },
         {
           "ratio": 0.618,
-          "price": 114.08
+          "price": 111.92
         },
         {
           "ratio": 0.786,
-          "price": 112.07
+          "price": 109.32
         },
         {
           "ratio": 1,
-          "price": 109.5
+          "price": 106.0
         }
       ],
       "fibLevels120": [
@@ -31963,27 +31963,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 118.67
+          "price": 117.84
         },
         {
           "ratio": 0.382,
-          "price": 116.92
+          "price": 115.58
         },
         {
           "ratio": 0.5,
-          "price": 115.5
+          "price": 113.75
         },
         {
           "ratio": 0.618,
-          "price": 114.08
+          "price": 111.92
         },
         {
           "ratio": 0.786,
-          "price": 112.07
+          "price": 109.32
         },
         {
           "ratio": 1,
-          "price": 109.5
+          "price": 106.0
         }
       ],
       "candles": [
@@ -32630,46 +32630,46 @@
       "code": "6505",
       "name": "台塑化",
       "sector": "石化",
-      "currentPrice": 59.4,
-      "change": 2.41,
-      "high": 68.2,
+      "currentPrice": 55.1,
+      "change": -0.36,
+      "high": 117.5,
       "low": 49.1,
-      "k": 73.4,
-      "d": 72.7,
-      "kd": 73.4,
-      "ma5": 58.68,
-      "ma20": 54.77,
+      "k": 68.4,
+      "d": 64.1,
+      "kd": 68.4,
+      "ma5": 55.0,
+      "ma20": 53.83,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 12568,
-      "hitFib": null,
+      "avgVol20": 10370,
+      "hitFib": 0.382,
       "fibLevels": [
         {
           "ratio": 0,
-          "price": 61.4
+          "price": 58.1
         },
         {
           "ratio": 0.236,
-          "price": 58.5
+          "price": 55.98
         },
         {
           "ratio": 0.382,
-          "price": 56.7
+          "price": 54.66
         },
         {
           "ratio": 0.5,
-          "price": 55.25
+          "price": 53.6
         },
         {
           "ratio": 0.618,
-          "price": 53.8
+          "price": 52.54
         },
         {
           "ratio": 0.786,
-          "price": 51.73
+          "price": 51.03
         },
         {
           "ratio": 1,
@@ -32679,27 +32679,27 @@
       "fibLevels60": [
         {
           "ratio": 0,
-          "price": 61.4
+          "price": 58.1
         },
         {
           "ratio": 0.236,
-          "price": 58.5
+          "price": 55.98
         },
         {
           "ratio": 0.382,
-          "price": 56.7
+          "price": 54.66
         },
         {
           "ratio": 0.5,
-          "price": 55.25
+          "price": 53.6
         },
         {
           "ratio": 0.618,
-          "price": 53.8
+          "price": 52.54
         },
         {
           "ratio": 0.786,
-          "price": 51.73
+          "price": 51.03
         },
         {
           "ratio": 1,
@@ -32709,27 +32709,27 @@
       "fibLevels120": [
         {
           "ratio": 0,
-          "price": 61.4
+          "price": 58.1
         },
         {
           "ratio": 0.236,
-          "price": 58.5
+          "price": 55.98
         },
         {
           "ratio": 0.382,
-          "price": 56.7
+          "price": 54.66
         },
         {
           "ratio": 0.5,
-          "price": 55.25
+          "price": 53.6
         },
         {
           "ratio": 0.618,
-          "price": 53.8
+          "price": 52.54
         },
         {
           "ratio": 0.786,
-          "price": 51.73
+          "price": 51.03
         },
         {
           "ratio": 1,
@@ -32737,6 +32737,54 @@
         }
       ],
       "candles": [
+        {
+          "date": "2026-05-19",
+          "open": 51.6,
+          "high": 52.2,
+          "low": 50.9,
+          "close": 51.3,
+          "volume": 5550
+        },
+        {
+          "date": "2026-05-20",
+          "open": 51.6,
+          "high": 51.8,
+          "low": 50.3,
+          "close": 51.2,
+          "volume": 6816
+        },
+        {
+          "date": "2026-05-21",
+          "open": 51.4,
+          "high": 51.7,
+          "low": 50.9,
+          "close": 51.3,
+          "volume": 4249
+        },
+        {
+          "date": "2026-05-22",
+          "open": 51.1,
+          "high": 51.3,
+          "low": 50.6,
+          "close": 51.0,
+          "volume": 5352
+        },
+        {
+          "date": "2026-05-25",
+          "open": 51.3,
+          "high": 51.3,
+          "low": 49.3,
+          "close": 49.5,
+          "volume": 13646
+        },
+        {
+          "date": "2026-05-26",
+          "open": 49.5,
+          "high": 50.2,
+          "low": 49.1,
+          "close": 49.3,
+          "volume": 7903
+        },
         {
           "date": "2026-05-27",
           "open": 49.8,
@@ -32928,76 +32976,28 @@
           "low": 54.3,
           "close": 55.1,
           "volume": 7087
-        },
-        {
-          "date": "2026-07-01",
-          "open": 55.5,
-          "high": 55.6,
-          "low": 53.3,
-          "close": 53.6,
-          "volume": 8054
-        },
-        {
-          "date": "2026-07-02",
-          "open": 53.9,
-          "high": 57.6,
-          "low": 53.4,
-          "close": 57.6,
-          "volume": 24282
-        },
-        {
-          "date": "2026-07-03",
-          "open": 57.9,
-          "high": 60.7,
-          "low": 57.1,
-          "close": 58.9,
-          "volume": 42156
-        },
-        {
-          "date": "2026-07-06",
-          "open": 59.5,
-          "high": 61.4,
-          "low": 58.2,
-          "close": 59.5,
-          "volume": 18653
-        },
-        {
-          "date": "2026-07-07",
-          "open": 59.6,
-          "high": 59.8,
-          "low": 57.7,
-          "close": 58.0,
-          "volume": 11456
-        },
-        {
-          "date": "2026-07-08",
-          "open": 58.7,
-          "high": 60.4,
-          "low": 58.6,
-          "close": 59.4,
-          "volume": 13243
         }
       ],
       "scoreHistory": [
         {
-          "date": "2026-07-02",
-          "score": 1
-        },
-        {
-          "date": "2026-07-03",
+          "date": "2026-06-24",
           "score": 2
         },
         {
-          "date": "2026-07-06",
+          "date": "2026-06-25",
+          "score": 2
+        },
+        {
+          "date": "2026-06-26",
           "score": 1
         },
         {
-          "date": "2026-07-07",
+          "date": "2026-06-29",
           "score": 1
         },
         {
-          "date": "2026-07-08",
-          "score": 0
+          "date": "2026-06-30",
+          "score": 1
         }
       ]
     },
@@ -33019,7 +33019,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 65262,
+      "avgVol20": 65275,
       "hitFib": null,
       "fibLevels": [
         {
@@ -33350,7 +33350,7 @@
           "high": 58.5,
           "low": 56.5,
           "close": 58.0,
-          "volume": 44367
+          "volume": 44630
         }
       ],
       "scoreHistory": [
@@ -33394,7 +33394,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 48650,
+      "avgVol20": 48666,
       "hitFib": null,
       "fibLevels": [
         {
@@ -33725,7 +33725,7 @@
           "high": 66.4,
           "low": 63.4,
           "close": 64.7,
-          "volume": 73734
+          "volume": 74071
         }
       ],
       "scoreHistory": [
@@ -34144,7 +34144,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 70114,
+      "avgVol20": 70123,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -34475,7 +34475,7 @@
           "high": 18.8,
           "low": 18.55,
           "close": 18.7,
-          "volume": 20934
+          "volume": 21114
         }
       ],
       "scoreHistory": [
@@ -36019,7 +36019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 77461,
+      "avgVol20": 77478,
       "hitFib": 0.618,
       "fibLevels": [
         {
@@ -36350,7 +36350,7 @@
           "high": 66.2,
           "low": 63.1,
           "close": 66.0,
-          "volume": 33042
+          "volume": 33393
         }
       ],
       "scoreHistory": [
@@ -47632,279 +47632,111 @@
       "sector": "傳產",
       "currentPrice": 107.5,
       "change": 0.47,
-      "high": 138.0,
-      "low": 103.5,
-      "k": 16.0,
-      "d": 25.8,
-      "kd": 16.0,
+      "high": 149.5,
+      "low": 100.5,
+      "k": 55.4,
+      "d": 42.2,
+      "kd": 55.4,
       "ma5": 106.9,
-      "ma20": 123.17,
+      "ma20": 113.65,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 4569,
+      "avgVol20": 7014,
       "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
-          "price": 138.0
+          "price": 149.5
         },
         {
           "ratio": 0.236,
-          "price": 129.86
+          "price": 137.94
         },
         {
           "ratio": 0.382,
-          "price": 124.82
+          "price": 130.78
         },
         {
           "ratio": 0.5,
-          "price": 120.75
+          "price": 125.0
         },
         {
           "ratio": 0.618,
-          "price": 116.68
+          "price": 119.22
         },
         {
           "ratio": 0.786,
-          "price": 110.88
+          "price": 110.99
         },
         {
           "ratio": 1,
-          "price": 103.5
+          "price": 100.5
         }
       ],
       "fibLevels60": [
         {
           "ratio": 0,
-          "price": 138.0
+          "price": 149.5
         },
         {
           "ratio": 0.236,
-          "price": 129.86
+          "price": 137.94
         },
         {
           "ratio": 0.382,
-          "price": 124.82
+          "price": 130.78
         },
         {
           "ratio": 0.5,
-          "price": 120.75
+          "price": 125.0
         },
         {
           "ratio": 0.618,
-          "price": 116.68
+          "price": 119.22
         },
         {
           "ratio": 0.786,
-          "price": 110.88
+          "price": 110.99
         },
         {
           "ratio": 1,
-          "price": 103.5
+          "price": 100.5
         }
       ],
       "fibLevels120": [
         {
           "ratio": 0,
-          "price": 138.0
+          "price": 149.5
         },
         {
           "ratio": 0.236,
-          "price": 129.86
+          "price": 137.94
         },
         {
           "ratio": 0.382,
-          "price": 124.82
+          "price": 130.78
         },
         {
           "ratio": 0.5,
-          "price": 120.75
+          "price": 125.0
         },
         {
           "ratio": 0.618,
-          "price": 116.68
+          "price": 119.22
         },
         {
           "ratio": 0.786,
-          "price": 110.88
+          "price": 110.99
         },
         {
           "ratio": 1,
-          "price": 103.5
+          "price": 100.5
         }
       ],
       "candles": [
-        {
-          "date": "2026-04-27",
-          "open": 125.0,
-          "high": 125.0,
-          "low": 122.5,
-          "close": 122.5,
-          "volume": 4371
-        },
-        {
-          "date": "2026-04-28",
-          "open": 123.0,
-          "high": 123.5,
-          "low": 121.5,
-          "close": 122.0,
-          "volume": 4367
-        },
-        {
-          "date": "2026-04-29",
-          "open": 122.0,
-          "high": 124.5,
-          "low": 121.5,
-          "close": 124.5,
-          "volume": 3194
-        },
-        {
-          "date": "2026-04-30",
-          "open": 123.0,
-          "high": 126.0,
-          "low": 123.0,
-          "close": 123.5,
-          "volume": 2563
-        },
-        {
-          "date": "2026-05-04",
-          "open": 125.0,
-          "high": 128.5,
-          "low": 124.0,
-          "close": 127.5,
-          "volume": 5271
-        },
-        {
-          "date": "2026-05-05",
-          "open": 128.0,
-          "high": 132.0,
-          "low": 127.5,
-          "close": 130.0,
-          "volume": 5379
-        },
-        {
-          "date": "2026-05-06",
-          "open": 131.5,
-          "high": 131.5,
-          "low": 128.0,
-          "close": 128.5,
-          "volume": 5027
-        },
-        {
-          "date": "2026-05-07",
-          "open": 129.0,
-          "high": 132.5,
-          "low": 128.5,
-          "close": 131.0,
-          "volume": 4440
-        },
-        {
-          "date": "2026-05-08",
-          "open": 132.0,
-          "high": 134.5,
-          "low": 131.0,
-          "close": 134.0,
-          "volume": 4902
-        },
-        {
-          "date": "2026-05-11",
-          "open": 135.0,
-          "high": 136.5,
-          "low": 133.5,
-          "close": 135.0,
-          "volume": 3835
-        },
-        {
-          "date": "2026-05-12",
-          "open": 132.5,
-          "high": 135.0,
-          "low": 130.0,
-          "close": 135.0,
-          "volume": 7142
-        },
-        {
-          "date": "2026-05-13",
-          "open": 132.5,
-          "high": 132.5,
-          "low": 129.0,
-          "close": 129.0,
-          "volume": 3297
-        },
-        {
-          "date": "2026-05-14",
-          "open": 129.0,
-          "high": 130.0,
-          "low": 126.0,
-          "close": 126.5,
-          "volume": 4166
-        },
-        {
-          "date": "2026-05-15",
-          "open": 127.0,
-          "high": 127.0,
-          "low": 123.0,
-          "close": 123.5,
-          "volume": 4621
-        },
-        {
-          "date": "2026-05-18",
-          "open": 123.0,
-          "high": 127.5,
-          "low": 122.5,
-          "close": 127.0,
-          "volume": 3223
-        },
-        {
-          "date": "2026-05-19",
-          "open": 126.0,
-          "high": 127.5,
-          "low": 124.0,
-          "close": 124.5,
-          "volume": 2559
-        },
-        {
-          "date": "2026-05-20",
-          "open": 125.5,
-          "high": 128.5,
-          "low": 124.5,
-          "close": 128.5,
-          "volume": 3866
-        },
-        {
-          "date": "2026-05-21",
-          "open": 129.0,
-          "high": 132.0,
-          "low": 128.0,
-          "close": 130.0,
-          "volume": 4467
-        },
-        {
-          "date": "2026-05-22",
-          "open": 131.0,
-          "high": 132.0,
-          "low": 130.5,
-          "close": 131.5,
-          "volume": 2058
-        },
-        {
-          "date": "2026-05-25",
-          "open": 133.5,
-          "high": 134.0,
-          "low": 130.5,
-          "close": 130.5,
-          "volume": 2989
-        },
-        {
-          "date": "2026-05-26",
-          "open": 131.0,
-          "high": 134.0,
-          "low": 130.5,
-          "close": 133.0,
-          "volume": 4123
-        },
         {
           "date": "2026-05-27",
           "open": 133.5,
@@ -47928,6 +47760,174 @@
           "low": 133.0,
           "close": 135.5,
           "volume": 3427
+        },
+        {
+          "date": "2026-06-01",
+          "open": 136.5,
+          "high": 142.5,
+          "low": 136.0,
+          "close": 141.5,
+          "volume": 6640
+        },
+        {
+          "date": "2026-06-02",
+          "open": 141.5,
+          "high": 143.5,
+          "low": 138.5,
+          "close": 143.5,
+          "volume": 5327
+        },
+        {
+          "date": "2026-06-03",
+          "open": 144.5,
+          "high": 149.5,
+          "low": 142.0,
+          "close": 145.5,
+          "volume": 5761
+        },
+        {
+          "date": "2026-06-04",
+          "open": 145.5,
+          "high": 148.0,
+          "low": 141.5,
+          "close": 146.5,
+          "volume": 4974
+        },
+        {
+          "date": "2026-06-05",
+          "open": 144.0,
+          "high": 146.5,
+          "low": 141.5,
+          "close": 143.0,
+          "volume": 6144
+        },
+        {
+          "date": "2026-06-08",
+          "open": 135.0,
+          "high": 139.0,
+          "low": 134.0,
+          "close": 136.0,
+          "volume": 4546
+        },
+        {
+          "date": "2026-06-09",
+          "open": 136.0,
+          "high": 140.0,
+          "low": 136.0,
+          "close": 139.5,
+          "volume": 3731
+        },
+        {
+          "date": "2026-06-10",
+          "open": 137.0,
+          "high": 140.0,
+          "low": 136.5,
+          "close": 139.0,
+          "volume": 3886
+        },
+        {
+          "date": "2026-06-11",
+          "open": 139.0,
+          "high": 140.5,
+          "low": 137.0,
+          "close": 139.0,
+          "volume": 3858
+        },
+        {
+          "date": "2026-06-12",
+          "open": 142.0,
+          "high": 142.0,
+          "low": 140.0,
+          "close": 141.0,
+          "volume": 6278
+        },
+        {
+          "date": "2026-06-15",
+          "open": 131.0,
+          "high": 132.0,
+          "low": 120.5,
+          "close": 121.5,
+          "volume": 24020
+        },
+        {
+          "date": "2026-06-16",
+          "open": 121.5,
+          "high": 121.5,
+          "low": 114.0,
+          "close": 116.5,
+          "volume": 13724
+        },
+        {
+          "date": "2026-06-17",
+          "open": 114.5,
+          "high": 116.5,
+          "low": 114.0,
+          "close": 115.0,
+          "volume": 8243
+        },
+        {
+          "date": "2026-06-18",
+          "open": 115.5,
+          "high": 116.5,
+          "low": 114.0,
+          "close": 114.0,
+          "volume": 6989
+        },
+        {
+          "date": "2026-06-22",
+          "open": 114.5,
+          "high": 115.5,
+          "low": 113.5,
+          "close": 114.0,
+          "volume": 4219
+        },
+        {
+          "date": "2026-06-23",
+          "open": 114.0,
+          "high": 114.0,
+          "low": 110.0,
+          "close": 110.0,
+          "volume": 6496
+        },
+        {
+          "date": "2026-06-24",
+          "open": 110.0,
+          "high": 111.0,
+          "low": 108.0,
+          "close": 108.5,
+          "volume": 4855
+        },
+        {
+          "date": "2026-06-25",
+          "open": 109.5,
+          "high": 109.5,
+          "low": 106.0,
+          "close": 106.0,
+          "volume": 5553
+        },
+        {
+          "date": "2026-06-26",
+          "open": 105.5,
+          "high": 105.5,
+          "low": 101.0,
+          "close": 102.0,
+          "volume": 6856
+        },
+        {
+          "date": "2026-06-29",
+          "open": 102.0,
+          "high": 103.0,
+          "low": 100.5,
+          "close": 101.0,
+          "volume": 5106
+        },
+        {
+          "date": "2026-06-30",
+          "open": 101.5,
+          "high": 104.0,
+          "low": 101.0,
+          "close": 104.0,
+          "volume": 4245
         },
         {
           "date": "2026-07-01",
@@ -47981,7 +47981,7 @@
       "scoreHistory": [
         {
           "date": "2026-07-02",
-          "score": 0
+          "score": 2
         },
         {
           "date": "2026-07-03",
@@ -47989,15 +47989,15 @@
         },
         {
           "date": "2026-07-06",
-          "score": 1
+          "score": 0
         },
         {
           "date": "2026-07-07",
-          "score": 1
+          "score": 0
         },
         {
           "date": "2026-07-08",
-          "score": 1
+          "score": 0
         }
       ]
     },
