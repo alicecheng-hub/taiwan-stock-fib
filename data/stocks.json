@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 04:22",
+  "updated": "2026-08-14 05:53",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -12380,22 +12380,22 @@
       "code": "6182",
       "name": "合晶",
       "sector": "半導體",
-      "currentPrice": 113.5,
-      "change": 0.44,
+      "currentPrice": 110.5,
+      "change": -2.21,
       "high": 194.5,
       "low": 30.6,
-      "k": 75.1,
-      "d": 62.4,
-      "kd": 75.1,
-      "ma5": 103.3,
-      "ma20": 106.87,
+      "k": 71.7,
+      "d": 61.3,
+      "kd": 71.7,
+      "ma5": 102.7,
+      "ma20": 106.72,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 45239,
-      "hitFib": 0.618,
+      "avgVol20": 46552,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -12723,9 +12723,9 @@
           "date": "2026-08-14",
           "open": 116.5,
           "high": 119.5,
-          "low": 113.0,
-          "close": 113.5,
-          "volume": 93827
+          "low": 108.0,
+          "close": 110.5,
+          "volume": 120077
         }
       ],
       "scoreHistory": [
@@ -12747,7 +12747,7 @@
         },
         {
           "date": "2026-08-14",
-          "score": 2
+          "score": 1
         }
       ]
     },
@@ -14630,21 +14630,21 @@
       "code": "6187",
       "name": "萬潤",
       "sector": "封裝設備",
-      "currentPrice": 1255.0,
-      "change": -1.18,
+      "currentPrice": 1265.0,
+      "change": -0.39,
       "high": 1471.3,
       "low": 524.33,
-      "k": 80.7,
-      "d": 76.6,
-      "kd": 80.7,
-      "ma5": 1164.0,
-      "ma20": 1039.27,
+      "k": 81.8,
+      "d": 77.0,
+      "kd": 81.8,
+      "ma5": 1166.0,
+      "ma20": 1039.77,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3092,
+      "avgVol20": 3133,
       "hitFib": null,
       "fibLevels": [
         {
@@ -14974,8 +14974,8 @@
           "open": 1275.0,
           "high": 1320.0,
           "low": 1250.0,
-          "close": 1255.0,
-          "volume": 3635
+          "close": 1265.0,
+          "volume": 4467
         }
       ],
       "scoreHistory": [
@@ -15005,21 +15005,21 @@
       "code": "6640",
       "name": "均華",
       "sector": "封裝設備",
-      "currentPrice": 1070.0,
-      "change": 7.54,
+      "currentPrice": 1085.0,
+      "change": 9.05,
       "high": 1834.98,
       "low": 737.0,
-      "k": 74.2,
-      "d": 69.7,
-      "kd": 74.2,
-      "ma5": 1003.0,
-      "ma20": 919.25,
+      "k": 76.1,
+      "d": 70.4,
+      "kd": 76.1,
+      "ma5": 1006.0,
+      "ma20": 920.0,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 189,
+      "avgVol20": 198,
       "hitFib": null,
       "fibLevels": [
         {
@@ -15347,10 +15347,10 @@
         {
           "date": "2026-08-14",
           "open": 1005.0,
-          "high": 1085.0,
+          "high": 1090.0,
           "low": 995.0,
-          "close": 1070.0,
-          "volume": 305
+          "close": 1085.0,
+          "volume": 490
         }
       ],
       "scoreHistory": [
@@ -15380,21 +15380,21 @@
       "code": "8027",
       "name": "鈦昇",
       "sector": "封裝設備",
-      "currentPrice": 186.0,
-      "change": -2.11,
+      "currentPrice": 186.5,
+      "change": -1.84,
       "high": 297.0,
       "low": 85.8,
-      "k": 71.5,
-      "d": 68.8,
-      "kd": 71.5,
-      "ma5": 186.3,
-      "ma20": 182.43,
+      "k": 72.0,
+      "d": 68.9,
+      "kd": 72.0,
+      "ma5": 186.4,
+      "ma20": 182.45,
       "maGolden": true,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 2040,
+      "avgVol20": 2070,
       "hitFib": null,
       "fibLevels": [
         {
@@ -15723,9 +15723,9 @@
           "date": "2026-08-14",
           "open": 190.0,
           "high": 191.0,
-          "low": 184.5,
-          "close": 186.0,
-          "volume": 1092
+          "low": 183.5,
+          "close": 186.5,
+          "volume": 1711
         }
       ],
       "scoreHistory": [
@@ -16144,7 +16144,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 1909,
+      "avgVol20": 1927,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -16473,9 +16473,9 @@
           "date": "2026-08-14",
           "open": 108.0,
           "high": 108.0,
-          "low": 105.5,
+          "low": 105.0,
           "close": 106.0,
-          "volume": 1320
+          "volume": 1682
         }
       ],
       "scoreHistory": [
@@ -20630,21 +20630,21 @@
       "code": "6203",
       "name": "海韻電",
       "sector": "散熱",
-      "currentPrice": 59.8,
-      "change": -0.83,
+      "currentPrice": 60.3,
+      "change": 0.0,
       "high": 73.24,
       "low": 56.64,
-      "k": 18.1,
-      "d": 29.8,
-      "kd": 18.1,
-      "ma5": 60.58,
-      "ma20": 61.05,
+      "k": 25.3,
+      "d": 32.2,
+      "kd": 25.3,
+      "ma5": 60.68,
+      "ma20": 61.08,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 114,
+      "avgVol20": 115,
       "hitFib": null,
       "fibLevels": [
         {
@@ -20974,8 +20974,8 @@
           "open": 60.4,
           "high": 60.5,
           "low": 59.8,
-          "close": 59.8,
-          "volume": 145
+          "close": 60.3,
+          "volume": 168
         }
       ],
       "scoreHistory": [
@@ -22130,21 +22130,21 @@
       "code": "4909",
       "name": "新復興",
       "sector": "PCB",
-      "currentPrice": 39.25,
-      "change": 0.64,
+      "currentPrice": 39.05,
+      "change": 0.13,
       "high": 68.4,
       "low": 33.1,
-      "k": 83.4,
-      "d": 80.6,
-      "kd": 83.4,
-      "ma5": 38.88,
-      "ma20": 37.72,
+      "k": 81.5,
+      "d": 80.0,
+      "kd": 81.5,
+      "ma5": 38.84,
+      "ma20": 37.71,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 327,
+      "avgVol20": 331,
       "hitFib": null,
       "fibLevels": [
         {
@@ -22474,8 +22474,8 @@
           "open": 39.5,
           "high": 39.5,
           "low": 38.75,
-          "close": 39.25,
-          "volume": 116
+          "close": 39.05,
+          "volume": 183
         }
       ],
       "scoreHistory": [
@@ -27755,21 +27755,21 @@
       "code": "1815",
       "name": "富喬",
       "sector": "玻纖布",
-      "currentPrice": 91.2,
-      "change": 1.45,
+      "currentPrice": 91.4,
+      "change": 1.67,
       "high": 129.5,
       "low": 59.1,
-      "k": 84.6,
-      "d": 79.7,
-      "kd": 84.6,
-      "ma5": 89.78,
-      "ma20": 79.03,
+      "k": 85.0,
+      "d": 79.8,
+      "kd": 85.0,
+      "ma5": 89.82,
+      "ma20": 79.05,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 16825,
+      "avgVol20": 16944,
       "hitFib": null,
       "fibLevels": [
         {
@@ -28099,8 +28099,8 @@
           "open": 90.5,
           "high": 91.5,
           "low": 89.4,
-          "close": 91.2,
-          "volume": 4866
+          "close": 91.4,
+          "volume": 7242
         }
       ],
       "scoreHistory": [
@@ -30006,20 +30006,20 @@
       "name": "台驊投控",
       "sector": "海運",
       "currentPrice": 67.5,
-      "change": -0.15,
+      "change": 0.0,
       "high": 72.4,
       "low": 62.2,
-      "k": 69.7,
-      "d": 62.2,
-      "kd": 69.7,
-      "ma5": 66.84,
-      "ma20": 65.58,
+      "k": 71.5,
+      "d": 65.3,
+      "kd": 71.5,
+      "ma5": 67.3,
+      "ma20": 65.83,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
-      "volSurge": false,
-      "avgVol20": 298,
+      "volSurge": true,
+      "avgVol20": 293,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -30112,14 +30112,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 70.0,
-          "high": 70.5,
-          "low": 69.3,
-          "close": 70.2,
-          "volume": 304
-        },
         {
           "date": "2026-07-03",
           "open": 70.2,
@@ -30351,13 +30343,17 @@
           "low": 67.1,
           "close": 67.5,
           "volume": 157
+        },
+        {
+          "date": "2026-08-14",
+          "open": 68.3,
+          "high": 68.3,
+          "low": 66.5,
+          "close": 67.5,
+          "volume": 570
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 1
-        },
         {
           "date": "2026-08-10",
           "score": 1
@@ -30373,6 +30369,10 @@
         {
           "date": "2026-08-13",
           "score": 1
+        },
+        {
+          "date": "2026-08-14",
+          "score": 2
         }
       ]
     },
@@ -33005,22 +33005,22 @@
       "code": "1301",
       "name": "台塑",
       "sector": "石化",
-      "currentPrice": 57.5,
-      "change": 2.31,
+      "currentPrice": 60.0,
+      "change": 4.35,
       "high": 69.8,
       "low": 43.1,
-      "k": 55.5,
-      "d": 43.0,
-      "kd": 55.5,
-      "ma5": 56.14,
-      "ma20": 58.2,
+      "k": 67.8,
+      "d": 51.3,
+      "kd": 67.8,
+      "ma5": 56.98,
+      "ma20": 58.06,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 43513,
-      "hitFib": null,
+      "avgVol20": 42470,
+      "hitFib": 0.382,
       "fibLevels": [
         {
           "ratio": 0,
@@ -33112,14 +33112,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 53.2,
-          "high": 59.7,
-          "low": 52.8,
-          "close": 59.7,
-          "volume": 112956
-        },
         {
           "date": "2026-07-03",
           "open": 60.6,
@@ -33351,13 +33343,17 @@
           "low": 57.5,
           "close": 57.5,
           "volume": 33137
+        },
+        {
+          "date": "2026-08-14",
+          "open": 58.0,
+          "high": 60.6,
+          "low": 57.6,
+          "close": 60.0,
+          "volume": 52675
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 4
-        },
         {
           "date": "2026-08-10",
           "score": 1
@@ -33373,6 +33369,10 @@
         {
           "date": "2026-08-13",
           "score": 0
+        },
+        {
+          "date": "2026-08-14",
+          "score": 1
         }
       ]
     },
@@ -36005,22 +36005,22 @@
       "code": "1802",
       "name": "台玻",
       "sector": "水泥",
-      "currentPrice": 56.9,
-      "change": -1.22,
+      "currentPrice": 57.9,
+      "change": 1.76,
       "high": 81.2,
       "low": 42.05,
-      "k": 82.3,
-      "d": 75.6,
-      "kd": 82.3,
-      "ma5": 55.64,
-      "ma20": 52.22,
+      "k": 83.2,
+      "d": 78.1,
+      "kd": 83.2,
+      "ma5": 56.6,
+      "ma20": 52.29,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 26989,
-      "hitFib": 0.618,
+      "avgVol20": 26564,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -36112,14 +36112,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 69.7,
-          "high": 71.1,
-          "low": 68.8,
-          "close": 70.4,
-          "volume": 38327
-        },
         {
           "date": "2026-07-03",
           "open": 69.1,
@@ -36351,13 +36343,17 @@
           "low": 56.9,
           "close": 56.9,
           "volume": 19935
+        },
+        {
+          "date": "2026-08-14",
+          "open": 58.2,
+          "high": 58.7,
+          "low": 56.4,
+          "close": 57.9,
+          "volume": 25680
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 0
-        },
         {
           "date": "2026-08-10",
           "score": 1
@@ -36373,6 +36369,10 @@
         {
           "date": "2026-08-13",
           "score": 1
+        },
+        {
+          "date": "2026-08-14",
+          "score": 0
         }
       ]
     },
@@ -36755,22 +36755,22 @@
       "code": "2049",
       "name": "上銀",
       "sector": "電機",
-      "currentPrice": 381.0,
-      "change": 3.25,
+      "currentPrice": 373.5,
+      "change": -1.97,
       "high": 426.0,
       "low": 225.5,
-      "k": 78.1,
-      "d": 77.3,
-      "kd": 78.1,
-      "ma5": 378.4,
-      "ma20": 332.4,
+      "k": 72.0,
+      "d": 75.5,
+      "kd": 72.0,
+      "ma5": 375.7,
+      "ma20": 335.77,
       "maGolden": false,
       "goldenCross": false,
-      "deathCross": false,
+      "deathCross": true,
       "kRising": false,
-      "volSurge": true,
-      "avgVol20": 5250,
-      "hitFib": null,
+      "volSurge": false,
+      "avgVol20": 5344,
+      "hitFib": 0.382,
       "fibLevels": [
         {
           "ratio": 0,
@@ -36862,14 +36862,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 344.0,
-          "high": 361.0,
-          "low": 340.0,
-          "close": 352.0,
-          "volume": 7056
-        },
         {
           "date": "2026-07-03",
           "open": 351.5,
@@ -37101,13 +37093,17 @@
           "low": 377.5,
           "close": 381.0,
           "volume": 13188
+        },
+        {
+          "date": "2026-08-14",
+          "open": 387.0,
+          "high": 388.5,
+          "low": 367.5,
+          "close": 373.5,
+          "volume": 4737
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 2
-        },
         {
           "date": "2026-08-10",
           "score": 2
@@ -37122,6 +37118,10 @@
         },
         {
           "date": "2026-08-13",
+          "score": 1
+        },
+        {
+          "date": "2026-08-14",
           "score": 1
         }
       ]
@@ -37505,21 +37505,21 @@
       "code": "1503",
       "name": "士電",
       "sector": "電機",
-      "currentPrice": 201.5,
-      "change": 1.26,
+      "currentPrice": 198.5,
+      "change": -1.49,
       "high": 269.5,
       "low": 178.5,
-      "k": 70.3,
-      "d": 63.7,
-      "kd": 70.3,
-      "ma5": 197.3,
-      "ma20": 197.88,
-      "maGolden": false,
+      "k": 62.4,
+      "d": 63.3,
+      "kd": 62.4,
+      "ma5": 198.3,
+      "ma20": 198.1,
+      "maGolden": true,
       "goldenCross": false,
-      "deathCross": false,
+      "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 1674,
+      "avgVol20": 1557,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -37612,14 +37612,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 239.5,
-          "high": 241.5,
-          "low": 236.5,
-          "close": 238.0,
-          "volume": 2331
-        },
         {
           "date": "2026-07-03",
           "open": 238.0,
@@ -37851,13 +37843,17 @@
           "low": 200.5,
           "close": 201.5,
           "volume": 2288
+        },
+        {
+          "date": "2026-08-14",
+          "open": 203.0,
+          "high": 204.5,
+          "low": 198.0,
+          "close": 198.5,
+          "volume": 1307
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 0
-        },
         {
           "date": "2026-08-10",
           "score": 0
@@ -37873,6 +37869,10 @@
         {
           "date": "2026-08-13",
           "score": 1
+        },
+        {
+          "date": "2026-08-14",
+          "score": 2
         }
       ]
     },
@@ -38255,21 +38255,21 @@
       "code": "1504",
       "name": "東元",
       "sector": "電機",
-      "currentPrice": 70.4,
-      "change": 4.61,
+      "currentPrice": 70.6,
+      "change": 0.28,
       "high": 89.6,
       "low": 58.5,
-      "k": 84.4,
-      "d": 78.0,
-      "kd": 84.4,
-      "ma5": 67.66,
-      "ma20": 66.09,
+      "k": 78.6,
+      "d": 78.2,
+      "kd": 78.6,
+      "ma5": 68.58,
+      "ma20": 66.28,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 8179,
+      "avgVol20": 8344,
       "hitFib": 0.618,
       "fibLevels": [
         {
@@ -38362,14 +38362,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 68.4,
-          "high": 69.6,
-          "low": 68.0,
-          "close": 69.0,
-          "volume": 4868
-        },
         {
           "date": "2026-07-03",
           "open": 68.3,
@@ -38601,13 +38593,17 @@
           "low": 68.3,
           "close": 70.4,
           "volume": 22941
+        },
+        {
+          "date": "2026-08-14",
+          "open": 70.8,
+          "high": 73.8,
+          "low": 70.5,
+          "close": 70.6,
+          "volume": 17067
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 2
-        },
         {
           "date": "2026-08-10",
           "score": 1
@@ -38622,6 +38618,10 @@
         },
         {
           "date": "2026-08-13",
+          "score": 2
+        },
+        {
+          "date": "2026-08-14",
           "score": 2
         }
       ]
@@ -39380,21 +39380,21 @@
       "code": "1605",
       "name": "華新",
       "sector": "電機",
-      "currentPrice": 39.3,
-      "change": -1.75,
+      "currentPrice": 39.05,
+      "change": -0.64,
       "high": 44.0,
       "low": 28.35,
-      "k": 86.8,
-      "d": 82.5,
-      "kd": 86.8,
-      "ma5": 38.03,
-      "ma20": 33.79,
+      "k": 83.7,
+      "d": 82.9,
+      "kd": 83.7,
+      "ma5": 38.93,
+      "ma20": 34.11,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
-      "volSurge": true,
-      "avgVol20": 32390,
+      "volSurge": false,
+      "avgVol20": 33058,
       "hitFib": null,
       "fibLevels": [
         {
@@ -39487,14 +39487,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 35.3,
-          "high": 35.7,
-          "low": 34.9,
-          "close": 35.55,
-          "volume": 16235
-        },
         {
           "date": "2026-07-03",
           "open": 35.3,
@@ -39726,13 +39718,17 @@
           "low": 39.15,
           "close": 39.3,
           "volume": 57957
+        },
+        {
+          "date": "2026-08-14",
+          "open": 40.0,
+          "high": 40.5,
+          "low": 38.55,
+          "close": 39.05,
+          "volume": 41600
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 1
-        },
         {
           "date": "2026-08-10",
           "score": 2
@@ -39748,6 +39744,10 @@
         {
           "date": "2026-08-13",
           "score": 1
+        },
+        {
+          "date": "2026-08-14",
+          "score": 0
         }
       ]
     },
@@ -39755,22 +39755,22 @@
       "code": "1476",
       "name": "儒鴻",
       "sector": "紡織",
-      "currentPrice": 326.5,
-      "change": 0.62,
+      "currentPrice": 322.0,
+      "change": -1.38,
       "high": 368.0,
       "low": 307.5,
-      "k": 21.5,
-      "d": 38.5,
-      "kd": 21.5,
-      "ma5": 333.4,
-      "ma20": 341.2,
+      "k": 16.0,
+      "d": 31.0,
+      "kd": 16.0,
+      "ma5": 328.4,
+      "ma20": 340.62,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 1849,
-      "hitFib": 0.618,
+      "avgVol20": 1810,
+      "hitFib": 0.786,
       "fibLevels": [
         {
           "ratio": 0,
@@ -39862,14 +39862,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 313.5,
-          "high": 316.5,
-          "low": 311.5,
-          "close": 315.0,
-          "volume": 846
-        },
         {
           "date": "2026-07-03",
           "open": 315.0,
@@ -40101,13 +40093,17 @@
           "low": 321.0,
           "close": 326.5,
           "volume": 1221
+        },
+        {
+          "date": "2026-08-14",
+          "open": 326.5,
+          "high": 327.5,
+          "low": 319.5,
+          "close": 322.0,
+          "volume": 1214
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 2
-        },
         {
           "date": "2026-08-10",
           "score": 1
@@ -40122,6 +40118,10 @@
         },
         {
           "date": "2026-08-13",
+          "score": 2
+        },
+        {
+          "date": "2026-08-14",
           "score": 2
         }
       ]
@@ -40880,21 +40880,21 @@
       "code": "2105",
       "name": "正新",
       "sector": "傳產",
-      "currentPrice": 30.7,
-      "change": -4.36,
+      "currentPrice": 30.4,
+      "change": -0.98,
       "high": 35.3,
       "low": 29.05,
-      "k": 64.3,
-      "d": 64.4,
-      "kd": 64.3,
-      "ma5": 31.54,
-      "ma20": 31.28,
+      "k": 48.5,
+      "d": 59.1,
+      "kd": 48.5,
+      "ma5": 31.34,
+      "ma20": 31.12,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": true,
       "kRising": false,
-      "volSurge": true,
-      "avgVol20": 10755,
+      "volSurge": false,
+      "avgVol20": 9643,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -40987,14 +40987,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 30.5,
-          "high": 31.75,
-          "low": 30.0,
-          "close": 31.7,
-          "volume": 24857
-        },
         {
           "date": "2026-07-03",
           "open": 31.5,
@@ -41226,13 +41218,17 @@
           "low": 30.5,
           "close": 30.7,
           "volume": 18491
+        },
+        {
+          "date": "2026-08-14",
+          "open": 30.65,
+          "high": 30.65,
+          "low": 30.2,
+          "close": 30.4,
+          "volume": 7140
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 1
-        },
         {
           "date": "2026-08-10",
           "score": 1
@@ -41248,6 +41244,10 @@
         {
           "date": "2026-08-13",
           "score": 2
+        },
+        {
+          "date": "2026-08-14",
+          "score": 1
         }
       ]
     },
@@ -41630,21 +41630,21 @@
       "code": "2474",
       "name": "可成",
       "sector": "傳產",
-      "currentPrice": 203.0,
-      "change": -0.98,
+      "currentPrice": 204.5,
+      "change": 0.74,
       "high": 266.0,
       "low": 177.0,
-      "k": 78.6,
-      "d": 69.6,
-      "kd": 78.6,
-      "ma5": 200.5,
-      "ma20": 189.6,
+      "k": 80.4,
+      "d": 73.2,
+      "kd": 80.4,
+      "ma5": 203.9,
+      "ma20": 190.5,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3658,
+      "avgVol20": 3521,
       "hitFib": null,
       "fibLevels": [
         {
@@ -41737,14 +41737,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 201.5,
-          "high": 204.0,
-          "low": 200.5,
-          "close": 201.5,
-          "volume": 5671
-        },
         {
           "date": "2026-07-03",
           "open": 201.5,
@@ -41976,13 +41968,17 @@
           "low": 202.5,
           "close": 203.0,
           "volume": 2537
+        },
+        {
+          "date": "2026-08-14",
+          "open": 203.0,
+          "high": 205.0,
+          "low": 202.5,
+          "close": 204.5,
+          "volume": 2311
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 1
-        },
         {
           "date": "2026-08-10",
           "score": 2
@@ -41997,6 +41993,10 @@
         },
         {
           "date": "2026-08-13",
+          "score": 0
+        },
+        {
+          "date": "2026-08-14",
           "score": 0
         }
       ]
@@ -42755,21 +42755,21 @@
       "code": "1583",
       "name": "程泰",
       "sector": "傳產",
-      "currentPrice": 49.05,
-      "change": -1.21,
+      "currentPrice": 49.1,
+      "change": 0.1,
       "high": 63.0,
       "low": 43.15,
-      "k": 47.0,
-      "d": 46.9,
-      "kd": 47.0,
-      "ma5": 49.39,
-      "ma20": 49.54,
+      "k": 46.5,
+      "d": 46.8,
+      "kd": 46.5,
+      "ma5": 49.41,
+      "ma20": 49.53,
       "maGolden": false,
-      "goldenCross": true,
-      "deathCross": false,
+      "goldenCross": false,
+      "deathCross": true,
       "kRising": false,
-      "volSurge": true,
-      "avgVol20": 19,
+      "volSurge": false,
+      "avgVol20": 16,
       "hitFib": null,
       "fibLevels": [
         {
@@ -42778,27 +42778,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 59.14
+          "price": 59.25
         },
         {
           "ratio": 0.382,
-          "price": 56.75
+          "price": 56.93
         },
         {
           "ratio": 0.5,
-          "price": 54.83
+          "price": 55.05
         },
         {
           "ratio": 0.618,
-          "price": 52.9
+          "price": 53.17
         },
         {
           "ratio": 0.786,
-          "price": 50.15
+          "price": 50.5
         },
         {
           "ratio": 1,
-          "price": 46.65
+          "price": 47.1
         }
       ],
       "fibLevels60": [
@@ -42808,27 +42808,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 59.14
+          "price": 59.25
         },
         {
           "ratio": 0.382,
-          "price": 56.75
+          "price": 56.93
         },
         {
           "ratio": 0.5,
-          "price": 54.83
+          "price": 55.05
         },
         {
           "ratio": 0.618,
-          "price": 52.9
+          "price": 53.17
         },
         {
           "ratio": 0.786,
-          "price": 50.15
+          "price": 50.5
         },
         {
           "ratio": 1,
-          "price": 46.65
+          "price": 47.1
         }
       ],
       "fibLevels120": [
@@ -42838,38 +42838,30 @@
         },
         {
           "ratio": 0.236,
-          "price": 59.14
+          "price": 59.25
         },
         {
           "ratio": 0.382,
-          "price": 56.75
+          "price": 56.93
         },
         {
           "ratio": 0.5,
-          "price": 54.83
+          "price": 55.05
         },
         {
           "ratio": 0.618,
-          "price": 52.9
+          "price": 53.17
         },
         {
           "ratio": 0.786,
-          "price": 50.15
+          "price": 50.5
         },
         {
           "ratio": 1,
-          "price": 46.65
+          "price": 47.1
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 49.35,
-          "high": 49.8,
-          "low": 49.35,
-          "close": 49.5,
-          "volume": 10
-        },
         {
           "date": "2026-07-03",
           "open": 52.3,
@@ -43101,28 +43093,36 @@
           "low": 48.35,
           "close": 49.05,
           "volume": 36
+        },
+        {
+          "date": "2026-08-14",
+          "open": 49.1,
+          "high": 49.4,
+          "low": 49.1,
+          "close": 49.1,
+          "volume": 5
         }
       ],
       "scoreHistory": [
         {
-          "date": "2026-08-07",
+          "date": "2026-08-10",
           "score": 0
         },
         {
-          "date": "2026-08-10",
+          "date": "2026-08-11",
           "score": 1
         },
         {
-          "date": "2026-08-11",
-          "score": 2
-        },
-        {
           "date": "2026-08-12",
-          "score": 2
+          "score": 1
         },
         {
           "date": "2026-08-13",
           "score": 2
+        },
+        {
+          "date": "2026-08-14",
+          "score": 0
         }
       ]
     },
@@ -44255,21 +44255,21 @@
       "code": "5478",
       "name": "智冠",
       "sector": "傳產",
-      "currentPrice": 99.9,
-      "change": 0.0,
+      "currentPrice": 99.3,
+      "change": -0.6,
       "high": 109.5,
       "low": 95.6,
-      "k": 58.6,
-      "d": 65.4,
-      "kd": 58.6,
-      "ma5": 100.06,
-      "ma20": 99.33,
+      "k": 53.2,
+      "d": 63.6,
+      "kd": 53.2,
+      "ma5": 99.94,
+      "ma20": 99.3,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 67,
+      "avgVol20": 69,
       "hitFib": 0.786,
       "fibLevels": [
         {
@@ -44598,9 +44598,9 @@
           "date": "2026-08-14",
           "open": 100.5,
           "high": 100.5,
-          "low": 99.8,
-          "close": 99.9,
-          "volume": 37
+          "low": 99.3,
+          "close": 99.3,
+          "volume": 73
         }
       ],
       "scoreHistory": [
@@ -45005,22 +45005,22 @@
       "code": "6147",
       "name": "頃邦",
       "sector": "傳產",
-      "currentPrice": 161.0,
-      "change": -2.13,
+      "currentPrice": 157.5,
+      "change": -4.26,
       "high": 309.64,
       "low": 49.58,
-      "k": 78.8,
-      "d": 74.9,
-      "kd": 78.8,
-      "ma5": 159.5,
-      "ma20": 153.15,
+      "k": 76.0,
+      "d": 73.9,
+      "kd": 76.0,
+      "ma5": 158.8,
+      "ma20": 152.97,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 29170,
-      "hitFib": null,
+      "avgVol20": 29417,
+      "hitFib": 0.786,
       "fibLevels": [
         {
           "ratio": 0,
@@ -45348,9 +45348,9 @@
           "date": "2026-08-14",
           "open": 165.0,
           "high": 166.0,
-          "low": 158.5,
-          "close": 161.0,
-          "volume": 16699
+          "low": 157.5,
+          "close": 157.5,
+          "volume": 21638
         }
       ],
       "scoreHistory": [
@@ -45372,7 +45372,7 @@
         },
         {
           "date": "2026-08-14",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -45380,22 +45380,22 @@
       "code": "2912",
       "name": "統一超",
       "sector": "傳產",
-      "currentPrice": 217.0,
-      "change": -1.14,
+      "currentPrice": 214.5,
+      "change": -1.15,
       "high": 250.0,
       "low": 203.5,
-      "k": 12.8,
-      "d": 13.7,
-      "kd": 12.8,
-      "ma5": 219.2,
-      "ma20": 229.93,
+      "k": 10.2,
+      "d": 12.5,
+      "kd": 10.2,
+      "ma5": 217.9,
+      "ma20": 228.5,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3853,
-      "hitFib": null,
+      "avgVol20": 3703,
+      "hitFib": 0.786,
       "fibLevels": [
         {
           "ratio": 0,
@@ -45487,14 +45487,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 224.5,
-          "high": 229.5,
-          "low": 224.0,
-          "close": 228.5,
-          "volume": 3910
-        },
         {
           "date": "2026-07-03",
           "open": 227.0,
@@ -45726,13 +45718,17 @@
           "low": 216.0,
           "close": 217.0,
           "volume": 3949
+        },
+        {
+          "date": "2026-08-14",
+          "open": 217.0,
+          "high": 217.0,
+          "low": 214.0,
+          "close": 214.5,
+          "volume": 2610
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 2
-        },
         {
           "date": "2026-08-10",
           "score": 2
@@ -45748,6 +45744,10 @@
         {
           "date": "2026-08-13",
           "score": 1
+        },
+        {
+          "date": "2026-08-14",
+          "score": 2
         }
       ]
     },
@@ -45755,21 +45755,21 @@
       "code": "5434",
       "name": "崇越",
       "sector": "傳產",
-      "currentPrice": 527.0,
-      "change": -0.94,
+      "currentPrice": 521.0,
+      "change": -1.14,
       "high": 602.0,
       "low": 314.0,
-      "k": 66.1,
-      "d": 57.3,
-      "kd": 66.1,
-      "ma5": 518.8,
-      "ma20": 524.3,
-      "maGolden": false,
+      "k": 62.1,
+      "d": 58.9,
+      "kd": 62.1,
+      "ma5": 523.2,
+      "ma20": 522.25,
+      "maGolden": true,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 1247,
+      "avgVol20": 1110,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -45778,27 +45778,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 553.38
+          "price": 554.8
         },
         {
           "ratio": 0.382,
-          "price": 523.31
+          "price": 525.6
         },
         {
           "ratio": 0.5,
-          "price": 499.0
+          "price": 502.0
         },
         {
           "ratio": 0.618,
-          "price": 474.69
+          "price": 478.4
         },
         {
           "ratio": 0.786,
-          "price": 440.08
+          "price": 444.8
         },
         {
           "ratio": 1,
-          "price": 396.0
+          "price": 402.0
         }
       ],
       "fibLevels60": [
@@ -45808,27 +45808,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 553.38
+          "price": 554.8
         },
         {
           "ratio": 0.382,
-          "price": 523.31
+          "price": 525.6
         },
         {
           "ratio": 0.5,
-          "price": 499.0
+          "price": 502.0
         },
         {
           "ratio": 0.618,
-          "price": 474.69
+          "price": 478.4
         },
         {
           "ratio": 0.786,
-          "price": 440.08
+          "price": 444.8
         },
         {
           "ratio": 1,
-          "price": 396.0
+          "price": 402.0
         }
       ],
       "fibLevels120": [
@@ -45838,38 +45838,30 @@
         },
         {
           "ratio": 0.236,
-          "price": 553.38
+          "price": 554.8
         },
         {
           "ratio": 0.382,
-          "price": 523.31
+          "price": 525.6
         },
         {
           "ratio": 0.5,
-          "price": 499.0
+          "price": 502.0
         },
         {
           "ratio": 0.618,
-          "price": 474.69
+          "price": 478.4
         },
         {
           "ratio": 0.786,
-          "price": 440.08
+          "price": 444.8
         },
         {
           "ratio": 1,
-          "price": 396.0
+          "price": 402.0
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 526.0,
-          "high": 552.0,
-          "low": 523.0,
-          "close": 541.0,
-          "volume": 2026
-        },
         {
           "date": "2026-07-03",
           "open": 536.0,
@@ -46101,13 +46093,17 @@
           "low": 526.0,
           "close": 527.0,
           "volume": 531
+        },
+        {
+          "date": "2026-08-14",
+          "open": 532.0,
+          "high": 532.0,
+          "low": 521.0,
+          "close": 521.0,
+          "volume": 388
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 2
-        },
         {
           "date": "2026-08-10",
           "score": 0
@@ -46118,11 +46114,15 @@
         },
         {
           "date": "2026-08-12",
-          "score": 0
+          "score": 1
         },
         {
           "date": "2026-08-13",
           "score": 1
+        },
+        {
+          "date": "2026-08-14",
+          "score": 2
         }
       ]
     },
@@ -47255,21 +47255,21 @@
       "code": "2353",
       "name": "宏碁",
       "sector": "傳產",
-      "currentPrice": 31.55,
-      "change": -0.63,
+      "currentPrice": 32.3,
+      "change": 2.38,
       "high": 44.2,
       "low": 26.85,
-      "k": 83.6,
-      "d": 76.5,
-      "kd": 83.6,
-      "ma5": 31.12,
-      "ma20": 29.89,
+      "k": 82.7,
+      "d": 78.6,
+      "kd": 82.7,
+      "ma5": 31.53,
+      "ma20": 30.03,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
-      "volSurge": false,
-      "avgVol20": 23396,
+      "volSurge": true,
+      "avgVol20": 24487,
       "hitFib": null,
       "fibLevels": [
         {
@@ -47278,27 +47278,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 40.25
+          "price": 40.29
         },
         {
           "ratio": 0.382,
-          "price": 37.8
+          "price": 37.88
         },
         {
           "ratio": 0.5,
-          "price": 35.83
+          "price": 35.92
         },
         {
           "ratio": 0.618,
-          "price": 33.85
+          "price": 33.97
         },
         {
           "ratio": 0.786,
-          "price": 31.03
+          "price": 31.19
         },
         {
           "ratio": 1,
-          "price": 27.45
+          "price": 27.65
         }
       ],
       "fibLevels60": [
@@ -47308,27 +47308,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 40.25
+          "price": 40.29
         },
         {
           "ratio": 0.382,
-          "price": 37.8
+          "price": 37.88
         },
         {
           "ratio": 0.5,
-          "price": 35.83
+          "price": 35.92
         },
         {
           "ratio": 0.618,
-          "price": 33.85
+          "price": 33.97
         },
         {
           "ratio": 0.786,
-          "price": 31.03
+          "price": 31.19
         },
         {
           "ratio": 1,
-          "price": 27.45
+          "price": 27.65
         }
       ],
       "fibLevels120": [
@@ -47338,38 +47338,30 @@
         },
         {
           "ratio": 0.236,
-          "price": 40.25
+          "price": 40.29
         },
         {
           "ratio": 0.382,
-          "price": 37.8
+          "price": 37.88
         },
         {
           "ratio": 0.5,
-          "price": 35.83
+          "price": 35.92
         },
         {
           "ratio": 0.618,
-          "price": 33.85
+          "price": 33.97
         },
         {
           "ratio": 0.786,
-          "price": 31.03
+          "price": 31.19
         },
         {
           "ratio": 1,
-          "price": 27.45
+          "price": 27.65
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 32.0,
-          "high": 32.2,
-          "low": 31.65,
-          "close": 32.0,
-          "volume": 24162
-        },
         {
           "date": "2026-07-03",
           "open": 32.0,
@@ -47601,13 +47593,17 @@
           "low": 31.5,
           "close": 31.55,
           "volume": 26523
+        },
+        {
+          "date": "2026-08-14",
+          "open": 31.8,
+          "high": 33.2,
+          "low": 31.8,
+          "close": 32.3,
+          "volume": 59374
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 0
-        },
         {
           "date": "2026-08-10",
           "score": 2
@@ -47622,7 +47618,11 @@
         },
         {
           "date": "2026-08-13",
-          "score": 0
+          "score": 1
+        },
+        {
+          "date": "2026-08-14",
+          "score": 1
         }
       ]
     },
@@ -47630,21 +47630,21 @@
       "code": "2385",
       "name": "群光",
       "sector": "傳產",
-      "currentPrice": 106.0,
-      "change": 0.95,
+      "currentPrice": 107.5,
+      "change": 1.42,
       "high": 149.5,
       "low": 99.2,
-      "k": 57.7,
-      "d": 52.4,
-      "kd": 57.7,
-      "ma5": 104.0,
-      "ma20": 104.35,
-      "maGolden": false,
-      "goldenCross": true,
+      "k": 69.4,
+      "d": 58.1,
+      "kd": 69.4,
+      "ma5": 105.2,
+      "ma20": 104.6,
+      "maGolden": true,
+      "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 4371,
+      "avgVol20": 4178,
       "hitFib": null,
       "fibLevels": [
         {
@@ -47737,14 +47737,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 105.5,
-          "high": 106.5,
-          "low": 103.5,
-          "close": 105.5,
-          "volume": 4914
-        },
         {
           "date": "2026-07-03",
           "open": 105.0,
@@ -47976,13 +47968,17 @@
           "low": 105.5,
           "close": 106.0,
           "volume": 5935
+        },
+        {
+          "date": "2026-08-14",
+          "open": 107.0,
+          "high": 107.5,
+          "low": 106.0,
+          "close": 107.5,
+          "volume": 3038
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 0
-        },
         {
           "date": "2026-08-10",
           "score": 0
@@ -47998,6 +47994,10 @@
         {
           "date": "2026-08-13",
           "score": 1
+        },
+        {
+          "date": "2026-08-14",
+          "score": 1
         }
       ]
     },
@@ -48005,21 +48005,21 @@
       "code": "1216",
       "name": "統一",
       "sector": "傳產",
-      "currentPrice": 76.3,
-      "change": 0.0,
+      "currentPrice": 75.8,
+      "change": -0.66,
       "high": 80.7,
       "low": 68.5,
-      "k": 75.1,
-      "d": 55.4,
-      "kd": 75.1,
-      "ma5": 75.94,
-      "ma20": 76.3,
+      "k": 77.7,
+      "d": 62.9,
+      "kd": 77.7,
+      "ma5": 75.96,
+      "ma20": 76.09,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 21479,
+      "avgVol20": 20279,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -48112,14 +48112,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 74.5,
-          "high": 75.4,
-          "low": 74.4,
-          "close": 74.9,
-          "volume": 10376
-        },
         {
           "date": "2026-07-03",
           "open": 74.6,
@@ -48351,13 +48343,17 @@
           "low": 75.1,
           "close": 76.3,
           "volume": 13840
+        },
+        {
+          "date": "2026-08-14",
+          "open": 76.2,
+          "high": 76.3,
+          "low": 75.4,
+          "close": 75.8,
+          "volume": 6860
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 3
-        },
         {
           "date": "2026-08-10",
           "score": 3
@@ -48373,6 +48369,10 @@
         {
           "date": "2026-08-13",
           "score": 1
+        },
+        {
+          "date": "2026-08-14",
+          "score": 1
         }
       ]
     },
@@ -48380,121 +48380,113 @@
       "code": "3653",
       "name": "健策",
       "sector": "傳產",
-      "currentPrice": 4635.0,
-      "change": 3.69,
+      "currentPrice": 4855.0,
+      "change": 4.75,
       "high": 5685.0,
       "low": 2800.0,
-      "k": 85.0,
-      "d": 79.5,
-      "kd": 85.0,
-      "ma5": 4337.0,
-      "ma20": 3787.25,
+      "k": 89.8,
+      "d": 82.9,
+      "kd": 89.8,
+      "ma5": 4432.0,
+      "ma20": 3869.5,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 1694,
+      "avgVol20": 1698,
       "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
-          "price": 4670.0
+          "price": 4860.0
         },
         {
           "ratio": 0.236,
-          "price": 4228.68
+          "price": 4418.68
         },
         {
           "ratio": 0.382,
-          "price": 3955.66
+          "price": 4145.66
         },
         {
           "ratio": 0.5,
-          "price": 3735.0
+          "price": 3925.0
         },
         {
           "ratio": 0.618,
-          "price": 3514.34
+          "price": 3704.34
         },
         {
           "ratio": 0.786,
-          "price": 3200.18
+          "price": 3390.18
         },
         {
           "ratio": 1,
-          "price": 2800.0
+          "price": 2990.0
         }
       ],
       "fibLevels60": [
         {
           "ratio": 0,
-          "price": 4670.0
+          "price": 4860.0
         },
         {
           "ratio": 0.236,
-          "price": 4228.68
+          "price": 4418.68
         },
         {
           "ratio": 0.382,
-          "price": 3955.66
+          "price": 4145.66
         },
         {
           "ratio": 0.5,
-          "price": 3735.0
+          "price": 3925.0
         },
         {
           "ratio": 0.618,
-          "price": 3514.34
+          "price": 3704.34
         },
         {
           "ratio": 0.786,
-          "price": 3200.18
+          "price": 3390.18
         },
         {
           "ratio": 1,
-          "price": 2800.0
+          "price": 2990.0
         }
       ],
       "fibLevels120": [
         {
           "ratio": 0,
-          "price": 4670.0
+          "price": 4860.0
         },
         {
           "ratio": 0.236,
-          "price": 4228.68
+          "price": 4418.68
         },
         {
           "ratio": 0.382,
-          "price": 3955.66
+          "price": 4145.66
         },
         {
           "ratio": 0.5,
-          "price": 3735.0
+          "price": 3925.0
         },
         {
           "ratio": 0.618,
-          "price": 3514.34
+          "price": 3704.34
         },
         {
           "ratio": 0.786,
-          "price": 3200.18
+          "price": 3390.18
         },
         {
           "ratio": 1,
-          "price": 2800.0
+          "price": 2990.0
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 3320.0,
-          "high": 3495.0,
-          "low": 3245.0,
-          "close": 3475.0,
-          "volume": 600
-        },
         {
           "date": "2026-07-03",
           "open": 3360.0,
@@ -48726,16 +48718,20 @@
           "low": 4415.0,
           "close": 4635.0,
           "volume": 985
+        },
+        {
+          "date": "2026-08-14",
+          "open": 4695.0,
+          "high": 4860.0,
+          "low": 4530.0,
+          "close": 4855.0,
+          "volume": 1178
         }
       ],
       "scoreHistory": [
         {
-          "date": "2026-08-07",
-          "score": 0
-        },
-        {
           "date": "2026-08-10",
-          "score": 0
+          "score": 1
         },
         {
           "date": "2026-08-11",
@@ -48743,10 +48739,14 @@
         },
         {
           "date": "2026-08-12",
-          "score": 0
+          "score": 1
         },
         {
           "date": "2026-08-13",
+          "score": 0
+        },
+        {
+          "date": "2026-08-14",
           "score": 0
         }
       ]
@@ -49130,22 +49130,22 @@
       "code": "4958",
       "name": "臻鼎-KY",
       "sector": "傳產",
-      "currentPrice": 477.5,
-      "change": 1.27,
+      "currentPrice": 489.5,
+      "change": 2.51,
       "high": 659.0,
       "low": 213.0,
-      "k": 72.0,
-      "d": 68.4,
-      "kd": 72.0,
-      "ma5": 476.5,
-      "ma20": 468.27,
+      "k": 71.0,
+      "d": 69.2,
+      "kd": 71.0,
+      "ma5": 479.8,
+      "ma20": 466.7,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
-      "volSurge": false,
-      "avgVol20": 38859,
-      "hitFib": 0.618,
+      "volSurge": true,
+      "avgVol20": 40835,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -49237,14 +49237,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-07-02",
-          "open": 595.0,
-          "high": 601.0,
-          "low": 582.0,
-          "close": 598.0,
-          "volume": 18905
-        },
         {
           "date": "2026-07-03",
           "open": 580.0,
@@ -49476,13 +49468,17 @@
           "low": 472.0,
           "close": 477.5,
           "volume": 42130
+        },
+        {
+          "date": "2026-08-14",
+          "open": 481.5,
+          "high": 522.0,
+          "low": 473.0,
+          "close": 489.5,
+          "volume": 61265
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-08-07",
-          "score": 1
-        },
         {
           "date": "2026-08-10",
           "score": 0
@@ -49497,6 +49493,10 @@
         },
         {
           "date": "2026-08-13",
+          "score": 1
+        },
+        {
+          "date": "2026-08-14",
           "score": 1
         }
       ]
