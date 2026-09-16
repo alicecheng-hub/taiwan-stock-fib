@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 09:26",
+  "updated": "2026-09-16 11:32",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -1894,7 +1894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 98316,
+      "avgVol20": 98354,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -2225,7 +2225,7 @@
           "high": 32.0,
           "low": 31.73,
           "close": 31.99,
-          "volume": 123020
+          "volume": 123788
         }
       ],
       "scoreHistory": [
@@ -5269,7 +5269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 52262,
+      "avgVol20": 52270,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -5600,7 +5600,7 @@
           "high": 185.5,
           "low": 181.0,
           "close": 183.0,
-          "volume": 32489
+          "volume": 32629
         }
       ],
       "scoreHistory": [
@@ -7144,7 +7144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 20328,
+      "avgVol20": 20330,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -7475,7 +7475,7 @@
           "high": 2395.0,
           "low": 2375.0,
           "close": 2380.0,
-          "volume": 20875
+          "volume": 20919
         }
       ],
       "scoreHistory": [
@@ -7519,7 +7519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 8204,
+      "avgVol20": 8216,
       "hitFib": null,
       "fibLevels": [
         {
@@ -7850,7 +7850,7 @@
           "high": 4625.0,
           "low": 4435.0,
           "close": 4530.0,
-          "volume": 6391
+          "volume": 6640
         }
       ],
       "scoreHistory": [
@@ -8600,7 +8600,7 @@
           "high": 142.5,
           "low": 138.0,
           "close": 142.0,
-          "volume": 117162
+          "volume": 117165
         }
       ],
       "scoreHistory": [
@@ -9019,7 +9019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 16915,
+      "avgVol20": 16931,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -9350,7 +9350,7 @@
           "high": 610.0,
           "low": 597.0,
           "close": 605.0,
-          "volume": 9205
+          "volume": 9509
         }
       ],
       "scoreHistory": [
@@ -9769,7 +9769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 32654,
+      "avgVol20": 32705,
       "hitFib": null,
       "fibLevels": [
         {
@@ -10100,7 +10100,7 @@
           "high": 120.0,
           "low": 116.0,
           "close": 119.0,
-          "volume": 21333
+          "volume": 22351
         }
       ],
       "scoreHistory": [
@@ -11269,7 +11269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 41163,
+      "avgVol20": 41164,
       "hitFib": null,
       "fibLevels": [
         {
@@ -11600,7 +11600,7 @@
           "high": 543.0,
           "low": 526.0,
           "close": 536.0,
-          "volume": 27823
+          "volume": 27854
         }
       ],
       "scoreHistory": [
@@ -12769,7 +12769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 130833,
+      "avgVol20": 130904,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -13100,7 +13100,7 @@
           "high": 169.5,
           "low": 163.5,
           "close": 169.0,
-          "volume": 81790
+          "volume": 83218
         }
       ],
       "scoreHistory": [
@@ -21019,7 +21019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 23420,
+      "avgVol20": 23436,
       "hitFib": null,
       "fibLevels": [
         {
@@ -21350,7 +21350,7 @@
           "high": 971.0,
           "low": 940.0,
           "close": 961.0,
-          "volume": 11543
+          "volume": 11860
         }
       ],
       "scoreHistory": [
@@ -24382,7 +24382,7 @@
       "sector": "PCB",
       "currentPrice": 191.0,
       "change": -0.78,
-      "high": 301.0,
+      "high": 308.0,
       "low": 180.0,
       "k": 50.5,
       "d": 53.0,
