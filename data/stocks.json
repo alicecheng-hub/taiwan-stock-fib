@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17 09:34",
+  "updated": "2026-09-17 11:40",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -5643,8 +5643,8 @@
       "goldenCross": true,
       "deathCross": false,
       "kRising": false,
-      "volSurge": false,
-      "avgVol20": 3639,
+      "volSurge": true,
+      "avgVol20": 3668,
       "hitFib": null,
       "fibLevels": [
         {
@@ -5975,7 +5975,7 @@
           "high": 2260.0,
           "low": 2135.0,
           "close": 2135.0,
-          "volume": 5165
+          "volume": 5761
         }
       ],
       "scoreHistory": [
@@ -5997,7 +5997,7 @@
         },
         {
           "date": "2026-09-17",
-          "score": 2
+          "score": 3
         }
       ]
     },
@@ -7519,7 +7519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 7879,
+      "avgVol20": 7880,
       "hitFib": null,
       "fibLevels": [
         {
@@ -7850,7 +7850,7 @@
           "high": 4700.0,
           "low": 4500.0,
           "close": 4500.0,
-          "volume": 6476
+          "volume": 6495
         }
       ],
       "scoreHistory": [
