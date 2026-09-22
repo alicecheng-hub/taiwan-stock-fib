@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22 09:28",
+  "updated": "2026-09-22 11:37",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -1894,7 +1894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 104081,
+      "avgVol20": 104106,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -2225,7 +2225,7 @@
           "high": 32.44,
           "low": 32.13,
           "close": 32.16,
-          "volume": 70179
+          "volume": 70679
         }
       ],
       "scoreHistory": [
@@ -3394,7 +3394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 14778,
+      "avgVol20": 14787,
       "hitFib": null,
       "fibLevels": [
         {
@@ -3725,7 +3725,7 @@
           "high": 349.0,
           "low": 340.0,
           "close": 342.0,
-          "volume": 11110
+          "volume": 11292
         }
       ],
       "scoreHistory": [
@@ -5269,7 +5269,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 53654,
+      "avgVol20": 53669,
       "hitFib": 0.382,
       "fibLevels": [
         {
@@ -5600,7 +5600,7 @@
           "high": 188.0,
           "low": 180.5,
           "close": 180.5,
-          "volume": 69181
+          "volume": 69481
         }
       ],
       "scoreHistory": [
@@ -5644,7 +5644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 4235,
+      "avgVol20": 4246,
       "hitFib": null,
       "fibLevels": [
         {
@@ -5975,7 +5975,7 @@
           "high": 2180.0,
           "low": 2090.0,
           "close": 2115.0,
-          "volume": 6046
+          "volume": 6260
         }
       ],
       "scoreHistory": [
@@ -6019,7 +6019,7 @@
       "deathCross": false,
       "kRising": true,
       "volSurge": false,
-      "avgVol20": 2077,
+      "avgVol20": 2083,
       "hitFib": 0.618,
       "fibLevels": [
         {
@@ -6350,7 +6350,7 @@
           "high": 5100.0,
           "low": 4855.0,
           "close": 4860.0,
-          "volume": 1968
+          "volume": 2101
         }
       ],
       "scoreHistory": [
@@ -7144,7 +7144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 22004,
+      "avgVol20": 22060,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -7475,7 +7475,7 @@
           "high": 2510.0,
           "low": 2460.0,
           "close": 2460.0,
-          "volume": 20891
+          "volume": 22009
         }
       ],
       "scoreHistory": [
@@ -7519,7 +7519,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 8794,
+      "avgVol20": 8798,
       "hitFib": null,
       "fibLevels": [
         {
@@ -7850,7 +7850,7 @@
           "high": 5480.0,
           "low": 5150.0,
           "close": 5180.0,
-          "volume": 12063
+          "volume": 12131
         }
       ],
       "scoreHistory": [
@@ -9019,7 +9019,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 18262,
+      "avgVol20": 18279,
       "hitFib": null,
       "fibLevels": [
         {
@@ -9350,7 +9350,7 @@
           "high": 711.0,
           "low": 690.0,
           "close": 693.0,
-          "volume": 24645
+          "volume": 24987
         }
       ],
       "scoreHistory": [
@@ -9380,22 +9380,22 @@
       "code": "3034",
       "name": "聯詠",
       "sector": "半導體",
-      "currentPrice": 548.0,
-      "change": -1.79,
+      "currentPrice": 557.0,
+      "change": 1.64,
       "high": 606.0,
       "low": 412.5,
-      "k": 68.4,
-      "d": 64.6,
-      "kd": 68.4,
-      "ma5": 548.0,
-      "ma20": 544.8,
+      "k": 70.8,
+      "d": 66.7,
+      "kd": 70.8,
+      "ma5": 551.2,
+      "ma20": 544.9,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3403,
-      "hitFib": 0.236,
+      "avgVol20": 3295,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -9487,14 +9487,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-08-11",
-          "open": 543.0,
-          "high": 546.0,
-          "low": 533.0,
-          "close": 538.0,
-          "volume": 2428
-        },
         {
           "date": "2026-08-12",
           "open": 538.0,
@@ -9726,13 +9718,17 @@
           "low": 545.0,
           "close": 548.0,
           "volume": 2909
+        },
+        {
+          "date": "2026-09-22",
+          "open": 553.0,
+          "high": 567.0,
+          "low": 549.0,
+          "close": 557.0,
+          "volume": 3863
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-09-15",
-          "score": 1
-        },
         {
           "date": "2026-09-16",
           "score": 1
@@ -9748,6 +9744,10 @@
         {
           "date": "2026-09-21",
           "score": 1
+        },
+        {
+          "date": "2026-09-22",
+          "score": 0
         }
       ]
     },
@@ -15755,21 +15755,21 @@
       "code": "2464",
       "name": "盟立",
       "sector": "封裝設備",
-      "currentPrice": 192.5,
-      "change": -2.28,
+      "currentPrice": 190.5,
+      "change": -1.04,
       "high": 224.0,
       "low": 105.0,
-      "k": 43.3,
-      "d": 33.5,
-      "kd": 43.3,
-      "ma5": 185.6,
-      "ma20": 193.3,
+      "k": 47.4,
+      "d": 38.2,
+      "kd": 47.4,
+      "ma5": 188.5,
+      "ma20": 193.18,
       "maGolden": false,
-      "goldenCross": true,
+      "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 16086,
+      "avgVol20": 15929,
       "hitFib": null,
       "fibLevels": [
         {
@@ -15862,14 +15862,6 @@
         }
       ],
       "candles": [
-        {
-          "date": "2026-08-11",
-          "open": 180.0,
-          "high": 196.0,
-          "low": 176.0,
-          "close": 187.5,
-          "volume": 26698
-        },
         {
           "date": "2026-08-12",
           "open": 185.5,
@@ -16101,13 +16093,17 @@
           "low": 190.0,
           "close": 192.5,
           "volume": 9685
+        },
+        {
+          "date": "2026-09-22",
+          "open": 195.0,
+          "high": 201.0,
+          "low": 190.0,
+          "close": 190.5,
+          "volume": 11046
         }
       ],
       "scoreHistory": [
-        {
-          "date": "2026-09-15",
-          "score": 1
-        },
         {
           "date": "2026-09-16",
           "score": 2
@@ -16123,6 +16119,10 @@
         {
           "date": "2026-09-21",
           "score": 1
+        },
+        {
+          "date": "2026-09-22",
+          "score": 0
         }
       ]
     },
@@ -18769,7 +18769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 11965,
+      "avgVol20": 11969,
       "hitFib": null,
       "fibLevels": [
         {
@@ -19100,7 +19100,7 @@
           "high": 1965.0,
           "low": 1900.0,
           "close": 1900.0,
-          "volume": 16876
+          "volume": 16957
         }
       ],
       "scoreHistory": [
@@ -23269,7 +23269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 19404,
+      "avgVol20": 19455,
       "hitFib": null,
       "fibLevels": [
         {
@@ -23600,7 +23600,7 @@
           "high": 909.0,
           "low": 875.0,
           "close": 909.0,
-          "volume": 28086
+          "volume": 29109
         }
       ],
       "scoreHistory": [
@@ -24394,7 +24394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 8615,
+      "avgVol20": 8643,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -24725,7 +24725,7 @@
           "high": 209.0,
           "low": 205.0,
           "close": 205.0,
-          "volume": 7255
+          "volume": 7809
         }
       ],
       "scoreHistory": [
@@ -36393,8 +36393,8 @@
       "goldenCross": true,
       "deathCross": false,
       "kRising": true,
-      "volSurge": false,
-      "avgVol20": 756,
+      "volSurge": true,
+      "avgVol20": 766,
       "hitFib": null,
       "fibLevels": [
         {
@@ -36725,7 +36725,7 @@
           "high": 1285.0,
           "low": 1245.0,
           "close": 1260.0,
-          "volume": 1019
+          "volume": 1220
         }
       ],
       "scoreHistory": [
@@ -36747,7 +36747,7 @@
         },
         {
           "date": "2026-09-22",
-          "score": 3
+          "score": 4
         }
       ]
     },
