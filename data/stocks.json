@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23 07:46",
+  "updated": "2026-09-23 09:26",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -1133,7 +1133,7 @@
       "currentPrice": 19.58,
       "change": -1.01,
       "high": 20.27,
-      "low": 17.32,
+      "low": 15.56,
       "k": 69.4,
       "d": 74.9,
       "kd": 69.4,
@@ -3394,7 +3394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 14829,
+      "avgVol20": 14846,
       "hitFib": null,
       "fibLevels": [
         {
@@ -3725,7 +3725,7 @@
           "high": 343.0,
           "low": 340.0,
           "close": 341.5,
-          "volume": 9646
+          "volume": 9982
         }
       ],
       "scoreHistory": [
@@ -5644,7 +5644,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 4285,
+      "avgVol20": 4296,
       "hitFib": null,
       "fibLevels": [
         {
@@ -5975,7 +5975,7 @@
           "high": 2140.0,
           "low": 2095.0,
           "close": 2105.0,
-          "volume": 2674
+          "volume": 2904
         }
       ],
       "scoreHistory": [
@@ -6778,27 +6778,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 162.29
+          "price": 163.59
         },
         {
           "ratio": 0.382,
-          "price": 155.35
+          "price": 157.46
         },
         {
           "ratio": 0.5,
-          "price": 149.75
+          "price": 152.5
         },
         {
           "ratio": 0.618,
-          "price": 144.15
+          "price": 147.54
         },
         {
           "ratio": 0.786,
-          "price": 136.16
+          "price": 140.49
         },
         {
           "ratio": 1,
-          "price": 126.0
+          "price": 131.5
         }
       ],
       "fibLevels60": [
@@ -6808,27 +6808,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 162.29
+          "price": 163.59
         },
         {
           "ratio": 0.382,
-          "price": 155.35
+          "price": 157.46
         },
         {
           "ratio": 0.5,
-          "price": 149.75
+          "price": 152.5
         },
         {
           "ratio": 0.618,
-          "price": 144.15
+          "price": 147.54
         },
         {
           "ratio": 0.786,
-          "price": 136.16
+          "price": 140.49
         },
         {
           "ratio": 1,
-          "price": 126.0
+          "price": 131.5
         }
       ],
       "fibLevels120": [
@@ -6838,27 +6838,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 162.29
+          "price": 163.59
         },
         {
           "ratio": 0.382,
-          "price": 155.35
+          "price": 157.46
         },
         {
           "ratio": 0.5,
-          "price": 149.75
+          "price": 152.5
         },
         {
           "ratio": 0.618,
-          "price": 144.15
+          "price": 147.54
         },
         {
           "ratio": 0.786,
-          "price": 136.16
+          "price": 140.49
         },
         {
           "ratio": 1,
-          "price": 126.0
+          "price": 131.5
         }
       ],
       "candles": [
@@ -7106,15 +7106,15 @@
       "scoreHistory": [
         {
           "date": "2026-09-17",
-          "score": 1
-        },
-        {
-          "date": "2026-09-18",
           "score": 2
         },
         {
-          "date": "2026-09-21",
+          "date": "2026-09-18",
           "score": 1
+        },
+        {
+          "date": "2026-09-21",
+          "score": 2
         },
         {
           "date": "2026-09-22",
@@ -43894,7 +43894,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 2268,
+      "avgVol20": 2269,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -44225,7 +44225,7 @@
           "high": 2470.0,
           "low": 2305.0,
           "close": 2325.0,
-          "volume": 2616
+          "volume": 2628
         }
       ],
       "scoreHistory": [
