@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 07:37",
+  "updated": "2026-09-24 09:25",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -10144,7 +10144,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 1851,
+      "avgVol20": 1852,
       "hitFib": null,
       "fibLevels": [
         {
@@ -10475,7 +10475,7 @@
           "high": 8545.0,
           "low": 8205.0,
           "close": 8525.0,
-          "volume": 1433
+          "volume": 1471
         }
       ],
       "scoreHistory": [
@@ -23269,7 +23269,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 20285,
+      "avgVol20": 20356,
       "hitFib": null,
       "fibLevels": [
         {
@@ -23600,7 +23600,7 @@
           "high": 996.0,
           "low": 929.0,
           "close": 962.0,
-          "volume": 42703
+          "volume": 44137
         }
       ],
       "scoreHistory": [
@@ -24394,7 +24394,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 8357,
+      "avgVol20": 8446,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -24725,7 +24725,7 @@
           "high": 207.5,
           "low": 203.0,
           "close": 207.0,
-          "volume": 4904
+          "volume": 6695
         }
       ],
       "scoreHistory": [
@@ -26225,7 +26225,7 @@
           "high": 6310.0,
           "low": 6080.0,
           "close": 6245.0,
-          "volume": 1197
+          "volume": 1200
         }
       ],
       "scoreHistory": [
@@ -33769,7 +33769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 9120,
+      "avgVol20": 9152,
       "hitFib": 0.5,
       "fibLevels": [
         {
@@ -34100,7 +34100,7 @@
           "high": 28.2,
           "low": 27.8,
           "close": 28.15,
-          "volume": 4843
+          "volume": 5471
         }
       ],
       "scoreHistory": [
@@ -48380,46 +48380,46 @@
       "code": "3653",
       "name": "健策",
       "sector": "傳產",
-      "currentPrice": 6920.0,
-      "change": 7.96,
-      "high": 6920.0,
+      "currentPrice": 6410.0,
+      "change": 9.95,
+      "high": 6410.0,
       "low": 2800.0,
-      "k": 80.7,
-      "d": 62.5,
-      "kd": 80.7,
-      "ma5": 6095.0,
-      "ma20": 5782.0,
-      "maGolden": false,
+      "k": 71.0,
+      "d": 53.5,
+      "kd": 71.0,
+      "ma5": 5782.0,
+      "ma20": 5718.25,
+      "maGolden": true,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
-      "volSurge": true,
-      "avgVol20": 1221,
+      "volSurge": false,
+      "avgVol20": 1179,
       "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
-          "price": 6920.0
+          "price": 6410.0
         },
         {
           "ratio": 0.236,
-          "price": 5992.52
+          "price": 5602.88
         },
         {
           "ratio": 0.382,
-          "price": 5418.74
+          "price": 5103.56
         },
         {
           "ratio": 0.5,
-          "price": 4955.0
+          "price": 4700.0
         },
         {
           "ratio": 0.618,
-          "price": 4491.26
+          "price": 4296.44
         },
         {
           "ratio": 0.786,
-          "price": 3831.02
+          "price": 3721.88
         },
         {
           "ratio": 1,
@@ -48429,27 +48429,27 @@
       "fibLevels60": [
         {
           "ratio": 0,
-          "price": 6920.0
+          "price": 6410.0
         },
         {
           "ratio": 0.236,
-          "price": 5992.52
+          "price": 5602.88
         },
         {
           "ratio": 0.382,
-          "price": 5418.74
+          "price": 5103.56
         },
         {
           "ratio": 0.5,
-          "price": 4955.0
+          "price": 4700.0
         },
         {
           "ratio": 0.618,
-          "price": 4491.26
+          "price": 4296.44
         },
         {
           "ratio": 0.786,
-          "price": 3831.02
+          "price": 3721.88
         },
         {
           "ratio": 1,
@@ -48459,27 +48459,27 @@
       "fibLevels120": [
         {
           "ratio": 0,
-          "price": 6920.0
+          "price": 6410.0
         },
         {
           "ratio": 0.236,
-          "price": 5992.52
+          "price": 5602.88
         },
         {
           "ratio": 0.382,
-          "price": 5418.74
+          "price": 5103.56
         },
         {
           "ratio": 0.5,
-          "price": 4955.0
+          "price": 4700.0
         },
         {
           "ratio": 0.618,
-          "price": 4491.26
+          "price": 4296.44
         },
         {
           "ratio": 0.786,
-          "price": 3831.02
+          "price": 3721.88
         },
         {
           "ratio": 1,
@@ -48487,6 +48487,14 @@
         }
       ],
       "candles": [
+        {
+          "date": "2026-08-13",
+          "open": 4500.0,
+          "high": 4670.0,
+          "low": 4415.0,
+          "close": 4635.0,
+          "volume": 985
+        },
         {
           "date": "2026-08-14",
           "open": 4695.0,
@@ -48718,20 +48726,16 @@
           "low": 5930.0,
           "close": 6410.0,
           "volume": 1525
-        },
-        {
-          "date": "2026-09-24",
-          "open": 6560.0,
-          "high": 6920.0,
-          "low": 6215.0,
-          "close": 6920.0,
-          "volume": 2756
         }
       ],
       "scoreHistory": [
         {
+          "date": "2026-09-17",
+          "score": 1
+        },
+        {
           "date": "2026-09-18",
-          "score": 0
+          "score": 1
         },
         {
           "date": "2026-09-21",
@@ -48743,10 +48747,6 @@
         },
         {
           "date": "2026-09-23",
-          "score": 1
-        },
-        {
-          "date": "2026-09-24",
           "score": 1
         }
       ]
@@ -48769,7 +48769,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 3302,
+      "avgVol20": 3305,
       "hitFib": 0.236,
       "fibLevels": [
         {
@@ -49100,7 +49100,7 @@
           "high": 2470.0,
           "low": 2285.0,
           "close": 2340.0,
-          "volume": 4479
+          "volume": 4524
         }
       ],
       "scoreHistory": [
