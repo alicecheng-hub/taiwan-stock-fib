@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25 09:43",
+  "updated": "2026-09-25 11:50",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -10882,8 +10882,8 @@
       "sector": "半導體",
       "currentPrice": 229.0,
       "change": 0.22,
-      "high": 302.0,
-      "low": 142.0,
+      "high": 268.5,
+      "low": 157.0,
       "k": 69.1,
       "d": 61.2,
       "kd": 69.1,
@@ -10895,95 +10895,95 @@
       "kRising": false,
       "volSurge": false,
       "avgVol20": 5202,
-      "hitFib": null,
+      "hitFib": 0.382,
       "fibLevels": [
         {
           "ratio": 0,
-          "price": 302.0
+          "price": 268.5
         },
         {
           "ratio": 0.236,
-          "price": 264.24
+          "price": 242.19
         },
         {
           "ratio": 0.382,
-          "price": 240.88
+          "price": 225.91
         },
         {
           "ratio": 0.5,
-          "price": 222.0
+          "price": 212.75
         },
         {
           "ratio": 0.618,
-          "price": 203.12
+          "price": 199.59
         },
         {
           "ratio": 0.786,
-          "price": 176.24
+          "price": 180.86
         },
         {
           "ratio": 1,
-          "price": 142.0
+          "price": 157.0
         }
       ],
       "fibLevels60": [
         {
           "ratio": 0,
-          "price": 302.0
+          "price": 268.5
         },
         {
           "ratio": 0.236,
-          "price": 264.24
+          "price": 242.19
         },
         {
           "ratio": 0.382,
-          "price": 240.88
+          "price": 225.91
         },
         {
           "ratio": 0.5,
-          "price": 222.0
+          "price": 212.75
         },
         {
           "ratio": 0.618,
-          "price": 203.12
+          "price": 199.59
         },
         {
           "ratio": 0.786,
-          "price": 176.24
+          "price": 180.86
         },
         {
           "ratio": 1,
-          "price": 142.0
+          "price": 157.0
         }
       ],
       "fibLevels120": [
         {
           "ratio": 0,
-          "price": 302.0
+          "price": 268.5
         },
         {
           "ratio": 0.236,
-          "price": 264.24
+          "price": 242.19
         },
         {
           "ratio": 0.382,
-          "price": 240.88
+          "price": 225.91
         },
         {
           "ratio": 0.5,
-          "price": 222.0
+          "price": 212.75
         },
         {
           "ratio": 0.618,
-          "price": 203.12
+          "price": 199.59
         },
         {
           "ratio": 0.786,
-          "price": 176.24
+          "price": 180.86
         },
         {
           "ratio": 1,
-          "price": 142.0
+          "price": 157.0
         }
       ],
       "candles": [
@@ -11239,15 +11239,15 @@
         },
         {
           "date": "2026-09-22",
-          "score": 0
+          "score": 1
         },
         {
           "date": "2026-09-23",
-          "score": 0
+          "score": 1
         },
         {
           "date": "2026-09-24",
-          "score": 0
+          "score": 1
         }
       ]
     },
