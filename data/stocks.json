@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25 11:50",
+  "updated": "2026-09-28 08:38",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -10882,8 +10882,8 @@
       "sector": "半導體",
       "currentPrice": 229.0,
       "change": 0.22,
-      "high": 268.5,
-      "low": 157.0,
+      "high": 302.0,
+      "low": 142.0,
       "k": 69.1,
       "d": 61.2,
       "kd": 69.1,
@@ -10895,95 +10895,95 @@
       "kRising": false,
       "volSurge": false,
       "avgVol20": 5202,
-      "hitFib": 0.382,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
-          "price": 268.5
+          "price": 302.0
         },
         {
           "ratio": 0.236,
-          "price": 242.19
+          "price": 264.24
         },
         {
           "ratio": 0.382,
-          "price": 225.91
+          "price": 240.88
         },
         {
           "ratio": 0.5,
-          "price": 212.75
+          "price": 222.0
         },
         {
           "ratio": 0.618,
-          "price": 199.59
+          "price": 203.12
         },
         {
           "ratio": 0.786,
-          "price": 180.86
+          "price": 176.24
         },
         {
           "ratio": 1,
-          "price": 157.0
+          "price": 142.0
         }
       ],
       "fibLevels60": [
         {
           "ratio": 0,
-          "price": 268.5
+          "price": 302.0
         },
         {
           "ratio": 0.236,
-          "price": 242.19
+          "price": 264.24
         },
         {
           "ratio": 0.382,
-          "price": 225.91
+          "price": 240.88
         },
         {
           "ratio": 0.5,
-          "price": 212.75
+          "price": 222.0
         },
         {
           "ratio": 0.618,
-          "price": 199.59
+          "price": 203.12
         },
         {
           "ratio": 0.786,
-          "price": 180.86
+          "price": 176.24
         },
         {
           "ratio": 1,
-          "price": 157.0
+          "price": 142.0
         }
       ],
       "fibLevels120": [
         {
           "ratio": 0,
-          "price": 268.5
+          "price": 302.0
         },
         {
           "ratio": 0.236,
-          "price": 242.19
+          "price": 264.24
         },
         {
           "ratio": 0.382,
-          "price": 225.91
+          "price": 240.88
         },
         {
           "ratio": 0.5,
-          "price": 212.75
+          "price": 222.0
         },
         {
           "ratio": 0.618,
-          "price": 199.59
+          "price": 203.12
         },
         {
           "ratio": 0.786,
-          "price": 180.86
+          "price": 176.24
         },
         {
           "ratio": 1,
-          "price": 157.0
+          "price": 142.0
         }
       ],
       "candles": [
@@ -11239,15 +11239,15 @@
         },
         {
           "date": "2026-09-22",
-          "score": 1
+          "score": 0
         },
         {
           "date": "2026-09-23",
-          "score": 1
+          "score": 0
         },
         {
           "date": "2026-09-24",
-          "score": 1
+          "score": 0
         }
       ]
     },
@@ -12383,7 +12383,7 @@
       "currentPrice": 120.5,
       "change": 4.33,
       "high": 194.5,
-      "low": 36.0,
+      "low": 38.35,
       "k": 71.5,
       "d": 63.6,
       "kd": 71.5,
@@ -15007,7 +15007,7 @@
       "sector": "封裝設備",
       "currentPrice": 1010.0,
       "change": -3.81,
-      "high": 1652.47,
+      "high": 1637.67,
       "low": 737.0,
       "k": 13.0,
       "d": 19.2,
@@ -37507,7 +37507,7 @@
       "sector": "電機",
       "currentPrice": 196.0,
       "change": -0.25,
-      "high": 269.5,
+      "high": 246.5,
       "low": 181.0,
       "k": 15.6,
       "d": 18.2,
