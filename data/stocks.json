@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 09:43",
+  "updated": "2026-11-12 12:41",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -3394,7 +3394,7 @@
       "deathCross": true,
       "kRising": false,
       "volSurge": true,
-      "avgVol20": 14741,
+      "avgVol20": 14748,
       "hitFib": null,
       "fibLevels": [
         {
@@ -3725,7 +3725,7 @@
           "high": 296.0,
           "low": 278.5,
           "close": 278.5,
-          "volume": 32762
+          "volume": 32912
         }
       ],
       "scoreHistory": [
@@ -5644,7 +5644,7 @@
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
-      "avgVol20": 5633,
+      "avgVol20": 5636,
       "hitFib": null,
       "fibLevels": [
         {
@@ -5975,7 +5975,7 @@
           "high": 1715.0,
           "low": 1550.0,
           "close": 1570.0,
-          "volume": 4752
+          "volume": 4823
         }
       ],
       "scoreHistory": [
@@ -40882,7 +40882,7 @@
       "sector": "傳產",
       "currentPrice": 29.3,
       "change": -0.68,
-      "high": 32.85,
+      "high": 34.6,
       "low": 28.55,
       "k": 26.2,
       "d": 27.0,
