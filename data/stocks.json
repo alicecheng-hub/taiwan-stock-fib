@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17 13:12",
+  "updated": "2026-11-17 16:03",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -44255,22 +44255,22 @@
       "code": "5478",
       "name": "智冠",
       "sector": "傳產",
-      "currentPrice": 95.4,
-      "change": -1.04,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 109.5,
       "low": 90.6,
-      "k": 69.0,
-      "d": 61.4,
-      "kd": 69.0,
-      "ma5": 95.66,
-      "ma20": 96.13,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
       "avgVol20": 73,
-      "hitFib": 0.382,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -44596,10 +44596,10 @@
         },
         {
           "date": "2026-11-17",
-          "open": 96.1,
-          "high": 97.0,
-          "low": 95.4,
-          "close": 95.4,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 54
         }
       ],
@@ -44622,7 +44622,7 @@
         },
         {
           "date": "2026-11-17",
-          "score": 1
+          "score": 0
         }
       ]
     },
@@ -45005,18 +45005,18 @@
       "code": "6147",
       "name": "頃邦",
       "sector": "傳產",
-      "currentPrice": 141.5,
-      "change": -8.41,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 278.0,
       "low": 113.5,
-      "k": 29.1,
-      "d": 33.3,
-      "kd": 29.1,
-      "ma5": 161.5,
-      "ma20": 181.1,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
       "goldenCross": false,
-      "deathCross": true,
+      "deathCross": false,
       "kRising": false,
       "volSurge": false,
       "avgVol20": 20801,
@@ -45028,27 +45028,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 214.75
+          "price": 215.34
         },
         {
           "ratio": 0.382,
-          "price": 200.37
+          "price": 201.33
         },
         {
           "ratio": 0.5,
-          "price": 188.75
+          "price": 190.0
         },
         {
           "ratio": 0.618,
-          "price": 177.13
+          "price": 178.67
         },
         {
           "ratio": 0.786,
-          "price": 160.58
+          "price": 162.54
         },
         {
           "ratio": 1,
-          "price": 139.5
+          "price": 142.0
         }
       ],
       "fibLevels60": [
@@ -45058,27 +45058,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 214.75
+          "price": 215.34
         },
         {
           "ratio": 0.382,
-          "price": 200.37
+          "price": 201.33
         },
         {
           "ratio": 0.5,
-          "price": 188.75
+          "price": 190.0
         },
         {
           "ratio": 0.618,
-          "price": 177.13
+          "price": 178.67
         },
         {
           "ratio": 0.786,
-          "price": 160.58
+          "price": 162.54
         },
         {
           "ratio": 1,
-          "price": 139.5
+          "price": 142.0
         }
       ],
       "fibLevels120": [
@@ -45088,27 +45088,27 @@
         },
         {
           "ratio": 0.236,
-          "price": 214.75
+          "price": 215.34
         },
         {
           "ratio": 0.382,
-          "price": 200.37
+          "price": 201.33
         },
         {
           "ratio": 0.5,
-          "price": 188.75
+          "price": 190.0
         },
         {
           "ratio": 0.618,
-          "price": 177.13
+          "price": 178.67
         },
         {
           "ratio": 0.786,
-          "price": 160.58
+          "price": 162.54
         },
         {
           "ratio": 1,
-          "price": 139.5
+          "price": 142.0
         }
       ],
       "candles": [
@@ -45346,10 +45346,10 @@
         },
         {
           "date": "2026-11-17",
-          "open": 147.5,
-          "high": 152.0,
-          "low": 139.5,
-          "close": 141.5,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 27082
         }
       ],
@@ -45372,7 +45372,7 @@
         },
         {
           "date": "2026-11-17",
-          "score": 1
+          "score": 0
         }
       ]
     },
