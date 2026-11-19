@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19 13:04",
+  "updated": "2026-11-19 15:49",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -34882,7 +34882,7 @@
       "sector": "鋼鐵",
       "currentPrice": 45.8,
       "change": -1.4,
-      "high": 51.7,
+      "high": 52.3,
       "low": 38.2,
       "k": 29.6,
       "d": 33.7,
@@ -34895,95 +34895,95 @@
       "kRising": false,
       "volSurge": true,
       "avgVol20": 16754,
-      "hitFib": 0.618,
+      "hitFib": 0.786,
       "fibLevels": [
         {
           "ratio": 0,
-          "price": 51.7
+          "price": 52.3
         },
         {
           "ratio": 0.236,
-          "price": 49.41
+          "price": 50.25
         },
         {
           "ratio": 0.382,
-          "price": 47.99
+          "price": 48.98
         },
         {
           "ratio": 0.5,
-          "price": 46.85
+          "price": 47.95
         },
         {
           "ratio": 0.618,
-          "price": 45.71
+          "price": 46.92
         },
         {
           "ratio": 0.786,
-          "price": 44.08
+          "price": 45.46
         },
         {
           "ratio": 1,
-          "price": 42.0
+          "price": 43.6
         }
       ],
       "fibLevels60": [
         {
           "ratio": 0,
-          "price": 51.7
+          "price": 52.3
         },
         {
           "ratio": 0.236,
-          "price": 49.41
+          "price": 50.25
         },
         {
           "ratio": 0.382,
-          "price": 47.99
+          "price": 48.98
         },
         {
           "ratio": 0.5,
-          "price": 46.85
+          "price": 47.95
         },
         {
           "ratio": 0.618,
-          "price": 45.71
+          "price": 46.92
         },
         {
           "ratio": 0.786,
-          "price": 44.08
+          "price": 45.46
         },
         {
           "ratio": 1,
-          "price": 42.0
+          "price": 43.6
         }
       ],
       "fibLevels120": [
         {
           "ratio": 0,
-          "price": 51.7
+          "price": 52.3
         },
         {
           "ratio": 0.236,
-          "price": 49.41
+          "price": 50.25
         },
         {
           "ratio": 0.382,
-          "price": 47.99
+          "price": 48.98
         },
         {
           "ratio": 0.5,
-          "price": 46.85
+          "price": 47.95
         },
         {
           "ratio": 0.618,
-          "price": 45.71
+          "price": 46.92
         },
         {
           "ratio": 0.786,
-          "price": 44.08
+          "price": 45.46
         },
         {
           "ratio": 1,
-          "price": 42.0
+          "price": 43.6
         }
       ],
       "candles": [
@@ -35231,11 +35231,11 @@
       "scoreHistory": [
         {
           "date": "2026-11-13",
-          "score": 2
+          "score": 1
         },
         {
           "date": "2026-11-16",
-          "score": 1
+          "score": 2
         },
         {
           "date": "2026-11-17",
