@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 13:54",
+  "updated": "2026-11-27 16:41",
   "stocks": {
     "0050": {
       "code": "0050",
@@ -12380,19 +12380,19 @@
       "code": "6182",
       "name": "合晶",
       "sector": "半導體",
-      "currentPrice": 63.3,
-      "change": -1.25,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 194.5,
       "low": 52.4,
-      "k": 33.4,
-      "d": 26.4,
-      "kd": 33.4,
-      "ma5": 61.96,
-      "ma20": 72.9,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
-      "kRising": true,
+      "kRising": false,
       "volSurge": false,
       "avgVol20": 24470,
       "hitFib": null,
@@ -12721,10 +12721,10 @@
         },
         {
           "date": "2026-11-27",
-          "open": 65.1,
-          "high": 66.0,
-          "low": 62.7,
-          "close": 63.3,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 15185
         }
       ],
@@ -12747,7 +12747,7 @@
         },
         {
           "date": "2026-11-27",
-          "score": 1
+          "score": 0
         }
       ]
     },
@@ -14630,19 +14630,19 @@
       "code": "6187",
       "name": "萬潤",
       "sector": "封裝設備",
-      "currentPrice": 693.0,
-      "change": -3.08,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 1680.0,
       "low": 576.0,
-      "k": 33.4,
-      "d": 24.3,
-      "kd": 33.4,
-      "ma5": 701.4,
-      "ma20": 864.2,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
-      "kRising": true,
+      "kRising": false,
       "volSurge": false,
       "avgVol20": 2328,
       "hitFib": null,
@@ -14971,10 +14971,10 @@
         },
         {
           "date": "2026-11-27",
-          "open": 715.0,
-          "high": 732.0,
-          "low": 682.0,
-          "close": 693.0,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 2721
         }
       ],
@@ -14997,7 +14997,7 @@
         },
         {
           "date": "2026-11-27",
-          "score": 1
+          "score": 0
         }
       ]
     },
@@ -15005,15 +15005,15 @@
       "code": "6640",
       "name": "均華",
       "sector": "封裝設備",
-      "currentPrice": 658.0,
-      "change": -1.94,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 1320.0,
       "low": 525.0,
-      "k": 44.2,
-      "d": 32.1,
-      "kd": 44.2,
-      "ma5": 638.2,
-      "ma20": 731.3,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
@@ -15346,10 +15346,10 @@
         },
         {
           "date": "2026-11-27",
-          "open": 673.0,
-          "high": 674.0,
-          "low": 656.0,
-          "close": 658.0,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 71
         }
       ],
@@ -15380,19 +15380,19 @@
       "code": "8027",
       "name": "鈦昇",
       "sector": "封裝設備",
-      "currentPrice": 107.5,
-      "change": -1.38,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 261.0,
       "low": 91.0,
-      "k": 30.1,
-      "d": 23.5,
-      "kd": 30.1,
-      "ma5": 105.36,
-      "ma20": 127.79,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
-      "kRising": true,
+      "kRising": false,
       "volSurge": false,
       "avgVol20": 1506,
       "hitFib": null,
@@ -15721,10 +15721,10 @@
         },
         {
           "date": "2026-11-27",
-          "open": 111.0,
-          "high": 112.5,
-          "low": 105.5,
-          "close": 107.5,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 1355
         }
       ],
@@ -15747,7 +15747,7 @@
         },
         {
           "date": "2026-11-27",
-          "score": 1
+          "score": 0
         }
       ]
     },
@@ -16130,22 +16130,22 @@
       "code": "5443",
       "name": "均豪",
       "sector": "封裝設備",
-      "currentPrice": 71.5,
-      "change": -1.38,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 127.0,
       "low": 58.4,
-      "k": 43.4,
-      "d": 33.4,
-      "kd": 43.4,
-      "ma5": 70.12,
-      "ma20": 79.23,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
       "avgVol20": 977,
-      "hitFib": 0.786,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -16471,10 +16471,10 @@
         },
         {
           "date": "2026-11-27",
-          "open": 71.8,
-          "high": 73.3,
-          "low": 71.2,
-          "close": 71.5,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 352
         }
       ],
@@ -16497,7 +16497,7 @@
         },
         {
           "date": "2026-11-27",
-          "score": 1
+          "score": 0
         }
       ]
     },
@@ -20630,15 +20630,15 @@
       "code": "6203",
       "name": "海韻電",
       "sector": "散熱",
-      "currentPrice": 44.45,
-      "change": -4.31,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 66.21,
       "low": 41.0,
-      "k": 46.3,
-      "d": 40.2,
-      "kd": 46.3,
-      "ma5": 46.32,
-      "ma20": 48.6,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
@@ -20971,10 +20971,10 @@
         },
         {
           "date": "2026-11-27",
-          "open": 45.0,
-          "high": 45.5,
-          "low": 44.3,
-          "close": 44.45,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 74
         }
       ],
@@ -22130,17 +22130,17 @@
       "code": "4909",
       "name": "新復興",
       "sector": "PCB",
-      "currentPrice": 30.1,
-      "change": 9.85,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 50.9,
       "low": 22.5,
-      "k": 50.9,
-      "d": 37.7,
-      "kd": 50.9,
-      "ma5": 26.8,
-      "ma20": 29.07,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
-      "goldenCross": true,
+      "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": true,
@@ -22471,10 +22471,10 @@
         },
         {
           "date": "2026-11-27",
-          "open": 27.7,
-          "high": 30.0,
-          "low": 27.65,
-          "close": 30.1,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 2023
         }
       ],
@@ -22497,7 +22497,7 @@
         },
         {
           "date": "2026-11-27",
-          "score": 2
+          "score": 1
         }
       ]
     },
@@ -27755,19 +27755,19 @@
       "code": "1815",
       "name": "富喬",
       "sector": "玻纖布",
-      "currentPrice": 103.5,
-      "change": -3.72,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 161.5,
       "low": 56.07,
-      "k": 29.2,
-      "d": 27.2,
-      "kd": 29.2,
-      "ma5": 105.5,
-      "ma20": 121.4,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
-      "goldenCross": true,
+      "goldenCross": false,
       "deathCross": false,
-      "kRising": true,
+      "kRising": false,
       "volSurge": false,
       "avgVol20": 100856,
       "hitFib": null,
@@ -28096,10 +28096,10 @@
         },
         {
           "date": "2026-11-27",
-          "open": 107.5,
-          "high": 111.0,
-          "low": 103.0,
-          "close": 103.5,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 48626
         }
       ],
@@ -28122,7 +28122,7 @@
         },
         {
           "date": "2026-11-27",
-          "score": 3
+          "score": 0
         }
       ]
     },
@@ -44255,22 +44255,22 @@
       "code": "5478",
       "name": "智冠",
       "sector": "傳產",
-      "currentPrice": 96.5,
-      "change": -0.72,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 107.5,
       "low": 90.6,
-      "k": 60.9,
-      "d": 57.9,
-      "kd": 60.9,
-      "ma5": 96.82,
-      "ma20": 95.59,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
       "kRising": false,
       "volSurge": false,
       "avgVol20": 114,
-      "hitFib": 0.236,
+      "hitFib": null,
       "fibLevels": [
         {
           "ratio": 0,
@@ -44596,10 +44596,10 @@
         },
         {
           "date": "2026-11-27",
-          "open": 96.8,
-          "high": 97.2,
-          "low": 96.0,
-          "close": 96.5,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 75
         }
       ],
@@ -44622,7 +44622,7 @@
         },
         {
           "date": "2026-11-27",
-          "score": 1
+          "score": 0
         }
       ]
     },
@@ -45005,19 +45005,19 @@
       "code": "6147",
       "name": "頃邦",
       "sector": "傳產",
-      "currentPrice": 129.5,
-      "change": -1.89,
+      "currentPrice": NaN,
+      "change": NaN,
       "high": 278.0,
       "low": 108.5,
-      "k": 34.5,
-      "d": 26.9,
-      "kd": 34.5,
-      "ma5": 128.7,
-      "ma20": 150.1,
+      "k": NaN,
+      "d": NaN,
+      "kd": NaN,
+      "ma5": NaN,
+      "ma20": NaN,
       "maGolden": false,
       "goldenCross": false,
       "deathCross": false,
-      "kRising": true,
+      "kRising": false,
       "volSurge": false,
       "avgVol20": 18467,
       "hitFib": null,
@@ -45346,10 +45346,10 @@
         },
         {
           "date": "2026-11-27",
-          "open": 132.0,
-          "high": 135.5,
-          "low": 128.0,
-          "close": 129.5,
+          "open": NaN,
+          "high": NaN,
+          "low": NaN,
+          "close": NaN,
           "volume": 9306
         }
       ],
@@ -45372,7 +45372,7 @@
         },
         {
           "date": "2026-11-27",
-          "score": 1
+          "score": 0
         }
       ]
     },
